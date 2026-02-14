@@ -1,7 +1,7 @@
 # Liga Portugal Attendance Scraper
 
-Scrapes **attendance** and **stadium capacity** from **FotMob API** for **Liga Portugal Betclic**
-(2022-2026). **1100+ matches** processed.
+Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betclic
+(2022-2026). 1100+ matches processed.
 
 ## 🔗 Data Source
 
