@@ -150,6 +150,7 @@ def process_matches(df, season):
     cols = ['Round', 'Date', 'Day_of_Week', 'Home', 'Away', 'Attendance', 'Capacity', 'Pct_Full']
     
     df_final = pd.concat([existing_data, df_new[cols]], ignore_index=True)
+
     print(f"\n{len(df_new)} new matches ADDED!")
     
     # SAVE EVERYTHING
@@ -161,7 +162,7 @@ def process_matches(df, season):
 if __name__ == "__main__":
     print("")
     print("="*60)
-    print("LIGA PORTUGAL - RECENT SEASONS")
+    print("LIGA PORTUGAL - Data Scraping")
     print("="*60)
     
     # TEST MODE: Process the first N matches (TEST_MODE = False to process all)
