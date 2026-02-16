@@ -4,7 +4,7 @@ from datetime import datetime
 
 def load_clean_data():
     """Load clean dataset"""
-    print("="*70)
+    print("\n" + "="*70)
     print("FEATURE ENGINEERING - LIGA PORTUGAL")
     print("="*70)
     print("\nLoading clean data...")
@@ -82,27 +82,49 @@ def create_historical_features(df):
     
     return df
 
+def create_matchup_features(df):
+    """Create matchup-specific features (captures rivalries)"""
+    print("\nCreating matchup features...")
+    
+    # Create matchup identifier
+    df['Matchup'] = df['Home'] + ' vs ' + df['Away']
+    
+    # Historical average for THIS specific matchup (WITHOUT DATA LEAKAGE)
+    df['Matchup_Avg_Attendance'] = df.groupby('Matchup')['Attendance'].transform(
+        lambda x: x.expanding().mean().shift(1)  # Only past games of this matchup
+    )
+    
+    # Fill NaN with Home_Avg_Attendance (fallback for first matchup)
+    df['Matchup_Avg_Attendance'] = df['Matchup_Avg_Attendance'].fillna(df['Home_Avg_Attendance'])
+    
+    # Convert to int
+    df['Matchup_Avg_Attendance'] = df['Matchup_Avg_Attendance'].round().astype(int)
+    
+    print("  ✓ Matchup features created (captures rivalries)")
+    
+    return df
+
 def select_final_features(df):
     """Select final features for modeling"""
     print("\nSelecting final features...")
     
     feature_cols = [
-        # Target (first)
+        # Target 
         'Attendance',
         
-        # Identifiers (not used in model but useful for analysis)
+        # Identifiers
         'Date',
         'Home',
         'Away',
-        'Round',
         
-        # Features for modeling (6 total)
-        'Home_Avg_Attendance',   # Historical average
-        'Home_Last3_Avg',        # Recent form
-        'Home_Is_Big3',          # Home team is big
-        'Away_Is_Big3',          # Away team is big
-        'Day_Type',              # Weekend/Weekday/Rare
-        'Round_Num'              # Stage of season
+        # Features for modeling 
+        'Home_Avg_Attendance',      
+        'Home_Last3_Avg',           
+        'Matchup_Avg_Attendance',   
+        'Home_Is_Big3',             
+        'Away_Is_Big3',             
+        'Day_Type',                 
+        'Round_Num'                 
     ]
     
     df_final = df[feature_cols].copy()
@@ -118,10 +140,10 @@ def show_summary(df):
     print("-"*70)
     
     print(f"\nDataset: {len(df)} matches")
-    print(f"Features: 6 (for modeling)")
+    print(f"Features: 7 (for modeling)")
     
     print(f"\nFeature breakdown:")
-    print(f"  • Historical: 2 (Home_Avg_Attendance, Home_Last3_Avg)")
+    print(f"  • Historical: 3 (Home_Avg, Home_Last3, Matchup_Avg)")
     print(f"  • Team: 2 (Home_Is_Big3, Away_Is_Big3)")
     print(f"  • Temporal: 2 (Day_Type, Round_Num)")
     
@@ -138,6 +160,7 @@ def show_summary(df):
     print(f"\nHistorical features (int):")
     print(f"  • Home avg range: {df['Home_Avg_Attendance'].min():,d} - {df['Home_Avg_Attendance'].max():,d}")
     print(f"  • Last 3 avg range: {df['Home_Last3_Avg'].min():,d} - {df['Home_Last3_Avg'].max():,d}")
+    print(f"  • Matchup avg range: {df['Matchup_Avg_Attendance'].min():,d} - {df['Matchup_Avg_Attendance'].max():,d}")
     
     print(f"\nTarget (Attendance):")
     print(f"  • Mean: {df['Attendance'].mean():,.0f}")
@@ -152,6 +175,7 @@ if __name__ == "__main__":
     df = create_temporal_features(df)
     df = create_team_features(df)
     df = create_historical_features(df)
+    df = create_matchup_features(df)
     
     # Select final
     df_final = select_final_features(df)
