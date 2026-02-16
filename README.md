@@ -16,6 +16,8 @@ Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betcli
   attendance numbers go over capacity numbers, but it doesn't affect forecast.
   Capacity numbers are just not uptaded for some stadiums.
 
+- Match Santa Clara vs Moreirense (2025-03-09) has no attendance data.
+
 ## How to use
 
 ```bash
