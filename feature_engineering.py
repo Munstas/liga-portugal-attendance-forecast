@@ -4,20 +4,19 @@ from datetime import datetime
 
 def load_clean_data():
     """Load clean dataset"""
+    print("\n" + "="*70)
+    print("FEATURE ENGINEERING - LIGA PORTUGAL")
     print("="*70)
-    print("LOADING CLEAN DATA")
-    print("="*70)
+    print("\nLoading clean data...")
     
     df = pd.read_csv('data/liga_portugal_clean.csv')
-    print(f"Total matches: {len(df)}")
+    print(f"✓ {len(df)} matches loaded")
     
     return df
 
 def create_temporal_features(df):
     """Create time-based features"""
-    print("\n" + "="*70)
-    print("CREATING TEMPORAL FEATURES")
-    print("="*70)
+    print("\nCreating temporal features...")
     
     # Parse date
     df['Date_parsed'] = pd.to_datetime(df['Date'])
@@ -30,17 +29,17 @@ def create_temporal_features(df):
     def get_season(date):
         year = date.year
         month = date.month
-        if month >= 8:  # Aug-Dec
+        if month >= 8:
             return f"{year}-{year+1}"
-        else:  # Jan-May
+        else:
             return f"{year-1}-{year}"
     
     df['Season'] = df['Date_parsed'].apply(get_season)
     
-    # Weekend flag (Fri, Sat, Sun have most games)
+    # Weekend flag
     df['Is_Weekend'] = df['Day_of_Week'].isin(['Fri', 'Sat', 'Sun']).astype(int)
     
-    # Day group (ignore Tue/Wed/Thu - too few samples)
+    # Day group
     df['Day_Group'] = df['Day_of_Week'].map({
         'Fri': 'weekend',
         'Sat': 'weekend',
@@ -54,122 +53,112 @@ def create_temporal_features(df):
     # Round number
     df['Round_Num'] = pd.to_numeric(df['Round'], errors='coerce')
     
-    # Season phase (first half vs second half)
-    df['Season_Phase'] = (df['Round_Num'] > 17).astype(int)  # 0 = first half, 1 = second half
+    # Season phase
+    df['Season_Phase'] = (df['Round_Num'] > 17).astype(int)
     
-    print(f"✓ Created temporal features")
+    print("  ✓ Temporal features created")
     
     return df
 
 def create_team_features(df):
     """Create team-based features"""
-    print("\n" + "="*70)
-    print("CREATING TEAM FEATURES")
-    print("="*70)
+    print("\nCreating team features...")
     
     # Big 3 teams
     big_3 = ['Benfica', 'FC Porto', 'Sporting CP']
     df['Home_Is_Big3'] = df['Home'].isin(big_3).astype(int)
     df['Away_Is_Big3'] = df['Away'].isin(big_3).astype(int)
     
-    # Derby (Big3 vs Big3)
+    # Derby
     df['Is_Derby'] = (df['Home_Is_Big3'] == 1) & (df['Away_Is_Big3'] == 1)
     df['Is_Derby'] = df['Is_Derby'].astype(int)
     
-    # Big vs Small (Big3 home vs small team)
+    # Big vs Small
     df['Big_Home_Small_Away'] = (df['Home_Is_Big3'] == 1) & (df['Away_Is_Big3'] == 0)
     df['Big_Home_Small_Away'] = df['Big_Home_Small_Away'].astype(int)
     
-    print(f"✓ Created team features")
+    print("  ✓ Team features created")
     
     return df
 
 def create_historical_features(df):
     """Create historical average features"""
-    print("\n" + "="*70)
-    print("CREATING HISTORICAL FEATURES")
-    print("="*70)
+    print("\nCreating historical features...")
     
     # Sort by date
     df = df.sort_values('Date_parsed').reset_index(drop=True)
     
-    # Home team historical average (expanding mean - only past games)
+    # Home team historical average
     df['Home_Avg_Attendance'] = df.groupby('Home')['Attendance'].transform(
-        lambda x: x.expanding().mean().shift(1)  # shift(1) = exclude current game
+        lambda x: x.expanding().mean().shift(1)
     )
     
-    # Away team effect (how much attendance they attract)
-    # Calculate average attendance when this team plays AWAY
+    # Away team effect
     away_avg = df.groupby('Away')['Attendance'].mean().to_dict()
     df['Away_Team_Draw'] = df['Away'].map(away_avg)
     
-    # Fill NaN (first games of each team) with overall mean
+    # Fill NaN (fix warning)
     overall_mean = df['Attendance'].mean()
-    df['Home_Avg_Attendance'].fillna(overall_mean, inplace=True)
-    df['Away_Team_Draw'].fillna(overall_mean, inplace=True)
+    df['Home_Avg_Attendance'] = df['Home_Avg_Attendance'].fillna(overall_mean)
+    df['Away_Team_Draw'] = df['Away_Team_Draw'].fillna(overall_mean)
     
-    # Recent form (last 3 home games average)
+    # Recent form
     df['Home_Last3_Avg'] = df.groupby('Home')['Attendance'].transform(
         lambda x: x.rolling(window=3, min_periods=1).mean().shift(1)
     )
-    df['Home_Last3_Avg'].fillna(overall_mean, inplace=True)
+    df['Home_Last3_Avg'] = df['Home_Last3_Avg'].fillna(overall_mean)
     
-    print(f"✓ Created historical features")
+    print("  ✓ Historical features created")
     
     return df
 
 def create_matchup_features(df):
     """Create specific matchup features"""
-    print("\n" + "="*70)
-    print("CREATING MATCHUP FEATURES")
-    print("="*70)
+    print("\nCreating matchup features...")
     
-    # Create matchup identifier
+    # Matchup identifier
     df['Matchup'] = df['Home'] + ' vs ' + df['Away']
     
-    # Historical average for this specific matchup
+    # Historical average for matchup
     matchup_avg = df.groupby('Matchup')['Attendance'].mean().to_dict()
     df['Matchup_Historical_Avg'] = df['Matchup'].map(matchup_avg)
     
-    # Count of times this matchup happened before
+    # Matchup count
     df['Matchup_Count'] = df.groupby('Matchup').cumcount()
     
-    print(f"✓ Created matchup features")
+    print("  ✓ Matchup features created")
     
     return df
 
 def select_final_features(df):
     """Select and order final features"""
-    print("\n" + "="*70)
-    print("SELECTING FINAL FEATURES")
-    print("="*70)
+    print("\nSelecting final features...")
     
-    # Features for modeling
     feature_cols = [
         # Target
         'Attendance',
         
-        # Identifiers (not used in model but useful)
+        # Identifiers
         'Date',
         'Season',
         'Home',
         'Away',
         'Round',
         
-        # Temporal features
+        # Temporal
         'Month',
         'Is_Weekend',
         'Day_Group',
         'Round_Num',
         'Season_Phase',
         
-        # Team features
+        # Team
         'Home_Is_Big3',
         'Away_Is_Big3',
         'Is_Derby',
         'Big_Home_Small_Away',
         
-        # Historical features
+        # Historical
         'Home_Avg_Attendance',
         'Away_Team_Draw',
         'Home_Last3_Avg',
@@ -179,41 +168,34 @@ def select_final_features(df):
     
     df_final = df[feature_cols].copy()
     
-    print(f"✓ Selected {len(feature_cols)} columns")
-    print(f"✓ Features: {len(feature_cols) - 6} (excluding target + identifiers)")
+    print(f"  ✓ {len(feature_cols)} columns selected")
     
     return df_final
 
-def show_feature_summary(df):
-    """Show summary of created features"""
-    print("\n" + "="*70)
-    print("FEATURE SUMMARY")
-    print("="*70)
+def show_summary(df):
+    """Show summary"""
+    print("\n" + "-"*70)
+    print("SUMMARY")
+    print("-"*70)
     
-    print("\n📅 TEMPORAL:")
-    print(f"  - Month: {df['Month'].nunique()} unique values")
-    print(f"  - Weekend games: {df['Is_Weekend'].sum()} ({df['Is_Weekend'].sum()/len(df)*100:.1f}%)")
-    print(f"  - Day groups: {df['Day_Group'].value_counts().to_dict()}")
+    print(f"\nDataset: {len(df)} matches")
+    print(f"Features: 14 (excluding target + identifiers)")
     
-    print("\n🏟️ TEAM FEATURES:")
-    print(f"  - Big3 home games: {df['Home_Is_Big3'].sum()}")
-    print(f"  - Big3 away games: {df['Away_Is_Big3'].sum()}")
-    print(f"  - Derbies: {df['Is_Derby'].sum()}")
+    print(f"\nTemporal:")
+    print(f"  • Weekend games: {df['Is_Weekend'].sum()} ({df['Is_Weekend'].sum()/len(df)*100:.1f}%)")
+    print(f"  • Months covered: {df['Month'].nunique()}")
     
-    print("\n📊 HISTORICAL:")
-    print(f"  - Home avg attendance range: {df['Home_Avg_Attendance'].min():.0f} - {df['Home_Avg_Attendance'].max():.0f}")
-    print(f"  - Away team draw range: {df['Away_Team_Draw'].min():.0f} - {df['Away_Team_Draw'].max():.0f}")
+    print(f"\nTeams:")
+    print(f"  • Big3 home games: {df['Home_Is_Big3'].sum()}")
+    print(f"  • Derbies: {df['Is_Derby'].sum()}")
     
-    print("\n🎯 TARGET:")
-    print(f"  - Attendance range: {df['Attendance'].min():,d} - {df['Attendance'].max():,d}")
-    print(f"  - Attendance mean: {df['Attendance'].mean():,.0f}")
+    print(f"\nTarget (Attendance):")
+    print(f"  • Mean: {df['Attendance'].mean():,.0f}")
+    print(f"  • Range: {df['Attendance'].min():,d} - {df['Attendance'].max():,d}")
 
 if __name__ == "__main__":
-    print("="*70)
-    print("FEATURE ENGINEERING - LIGA PORTUGAL")
-    print("="*70)
     
-    # Load data
+    # Load
     df = load_clean_data()
     
     # Create features
@@ -222,19 +204,14 @@ if __name__ == "__main__":
     df = create_historical_features(df)
     df = create_matchup_features(df)
     
-    # Select final features
+    # Select
     df_final = select_final_features(df)
     
-    # Show summary
-    show_feature_summary(df_final)
+    # Summary
+    show_summary(df_final)
     
     # Save
     output_file = 'data/liga_portugal_features.csv'
     df_final.to_csv(output_file, index=False, encoding='utf-8')
     
-    print("\n" + "="*70)
-    print("FEATURE ENGINEERING COMPLETE!")
-    print("="*70)
-    print(f"\nFile created:")
-    print(f"  - {output_file}")
-    print(f"\nDataset ready for modeling: {len(df_final)} matches, {len(df_final.columns)-6} features")
+    print(f"\n✓ Saved: {output_file}")
