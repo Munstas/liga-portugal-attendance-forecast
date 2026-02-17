@@ -157,6 +157,9 @@ def predict_all_upcoming():
     
     print(f"✓ Predicted {len(predictions)} upcoming matches")
     print(f"✓ Saved to: {output_path}")
+    print(f"\nOther commands:")
+    print(f"  python predict.py custom  - Predict a specific match")
+    print(f"  python predict.py teams   - Show all available teams and their averages")
 
 def predict_custom():
     """Interactive custom prediction"""
@@ -236,5 +239,4 @@ if __name__ == "__main__":
             print("Unknown command")
             print("Usage: python predict.py [custom|teams]")
     else:
-        # Default: predict all upcoming
         predict_all_upcoming()

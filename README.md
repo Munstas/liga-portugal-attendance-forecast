@@ -1,7 +1,7 @@
 # Liga Portugal Attendance Forecast
 
-Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betclic (2022-2026)
-and predicts attendance in future matches.
+Scrapes football matches attendance data from FotMob API for Liga Portugal Betclic (2022-2026)
+and predicts attendance for future matches.
 
 ## Data Source
 
