@@ -3,7 +3,7 @@
 Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betclic (2022-2026)
 and predicts attendance in future matches.
 
-## 🔗 Data Source
+## Data Source
 
 **FotMob API** - https://www.fotmob.com
 
@@ -14,7 +14,7 @@ and predicts attendance in future matches.
 
 - In matches Sporting CP vs FC Porto (2025-08-30) and Farense vs FC Porto (2025-02-16)
   attendance numbers go over capacity numbers, but it doesn't affect forecast.
-  Capacity numbers are just not uptaded for some stadiums.
+  Capacity numbers are just not updated for some stadiums.
 
 - Match Santa Clara vs Moreirense (2025-03-09) has no attendance data.
 
