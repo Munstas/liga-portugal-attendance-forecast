@@ -22,9 +22,9 @@ Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betcli
 
 ```bash
 pip install -r requirements.txt
-python scraper.py
+python predict.py
 ```
 
-## To do
+## Possible future changes
 
-Train model to predict attendace in future matches
+Get more data and feed it to model to get better predictions
