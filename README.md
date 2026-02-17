@@ -28,6 +28,6 @@ python predict.py
 
 ## Future work
 
-Get more data for better predictions
-Automatic data updates
-Automatic data updates
+- Get more data for better predictions
+- Automatic data updates
+- Automatic data updates
