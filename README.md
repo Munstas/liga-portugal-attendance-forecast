@@ -30,4 +30,4 @@ python predict.py
 
 - Get more data for better predictions
 - Automatic data updates
-- Automatic data updates
+- Web dashboard
