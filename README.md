@@ -26,6 +26,8 @@ pip install -r requirements.txt
 python predict.py
 ```
 
-## Possible future changes
+## Future work
 
-Get more data and feed it to model to get better predictions
+Get more data for better predictions
+Automatic data updates
+Automatic data updates
