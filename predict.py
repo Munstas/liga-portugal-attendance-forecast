@@ -152,7 +152,7 @@ def predict_all_upcoming():
     
     # Save to CSV in data folder
     df_predictions = pd.DataFrame(predictions)
-    output_path = 'data/predictions_upcoming.csv'
+    output_path = 'data/predictions.csv'
     df_predictions.to_csv(output_path, index=False)
     
     print(f"✓ Predicted {len(predictions)} upcoming matches")
