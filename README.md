@@ -1,7 +1,7 @@
-# Liga Portugal Attendance Scraper
+# Liga Portugal Attendance Forecast
 
-Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betclic
-(2022-2026). 1200+ matches processed.
+Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betclic (2022-2026)
+and predicts attendance in future matches.
 
 ## 🔗 Data Source
 
@@ -21,6 +21,7 @@ Scrapes attendance and stadium capacity from FotMob API for Liga Portugal Betcli
 ## How to use
 
 ```bash
+git clone https://github.com/Munstas/liga-portugal-attendance-forecast.git
 pip install -r requirements.txt
 python predict.py
 ```
