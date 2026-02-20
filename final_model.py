@@ -82,6 +82,20 @@ def predict_attendance(home, away, round_num, day_type,
     
     return int(model.predict(features)[0])
 
+def load_final_model():
+    """Load trained model, label encoder and feature names for the dashboard."""
+    with open('model_attendance.pkl', 'rb') as f:
+        model = pickle.load(f)
+
+    with open('label_encoder.pkl', 'rb') as f:
+        le = pickle.load(f)
+
+    with open('feature_names.pkl', 'rb') as f:
+        feature_cols = pickle.load(f)
+
+    return model, le, feature_cols
+
+
 if __name__ == "__main__":
     
     model, le, features = train_and_save_model()
