@@ -22,12 +22,13 @@ and predicts attendance for future matches.
 
 ```bash
 git clone https://github.com/Munstas/liga-portugal-attendance-forecast.git
+cd liga-portugal-attendance-forecast
 pip install -r requirements.txt
-python predict.py
+Streamlit run app.py
 ```
 
 ## Future work
 
 - Get more data for better predictions
 - Automatic data updates
-- Web dashboard
+- Upgrade dashboard
