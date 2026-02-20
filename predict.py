@@ -155,8 +155,8 @@ def predict_all_upcoming():
     output_path = 'data/predictions.csv'
     df_predictions.to_csv(output_path, index=False)
     
-    print(f"✓ Predicted {len(predictions)} upcoming matches")
-    print(f"✓ Saved to: {output_path}")
+    print(f"Predicted {len(predictions)} upcoming matches")
+    print(f"Saved to: {output_path}")
     print(f"\nOther commands:")
     print(f"  python predict.py custom  - Predict a specific match")
     print(f"  python predict.py teams   - Show all available teams and their averages")
