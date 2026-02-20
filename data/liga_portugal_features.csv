@@ -1,0 +1,1111 @@
+Attendance,Date,Home,Away,Home_Avg_Attendance,Home_Last3_Avg,Matchup_Avg_Attendance,Home_Is_Big3,Away_Is_Big3,Day_Type,Round_Num
+53617,2022-08-05,Benfica,Arouca,11951,11951,11951,1,0,weekend,1
+3038,2022-08-06,Rio Ave,Vizela,11951,11951,11951,0,0,weekend,1
+1473,2022-08-06,Estoril,Famalicao,11951,11951,11951,0,0,weekend,1
+46309,2022-08-06,FC Porto,Maritimo,11951,11951,11951,1,0,weekend,1
+1785,2022-08-07,Santa Clara,Casa Pia AC,11951,11951,11951,0,0,weekend,1
+17714,2022-08-07,Braga,Sporting CP,11951,11951,11951,0,1,weekend,1
+7526,2022-08-07,Chaves,Vitoria de Guimaraes,11951,11951,11951,0,0,weekend,1
+2590,2022-08-07,Portimonense,Boavista,11951,11951,11951,0,0,weekend,1
+4871,2022-08-08,Gil Vicente,Pacos de Ferreira,11951,11951,11951,0,0,weekday,1
+4637,2022-08-12,Famalicao,Braga,11951,11951,11951,0,0,weekend,2
+22253,2022-08-13,Casa Pia AC,Benfica,11951,11951,11951,0,1,weekend,2
+31760,2022-08-13,Sporting CP,Rio Ave,11951,11951,11951,1,0,weekend,2
+5520,2022-08-14,Boavista,Santa Clara,11951,11951,11951,0,0,weekend,2
+4679,2022-08-14,Vizela,FC Porto,11951,11951,11951,0,1,weekend,2
+15652,2022-08-14,Vitoria de Guimaraes,Estoril,11951,11951,11951,0,0,weekend,2
+2661,2022-08-15,Pacos de Ferreira,Portimonense,11951,11951,11951,0,0,weekday,2
+6827,2022-08-15,Maritimo,Chaves,11951,11951,11951,0,0,weekday,2
+1759,2022-08-15,Arouca,Gil Vicente,11951,11951,11951,0,0,weekday,2
+1742,2022-08-19,Estoril,Rio Ave,1473,1473,1473,0,0,weekend,3
+1172,2022-08-20,Santa Clara,Arouca,1785,1785,1785,0,0,weekend,3
+5489,2022-08-20,Chaves,Vizela,7526,7526,7526,0,0,weekend,3
+49430,2022-08-20,FC Porto,Sporting CP,46309,46309,46309,1,1,weekend,3
+1136,2022-08-21,Casa Pia AC,Boavista,22253,22253,22253,0,0,weekend,3
+12358,2022-08-21,Braga,Maritimo,17714,17714,17714,0,0,weekend,3
+3032,2022-08-21,Portimonense,Vitoria de Guimaraes,2590,2590,2590,0,0,weekend,3
+4245,2022-08-22,Gil Vicente,Famalicao,4871,4871,4871,0,0,weekday,3
+2469,2022-08-26,Pacos de Ferreira,Estoril,2661,2661,2661,0,0,weekend,4
+31408,2022-08-27,Sporting CP,Chaves,31760,31760,31760,1,0,weekend,4
+4785,2022-08-27,Maritimo,Portimonense,6827,6827,6827,0,0,weekend,4
+10939,2022-08-27,Boavista,Benfica,5520,5520,5520,0,1,weekend,4
+2348,2022-08-28,Arouca,Braga,1759,1759,1759,0,0,weekend,4
+3980,2022-08-28,Rio Ave,FC Porto,3038,3038,3038,0,1,weekend,4
+3636,2022-08-28,Famalicao,Santa Clara,4637,4637,4637,0,0,weekend,4
+14231,2022-08-29,Vitoria de Guimaraes,Casa Pia AC,15652,15652,15652,0,0,weekday,4
+2824,2022-08-29,Vizela,Gil Vicente,4679,4679,4679,0,0,weekday,4
+55151,2022-08-30,Benfica,Pacos de Ferreira,53617,53617,53617,1,0,rare,3
+47958,2022-09-02,Benfica,Vizela,54384,54384,54384,1,0,weekend,5
+4718,2022-09-02,Estoril,Sporting CP,1608,1608,1608,0,1,weekend,5
+21736,2022-09-03,Braga,Vitoria de Guimaraes,15036,15036,15036,0,0,weekend,5
+8458,2022-09-03,Gil Vicente,FC Porto,4558,4558,4558,0,1,weekend,5
+1022,2022-09-04,Casa Pia AC,Arouca,11694,11694,11694,0,0,weekend,5
+1012,2022-09-04,Santa Clara,Maritimo,1478,1478,1478,0,0,weekend,5
+1840,2022-09-04,Portimonense,Famalicao,2811,2811,2811,0,0,weekend,5
+4831,2022-09-05,Boavista,Pacos de Ferreira,8230,8230,8230,0,0,weekday,5
+2987,2022-09-05,Chaves,Rio Ave,6508,6508,6508,0,0,weekday,5
+12132,2022-09-09,Vitoria de Guimaraes,Santa Clara,14942,14942,14942,0,0,weekend,6
+44109,2022-09-10,FC Porto,Chaves,47870,47870,47870,1,0,weekend,6
+29782,2022-09-10,Sporting CP,Portimonense,31584,31584,31584,1,0,weekend,6
+4867,2022-09-10,Famalicao,Benfica,4136,4136,4136,0,1,weekend,6
+4112,2022-09-11,Pacos de Ferreira,Casa Pia AC,2565,2565,2565,0,0,weekend,6
+1395,2022-09-11,Arouca,Boavista,2054,2054,2054,0,0,weekend,6
+5032,2022-09-11,Maritimo,Gil Vicente,5806,5806,5806,0,0,weekend,6
+3071,2022-09-11,Rio Ave,Braga,3509,3509,3509,0,0,weekend,6
+2335,2022-09-12,Vizela,Estoril,3752,3752,3752,0,0,weekday,6
+1411,2022-09-16,Portimonense,Chaves,2487,2487,2487,0,0,weekend,7
+2856,2022-09-17,Gil Vicente,Rio Ave,5858,5858,5858,0,0,weekend,7
+2123,2022-09-17,Santa Clara,Pacos de Ferreira,1323,1323,1323,0,0,weekend,7
+4438,2022-09-17,Estoril,FC Porto,2644,2644,2644,0,1,weekend,7
+8480,2022-09-17,Boavista,Sporting CP,7097,7097,7097,0,1,weekend,7
+2376,2022-09-18,Arouca,Vitoria de Guimaraes,1834,1834,1834,0,0,weekend,7
+56889,2022-09-18,Benfica,Maritimo,52242,52242,52242,1,0,weekend,7
+917,2022-09-18,Casa Pia AC,Famalicao,8137,8137,8137,0,0,weekend,7
+14181,2022-09-18,Braga,Vizela,17269,17269,17269,0,0,weekend,7
+44830,2022-09-30,FC Porto,Braga,46616,46616,46616,1,0,weekend,8
+27829,2022-09-30,Sporting CP,Gil Vicente,30983,30983,30983,1,0,weekend,8
+3345,2022-10-01,Chaves,Estoril,5334,5334,5334,0,0,weekend,8
+19231,2022-10-01,Vitoria de Guimaraes,Benfica,14005,14005,14005,0,1,weekend,8
+2435,2022-10-01,Vizela,Portimonense,3279,3279,3279,0,0,weekend,8
+1984,2022-10-02,Rio Ave,Santa Clara,3363,3363,3363,0,0,weekend,8
+4431,2022-10-02,Pacos de Ferreira,Arouca,3081,3081,3081,0,0,weekend,8
+3783,2022-10-02,Famalicao,Boavista,4380,4380,4380,0,0,weekend,8
+4484,2022-10-03,Maritimo,Casa Pia AC,5548,5548,5548,0,0,weekday,8
+2516,2022-10-07,Gil Vicente,Estoril,5108,5186,5108,0,0,weekend,9
+4447,2022-10-08,Santa Clara,Sporting CP,1523,1436,1523,0,1,weekend,9
+56176,2022-10-08,Benfica,Rio Ave,53404,53333,53404,1,0,weekend,9
+3969,2022-10-08,Portimonense,FC Porto,2218,2094,2218,0,1,weekend,9
+5346,2022-10-08,Pacos de Ferreira,Vitoria de Guimaraes,3418,3671,3418,0,0,weekend,9
+11295,2022-10-09,Boavista,Maritimo,7442,8083,7442,0,0,weekend,9
+2912,2022-10-09,Casa Pia AC,Vizela,6332,1025,6332,0,0,weekend,9
+12494,2022-10-09,Braga,Chaves,16497,16092,16497,0,0,weekend,9
+1018,2022-10-10,Arouca,Famalicao,1970,2040,1970,0,0,weekday,9
+49500,2022-10-21,FC Porto,Benfica,46170,46123,46170,1,1,weekend,10
+2674,2022-10-22,Estoril,Braga,3093,3633,3093,0,0,weekend,10
+26679,2022-10-22,Sporting CP,Casa Pia AC,30195,29673,30195,1,0,weekend,10
+2380,2022-10-22,Famalicao,Pacos de Ferreira,4231,4095,4231,0,0,weekend,10
+9072,2022-10-23,Maritimo,Arouca,5282,4767,5282,0,0,weekend,10
+2007,2022-10-23,Vizela,Santa Clara,3068,2531,3068,0,0,weekend,10
+2794,2022-10-23,Chaves,Gil Vicente,4837,3940,4837,0,0,weekend,10
+11359,2022-10-23,Vitoria de Guimaraes,Boavista,15312,15198,15312,0,0,weekend,10
+1693,2022-10-24,Rio Ave,Portimonense,3018,3012,3018,0,0,weekday,10
+3067,2022-10-28,Pacos de Ferreira,Maritimo,3804,4630,3804,0,0,weekend,11
+54990,2022-10-29,Benfica,Chaves,53958,53674,53958,1,0,weekend,11
+5692,2022-10-29,Santa Clara,FC Porto,2108,2527,2108,0,1,weekend,11
+2364,2022-10-29,Arouca,Sporting CP,1779,1596,1779,0,1,weekend,11
+5764,2022-10-30,Boavista,Vizela,8213,8202,8213,0,0,weekend,11
+1304,2022-10-30,Portimonense,Estoril,2568,2407,2568,0,0,weekend,11
+1859,2022-10-30,Casa Pia AC,Rio Ave,5648,1617,5648,0,0,weekend,11
+5627,2022-10-30,Gil Vicente,Braga,4589,4610,4589,0,0,weekend,11
+14968,2022-10-31,Vitoria de Guimaraes,Famalicao,14521,14241,14521,0,0,weekday,11
+2235,2022-11-04,Gil Vicente,Portimonense,4762,3666,4762,0,0,weekend,12
+27324,2022-11-05,Sporting CP,Vitoria de Guimaraes,29492,28097,29492,1,0,weekend,12
+41730,2022-11-05,FC Porto,Pacos de Ferreira,46836,46146,46836,1,0,weekend,12
+2722,2022-11-05,Vizela,Arouca,2856,2259,2856,0,0,weekend,12
+2546,2022-11-06,Rio Ave,Boavista,2753,2249,2753,0,0,weekend,12
+13004,2022-11-06,Braga,Casa Pia AC,15697,16137,15697,0,0,weekend,12
+9438,2022-11-06,Maritimo,Famalicao,6040,6196,6040,0,0,weekend,12
+4858,2022-11-06,Estoril,Benfica,3009,3943,3009,0,1,weekend,12
+2224,2022-11-07,Chaves,Santa Clara,4428,3042,4428,0,0,weekday,12
+1210,2022-11-12,Arouca,Rio Ave,1877,1919,1877,0,0,weekend,13
+11335,2022-11-12,Boavista,FC Porto,7805,8513,7805,0,1,weekend,13
+5182,2022-11-13,Pacos de Ferreira,Vizela,3681,4281,3681,0,0,weekend,13
+14920,2022-11-13,Vitoria de Guimaraes,Maritimo,14596,15186,14596,0,0,weekend,13
+57266,2022-11-13,Benfica,Gil Vicente,54130,56018,54130,1,0,weekend,13
+1035,2022-11-13,Casa Pia AC,Chaves,5016,1896,5016,0,0,weekend,13
+1290,2022-11-13,Portimonense,Braga,2358,2228,2358,0,0,weekend,13
+3937,2022-11-13,Famalicao,Sporting CP,3861,3677,3861,0,1,weekend,13
+747,2022-11-14,Santa Clara,Estoril,2705,4087,2705,0,0,weekday,13
+1492,2022-12-23,Rio Ave,Maritimo,2719,2074,2719,0,0,weekend,14
+45725,2022-12-28,FC Porto,Arouca,45985,45353,45985,1,0,rare,14
+1002,2022-12-28,Portimonense,Casa Pia AC,2205,2188,2205,0,0,rare,14
+2839,2022-12-29,Gil Vicente,Santa Clara,4401,3459,4401,0,0,rare,14
+31005,2022-12-29,Sporting CP,Pacos de Ferreira,29130,27277,29130,1,0,rare,14
+2304,2022-12-30,Chaves,Famalicao,4061,2788,4061,0,0,weekend,14
+3820,2022-12-30,Vizela,Vitoria de Guimaraes,2834,2388,2834,0,0,weekend,14
+19398,2022-12-30,Braga,Benfica,15248,13226,15248,0,1,weekend,14
+1591,2023-01-05,Santa Clara,Braga,2425,3629,2425,0,0,rare,15
+50559,2023-01-06,Benfica,Portimonense,54578,56144,54578,1,0,weekend,15
+3334,2023-01-06,Famalicao,Vizela,3873,3367,3873,0,0,weekend,15
+764,2023-01-07,Arouca,Estoril,1781,1531,1781,0,0,weekend,15
+9200,2023-01-07,Vitoria de Guimaraes,Rio Ave,14642,13749,14642,0,0,weekend,15
+8107,2023-01-07,Casa Pia AC,FC Porto,4448,1935,4448,0,1,weekend,15
+2466,2023-01-08,Pacos de Ferreira,Chaves,3895,4532,3895,0,0,weekend,15
+9510,2023-01-08,Maritimo,Sporting CP,6606,7665,6606,0,1,weekend,15
+3845,2023-01-08,Boavista,Gil Vicente,8309,9465,8309,0,0,weekend,15
+762,2023-01-13,Portimonense,Santa Clara,2055,1199,2055,0,0,weekend,16
+2310,2023-01-14,Rio Ave,Pacos de Ferreira,2543,1910,2543,0,0,weekend,16
+12357,2023-01-14,Braga,Boavista,15841,14965,15841,0,0,weekend,16
+2609,2023-01-14,Vizela,Maritimo,2975,2850,2975,0,0,weekend,16
+1768,2023-01-15,Chaves,Arouca,3810,2441,3810,0,0,weekend,16
+62295,2023-01-15,Benfica,Sporting CP,54076,54272,54076,1,1,weekend,16
+33313,2023-01-15,FC Porto,Famalicao,45948,45652,45948,1,0,weekend,16
+1290,2023-01-16,Estoril,Casa Pia AC,3317,3990,3317,0,0,weekday,16
+3088,2023-01-16,Gil Vicente,Vitoria de Guimaraes,4206,3567,4206,0,0,weekday,16
+839,2023-01-20,Arouca,Portimonense,1654,1446,1654,0,0,weekend,17
+23358,2023-01-20,Sporting CP,Vizela,29398,28336,29398,1,0,weekend,17
+5904,2023-01-21,Pacos de Ferreira,Braga,3717,3572,3717,0,0,weekend,17
+9701,2023-01-21,Santa Clara,Benfica,2321,2677,2321,0,1,weekend,17
+19653,2023-01-21,Vitoria de Guimaraes,FC Porto,13962,13029,13962,0,1,weekend,17
+9212,2023-01-22,Maritimo,Estoril,7021,9340,7021,0,0,weekend,17
+772,2023-01-22,Casa Pia AC,Gil Vicente,4905,3667,4905,0,0,weekend,17
+3660,2023-01-22,Famalicao,Rio Ave,3796,3217,3796,0,0,weekend,17
+4011,2023-01-23,Boavista,Chaves,7751,6981,7751,0,0,weekday,17
+8060,2023-01-26,Pacos de Ferreira,Benfica,3960,4517,3960,0,1,rare,20
+1003,2023-01-29,Casa Pia AC,Santa Clara,4446,3305,4446,0,0,weekend,18
+3519,2023-01-29,Vizela,Rio Ave,2929,3050,2929,0,0,weekend,18
+4371,2023-01-29,Boavista,Portimonense,7336,6397,7336,0,0,weekend,18
+3407,2023-01-29,Famalicao,Estoril,3779,3644,3779,0,0,weekend,18
+9347,2023-01-30,Vitoria de Guimaraes,Chaves,14594,14591,14594,0,0,weekday,18
+2901,2023-01-31,Pacos de Ferreira,Gil Vicente,4370,5477,4370,0,0,rare,18
+4614,2023-01-31,Arouca,Benfica,1564,938,1564,0,1,rare,18
+9624,2023-02-01,Maritimo,FC Porto,7295,9387,7295,0,1,rare,18
+26338,2023-02-01,Sporting CP,Braga,28643,27229,28643,1,0,rare,18
+1680,2023-02-04,Santa Clara,Boavista,3141,4013,3141,0,0,weekend,19
+58763,2023-02-04,Benfica,Casa Pia AC,54989,56707,54989,1,0,weekend,19
+1624,2023-02-04,Estoril,Vitoria de Guimaraes,3028,2941,3028,0,0,weekend,19
+14331,2023-02-05,Braga,Famalicao,15405,14920,15405,0,0,weekend,19
+2129,2023-02-05,Chaves,Maritimo,3555,2099,3555,0,0,weekend,19
+41211,2023-02-05,FC Porto,Vizela,44368,40256,44368,1,0,weekend,19
+2725,2023-02-05,Gil Vicente,Arouca,4082,2721,4082,0,0,weekend,19
+4125,2023-02-06,Rio Ave,Sporting CP,2514,2116,2514,0,1,weekday,19
+745,2023-02-06,Portimonense,Pacos de Ferreira,1911,1018,1911,0,0,weekday,19
+956,2023-02-09,Estoril,Boavista,2852,2591,2852,0,0,rare,14
+2909,2023-02-10,Vizela,Chaves,2994,3316,2994,0,0,weekend,20
+857,2023-02-11,Arouca,Santa Clara,1869,2072,1869,0,0,weekend,20
+12956,2023-02-11,Vitoria de Guimaraes,Portimonense,14069,12733,14069,0,0,weekend,20
+4483,2023-02-12,Famalicao,Gil Vicente,3738,3467,3738,0,0,weekend,20
+39528,2023-02-12,Sporting CP,FC Porto,28387,26900,28387,1,1,weekend,20
+9937,2023-02-12,Maritimo,Braga,7554,9449,7554,0,0,weekend,20
+2654,2023-02-13,Rio Ave,Estoril,2693,2642,2693,0,0,weekday,20
+3575,2023-02-13,Boavista,Casa Pia AC,7039,4076,7039,0,0,weekday,20
+3212,2023-02-17,Gil Vicente,Vizela,3946,2884,3946,0,0,weekend,21
+2052,2023-02-18,Estoril,Pacos de Ferreira,2641,1290,2641,0,0,weekend,21
+1572,2023-02-18,Portimonense,Maritimo,1794,836,1794,0,0,weekend,21
+40629,2023-02-18,FC Porto,Rio Ave,44017,40083,44017,1,0,weekend,21
+1818,2023-02-19,Casa Pia AC,Vitoria de Guimaraes,4102,3294,4102,0,0,weekend,21
+13407,2023-02-19,Braga,Arouca,15286,15362,15286,0,0,weekend,21
+1618,2023-02-19,Santa Clara,Famalicao,2995,4324,2995,0,0,weekend,21
+4981,2023-02-20,Chaves,Sporting CP,3396,2067,3396,0,1,weekday,21
+56413,2023-02-20,Benfica,Boavista,55366,57206,55366,1,0,weekday,21
+2965,2023-02-24,Famalicao,Portimonense,3812,3850,3812,0,0,weekend,22
+1071,2023-02-25,Arouca,Casa Pia AC,1777,2103,1777,0,0,weekend,22
+9312,2023-02-25,Maritimo,Santa Clara,7792,9591,7792,0,0,weekend,22
+5872,2023-02-25,Vizela,Benfica,2986,3012,2986,0,1,weekend,22
+3244,2023-02-26,Rio Ave,Chaves,2689,3030,2689,0,0,weekend,22
+5406,2023-02-26,Pacos de Ferreira,Boavista,4236,5622,4236,0,0,weekend,22
+35509,2023-02-26,FC Porto,Gil Vicente,43679,38384,43679,1,0,weekend,22
+22313,2023-02-27,Sporting CP,Estoril,29501,29741,29501,1,0,weekday,22
+19072,2023-02-27,Vitoria de Guimaraes,Braga,13968,13985,13968,0,0,weekday,22
+4689,2023-03-03,Boavista,Arouca,6724,3986,6724,0,0,weekend,23
+56995,2023-03-03,Benfica,Famalicao,55462,59157,55462,1,0,weekend,23
+4474,2023-03-04,Portimonense,Sporting CP,1774,1026,1774,0,1,weekend,23
+5568,2023-03-04,Chaves,FC Porto,3555,2959,3555,0,1,weekend,23
+1815,2023-03-04,Estoril,Vizela,2582,1544,2582,0,0,weekend,23
+9456,2023-03-05,Braga,Rio Ave,15098,13365,15098,0,0,weekend,23
+1598,2023-03-05,Santa Clara,Vitoria de Guimaraes,2870,4333,2870,0,0,weekend,23
+5243,2023-03-05,Gil Vicente,Maritimo,3879,3008,3879,0,0,weekend,23
+530,2023-03-06,Casa Pia AC,Pacos de Ferreira,3894,1198,3894,0,0,weekday,23
+29116,2023-03-10,FC Porto,Estoril,42936,39116,42936,1,0,weekend,24
+3301,2023-03-11,Chaves,Portimonense,3738,4226,3738,0,0,weekend,24
+3601,2023-03-11,Pacos de Ferreira,Santa Clara,4334,5456,4334,0,0,weekend,24
+21717,2023-03-11,Vitoria de Guimaraes,Arouca,14393,13792,14393,0,0,weekend,24
+3682,2023-03-11,Vizela,Braga,3248,4100,3248,0,0,weekend,24
+27535,2023-03-12,Sporting CP,Boavista,28848,29393,28848,1,0,weekend,24
+10547,2023-03-12,Maritimo,Benfica,7930,9624,7930,0,1,weekend,24
+3036,2023-03-12,Rio Ave,Gil Vicente,2740,3341,2740,0,0,weekend,24
+2729,2023-03-13,Famalicao,Casa Pia AC,3735,3618,3735,0,0,weekday,24
+912,2023-03-17,Santa Clara,Rio Ave,2764,1632,2764,0,0,weekend,25
+1284,2023-03-18,Portimonense,Vizela,1999,2264,1999,0,0,weekend,25
+1048,2023-03-18,Arouca,Pacos de Ferreira,1718,2181,1718,0,0,weekend,25
+59374,2023-03-18,Benfica,Vitoria de Guimaraes,55589,57390,55589,1,0,weekend,25
+2178,2023-03-18,Estoril,Chaves,2513,1608,2513,0,0,weekend,25
+5530,2023-03-19,Boavista,Famalicao,6555,4212,6555,0,0,weekend,25
+2432,2023-03-19,Casa Pia AC,Maritimo,3614,1117,3614,0,0,weekend,25
+22256,2023-03-19,Braga,FC Porto,14585,12398,14585,0,1,weekend,25
+1612,2023-03-31,Estoril,Gil Vicente,2485,2015,2485,0,0,weekend,26
+3008,2023-04-01,Vizela,Casa Pia AC,3284,4154,3284,0,0,weekend,26
+14784,2023-04-01,Vitoria de Guimaraes,Pacos de Ferreira,14957,17915,14957,0,0,weekend,26
+31603,2023-04-01,Sporting CP,Santa Clara,28738,29792,28738,1,0,weekend,26
+5454,2023-04-02,Chaves,Braga,3701,4617,3701,0,0,weekend,26
+9679,2023-04-02,Maritimo,Boavista,8148,9932,8148,0,0,weekend,26
+4134,2023-04-02,Rio Ave,Benfica,2764,2978,2764,0,1,weekend,26
+35802,2023-04-02,FC Porto,Portimonense,41784,35085,41784,1,0,weekend,26
+4030,2023-04-03,Famalicao,Arouca,3652,3392,3652,0,0,weekday,26
+8076,2023-04-05,Gil Vicente,Sporting CP,3993,3727,3993,0,1,rare,25
+802,2023-04-07,Santa Clara,Vizela,2621,1376,2621,0,0,weekend,27
+62028,2023-04-07,Benfica,FC Porto,55880,57594,55880,1,1,weekend,27
+5756,2023-04-07,Boavista,Vitoria de Guimaraes,6476,4598,6476,0,0,weekend,27
+15507,2023-04-08,Braga,Estoril,15224,15040,15224,0,0,weekend,27
+1246,2023-04-08,Portimonense,Rio Ave,1944,2443,1944,0,0,weekend,27
+4992,2023-04-08,Pacos de Ferreira,Famalicao,4277,3969,4277,0,0,weekend,27
+1719,2023-04-08,Arouca,Maritimo,1666,992,1666,0,0,weekend,27
+10509,2023-04-09,Casa Pia AC,Sporting CP,3523,1593,3523,0,1,weekend,27
+3761,2023-04-10,Gil Vicente,Chaves,4307,5510,4307,0,0,weekday,27
+4042,2023-04-14,Famalicao,Vitoria de Guimaraes,3681,3241,3681,0,0,weekend,28
+1714,2023-04-15,Estoril,Portimonense,2418,1868,2418,0,0,weekend,28
+9093,2023-04-15,Maritimo,Pacos de Ferreira,8266,9846,8266,0,0,weekend,28
+8297,2023-04-15,Chaves,Benfica,3836,4774,3836,0,1,weekend,28
+40708,2023-04-15,FC Porto,Santa Clara,41324,33476,41324,1,0,weekend,28
+2752,2023-04-16,Rio Ave,Casa Pia AC,2870,3471,2870,0,0,weekend,28
+18197,2023-04-16,Braga,Gil Vicente,15246,15740,15246,0,0,weekend,28
+25584,2023-04-16,Sporting CP,Arouca,28959,27150,28959,1,0,weekend,28
+3403,2023-04-17,Vizela,Boavista,3263,4187,3263,0,0,weekday,28
+1016,2023-04-21,Casa Pia AC,Braga,4022,4490,4022,0,0,weekend,29
+6260,2023-04-22,Boavista,Rio Ave,6424,5325,6424,0,0,weekend,29
+7852,2023-04-22,Pacos de Ferreira,FC Porto,4328,4666,4328,0,1,weekend,29
+4044,2023-04-22,Famalicao,Maritimo,3706,3600,3706,0,0,weekend,29
+1278,2023-04-23,Portimonense,Gil Vicente,1894,2335,1894,0,0,weekend,29
+58036,2023-04-23,Benfica,Estoril,56320,59466,56320,1,0,weekend,29
+633,2023-04-23,Santa Clara,Chaves,2491,1104,2491,0,0,weekend,29
+1742,2023-04-23,Arouca,Vizela,1670,1279,1670,0,0,weekend,29
+21893,2023-04-24,Vitoria de Guimaraes,Sporting CP,14944,18524,14944,0,1,weekday,29
+2298,2023-04-28,Rio Ave,Arouca,2861,3307,2861,0,0,weekend,30
+9274,2023-04-29,Maritimo,Vitoria de Guimaraes,8325,9773,8325,0,0,weekend,30
+16005,2023-04-29,Braga,Portimonense,15457,18653,15457,0,0,weekend,30
+2451,2023-04-29,Chaves,Casa Pia AC,4155,5684,4155,0,0,weekend,30
+4423,2023-04-29,Vizela,Pacos de Ferreira,3273,3364,3273,0,0,weekend,30
+11694,2023-04-29,Gil Vicente,Benfica,4268,5693,4268,0,1,weekend,30
+4198,2023-04-30,Estoril,Santa Clara,2367,1835,2367,0,0,weekend,30
+47925,2023-04-30,FC Porto,Boavista,41280,35209,41280,1,0,weekend,30
+29443,2023-04-30,Sporting CP,Famalicao,28718,28241,28718,1,0,weekend,30
+556,2023-05-05,Casa Pia AC,Portimonense,3821,4652,3821,0,0,weekend,31
+5379,2023-05-06,Boavista,Estoril,6413,5849,6413,0,0,weekend,31
+60289,2023-05-06,Benfica,Braga,56434,59813,56434,1,0,weekend,31
+579,2023-05-06,Santa Clara,Gil Vicente,2368,782,2368,0,0,weekend,31
+20031,2023-05-07,Vitoria de Guimaraes,Vizela,15408,19465,15408,0,0,weekend,31
+4791,2023-05-07,Pacos de Ferreira,Sporting CP,4563,5482,4563,0,1,weekend,31
+8641,2023-05-07,Maritimo,Rio Ave,8388,9349,8388,0,0,weekend,31
+3681,2023-05-08,Famalicao,Chaves,3729,4039,3729,0,0,weekday,31
+4092,2023-05-08,Arouca,FC Porto,1675,1503,1675,0,1,weekday,31
+3265,2023-05-12,Gil Vicente,Boavista,4763,7844,4763,0,0,weekend,32
+2475,2023-05-13,Chaves,Pacos de Ferreira,4041,5401,4041,0,0,weekend,32
+2717,2023-05-13,Vizela,Famalicao,3350,3611,3350,0,0,weekend,32
+4404,2023-05-13,Portimonense,Benfica,1853,1269,1853,0,1,weekend,32
+27130,2023-05-13,Sporting CP,Maritimo,28766,28877,28766,1,0,weekend,32
+4001,2023-05-14,Rio Ave,Vitoria de Guimaraes,2824,3061,2824,0,0,weekend,32
+16442,2023-05-14,Braga,Santa Clara,15493,16570,15493,0,0,weekend,32
+35203,2023-05-14,FC Porto,Casa Pia AC,41723,41478,41723,1,0,weekend,32
+2826,2023-05-15,Estoril,Arouca,2489,2508,2489,0,0,weekday,32
+10181,2023-05-19,Maritimo,Vizela,8404,9003,8404,0,0,weekend,33
+4992,2023-05-20,Famalicao,FC Porto,3726,3922,3726,0,1,weekend,33
+9265,2023-05-20,Boavista,Braga,6349,5798,6349,0,0,weekend,33
+1993,2023-05-20,Arouca,Chaves,1826,2518,1826,0,0,weekend,33
+635,2023-05-20,Santa Clara,Portimonense,2256,671,2256,0,0,weekend,33
+22733,2023-05-21,Vitoria de Guimaraes,Gil Vicente,15697,18903,15697,0,0,weekend,33
+302,2023-05-21,Casa Pia AC,Estoril,3617,4027,3617,0,0,weekend,33
+2032,2023-05-21,Pacos de Ferreira,Rio Ave,4578,5878,4578,0,0,weekend,33
+39348,2023-05-21,Sporting CP,Benfica,28664,27386,28664,1,1,weekend,33
+3037,2023-05-26,Rio Ave,Famalicao,2897,3017,2897,0,0,weekend,34
+3309,2023-05-26,Vizela,Sporting CP,3310,3514,3310,0,1,weekend,34
+2272,2023-05-27,Gil Vicente,Casa Pia AC,4669,6240,4669,0,0,weekend,34
+3135,2023-05-27,Chaves,Boavista,3943,4408,3943,0,0,weekend,34
+2736,2023-05-27,Estoril,Maritimo,2510,2913,2510,0,0,weekend,34
+64012,2023-05-27,Benfica,Santa Clara,56675,60118,56675,1,0,weekend,34
+42417,2023-05-27,FC Porto,Vitoria de Guimaraes,41316,41279,41316,1,0,weekend,34
+867,2023-05-27,Portimonense,Arouca,2013,2309,2013,0,0,weekend,34
+14481,2023-05-27,Braga,Pacos de Ferreira,15553,16881,15553,0,0,weekend,34
+19184,2023-08-11,Braga,Famalicao,15490,15643,14331,0,0,weekend,1
+3953,2023-08-12,Farense,Casa Pia AC,11951,11951,11951,0,0,weekend,1
+37152,2023-08-12,Sporting CP,Vizela,29292,31974,23358,1,0,weekend,1
+3606,2023-08-12,Gil Vicente,Portimonense,4528,5744,2235,0,0,weekend,1
+3044,2023-08-13,Rio Ave,Chaves,2906,3112,3244,0,0,weekend,1
+4300,2023-08-13,Estrela da Amadora,Vitoria de Guimaraes,11951,11951,11951,0,0,weekend,1
+1752,2023-08-13,Arouca,Estoril,1836,2609,764,0,0,weekend,1
+5674,2023-08-14,Moreirense,FC Porto,11951,11951,11951,0,1,weekday,1
+21320,2023-08-14,Boavista,Benfica,6520,6968,10939,0,1,weekday,1
+6981,2023-08-18,Casa Pia AC,Sporting CP,3422,625,10509,0,1,weekend,2
+2034,2023-08-19,Portimonense,Boavista,1945,2183,2590,0,0,weekend,2
+58479,2023-08-19,Benfica,Estrela da Amadora,57107,60779,57107,1,0,weekend,2
+5443,2023-08-19,Chaves,Braga,3896,2687,5454,0,0,weekend,2
+15127,2023-08-19,Vitoria de Guimaraes,Gil Vicente,16111,21552,22733,0,0,weekend,2
+2359,2023-08-20,Estoril,Rio Ave,2524,3253,1742,0,0,weekend,2
+48129,2023-08-20,FC Porto,Farense,41380,41848,41380,1,0,weekend,2
+2620,2023-08-20,Vizela,Arouca,3310,3483,2722,0,0,weekend,2
+4640,2023-08-21,Famalicao,Moreirense,3800,4239,3800,0,0,weekday,2
+3624,2023-08-25,Estrela da Amadora,Estoril,4300,4300,4300,0,0,weekend,3
+11792,2023-08-26,Gil Vicente,Benfica,4477,3048,11694,0,1,weekend,3
+3858,2023-08-26,Farense,Chaves,3953,3953,3953,0,0,weekend,3
+2252,2023-08-26,Arouca,Portimonense,1831,2612,839,0,0,weekend,3
+4945,2023-08-27,Boavista,Casa Pia AC,7342,11988,3575,0,0,weekend,3
+18016,2023-08-27,Vitoria de Guimaraes,Vizela,16056,19297,20031,0,0,weekend,3
+40287,2023-08-27,Sporting CP,Famalicao,29729,34543,29443,1,0,weekend,3
+4811,2023-08-28,Rio Ave,FC Porto,2913,3361,3980,0,1,weekday,3
+2678,2023-09-01,Vizela,Gil Vicente,3272,2882,2824,0,0,weekend,4
+3267,2023-09-02,Casa Pia AC,Rio Ave,3620,2613,1859,0,0,weekend,4
+4171,2023-09-02,Famalicao,Farense,3847,4438,3847,0,0,weekend,4
+2607,2023-09-02,Portimonense,Estrela da Amadora,1950,2435,1950,0,0,weekend,4
+60410,2023-09-02,Benfica,Vitoria de Guimaraes,57183,60927,59374,1,0,weekend,4
+3056,2023-09-03,Estoril,Boavista,2515,2640,956,0,0,weekend,4
+2406,2023-09-03,Chaves,Moreirense,3982,3684,3982,0,0,weekend,4
+46516,2023-09-03,FC Porto,Arouca,41755,41916,45725,1,0,weekend,4
+22781,2023-09-03,Braga,Sporting CP,15695,16702,17714,0,1,weekend,4
+2875,2023-09-09,Moreirense,Braga,5674,5674,5674,0,0,weekend,3
+5976,2023-09-15,Estrela da Amadora,FC Porto,3962,3962,3962,0,1,weekend,5
+5006,2023-09-16,Farense,Braga,3906,3906,3906,0,0,weekend,5
+5584,2023-09-16,Vizela,Benfica,3241,2869,5872,0,1,weekend,5
+3075,2023-09-16,Rio Ave,Famalicao,3013,3631,3037,0,0,weekend,5
+1346,2023-09-17,Arouca,Casa Pia AC,1853,1999,1071,0,0,weekend,5
+2495,2023-09-17,Gil Vicente,Estoril,4862,5890,2516,0,0,weekend,5
+12593,2023-09-17,Vitoria de Guimaraes,Portimonense,16159,18625,12956,0,0,weekend,5
+36815,2023-09-17,Sporting CP,Moreirense,30285,38929,30285,1,0,weekend,5
+7022,2023-09-18,Boavista,Chaves,7216,11843,4011,0,0,weekday,5
+3678,2023-09-22,Famalicao,Arouca,3864,4601,4030,0,0,weekend,6
+37617,2023-09-23,FC Porto,Gil Vicente,42006,45687,35509,1,0,weekend,6
+3830,2023-09-23,Casa Pia AC,Vitoria de Guimaraes,3601,3517,1818,0,0,weekend,6
+1695,2023-09-23,Moreirense,Farense,4274,4274,4274,0,0,weekend,6
+4258,2023-09-23,Estoril,Vizela,2543,2717,1815,0,0,weekend,6
+2420,2023-09-24,Chaves,Estrela da Amadora,3899,3661,3899,0,0,weekend,6
+4354,2023-09-24,Portimonense,Benfica,1985,1836,4404,0,1,weekend,6
+16394,2023-09-24,Braga,Boavista,16068,18815,12357,0,0,weekend,6
+34355,2023-09-25,Sporting CP,Rio Ave,30611,38085,31760,1,0,weekday,6
+3630,2023-09-28,Estrela da Amadora,Braga,4633,4633,4633,0,0,rare,7
+62247,2023-09-29,Benfica,FC Porto,57353,60967,62028,1,1,weekend,7
+6020,2023-09-30,Farense,Sporting CP,4272,4272,4272,0,1,weekend,7
+2712,2023-09-30,Vizela,Portimonense,3358,3627,2435,0,0,weekend,7
+7809,2023-09-30,Boavista,Famalicao,7207,11096,5530,0,0,weekend,7
+1765,2023-10-01,Arouca,Chaves,1828,1783,1993,0,0,weekend,7
+15101,2023-10-01,Vitoria de Guimaraes,Estoril,15981,15245,15652,0,0,weekend,7
+2695,2023-10-01,Rio Ave,Moreirense,3016,3643,3016,0,0,weekend,7
+2702,2023-10-02,Gil Vicente,Casa Pia AC,4744,5964,2272,0,0,weekday,7
+2388,2023-10-06,Moreirense,Boavista,3415,3415,3415,0,0,weekend,8
+4966,2023-10-07,Estoril,Benfica,2629,3224,4858,0,1,weekend,8
+2522,2023-10-07,Chaves,Gil Vicente,3825,3423,2794,0,0,weekend,8
+4811,2023-10-07,Farense,Vizela,4709,4961,4709,0,0,weekend,8
+16093,2023-10-07,Braga,Rio Ave,16084,19453,9456,0,0,weekend,8
+43230,2023-10-08,FC Porto,Portimonense,41786,44087,35802,1,0,weekend,8
+36688,2023-10-08,Sporting CP,Arouca,30789,37152,25584,1,0,weekend,8
+2861,2023-10-08,Casa Pia AC,Estrela da Amadora,3613,4693,3613,0,0,weekend,8
+4278,2023-10-08,Famalicao,Vitoria de Guimaraes,3855,4163,4042,0,0,weekend,8
+1037,2023-10-27,Arouca,Moreirense,1825,1788,1825,0,0,weekend,9
+4504,2023-10-28,Gil Vicente,Braga,4647,5663,5627,0,0,weekend,9
+12984,2023-10-28,Vitoria de Guimaraes,Chaves,15939,15237,9347,0,0,weekend,9
+1579,2023-10-28,Portimonense,Estoril,2103,2998,1304,0,0,weekend,9
+57240,2023-10-28,Benfica,Casa Pia AC,57597,60379,58763,1,0,weekend,9
+1865,2023-10-29,Rio Ave,Farense,3001,3527,3001,0,0,weekend,9
+3137,2023-10-29,Estrela da Amadora,Famalicao,4382,4410,4382,0,0,weekend,9
+4435,2023-10-29,Vizela,FC Porto,3327,3658,4679,0,1,weekend,9
+12608,2023-10-30,Boavista,Sporting CP,7235,6592,8480,0,1,weekday,9
+30306,2023-11-03,FC Porto,Estoril,41855,42454,29116,1,0,weekend,10
+8271,2023-11-04,Chaves,Benfica,3763,2449,8297,0,1,weekend,10
+2239,2023-11-04,Famalicao,Gil Vicente,3875,4042,4483,0,0,weekend,10
+8929,2023-11-04,Braga,Portimonense,16085,18423,16005,0,0,weekend,10
+38408,2023-11-05,Sporting CP,Estrela da Amadora,31057,35953,31057,1,0,weekend,10
+1586,2023-11-05,Casa Pia AC,Vizela,3577,3319,2912,0,0,weekend,10
+4351,2023-11-05,Moreirense,Vitoria de Guimaraes,3158,2319,3158,0,0,weekend,10
+2866,2023-11-05,Rio Ave,Boavista,2949,2545,2546,0,0,weekend,10
+4237,2023-11-06,Farense,Arouca,4730,5279,4730,0,0,weekday,10
+2896,2023-11-10,Estoril,Casa Pia AC,2740,4093,1290,0,0,weekend,11
+1553,2023-11-11,Portimonense,Chaves,2078,2847,1411,0,0,weekend,11
+3458,2023-11-11,Estrela da Amadora,Moreirense,4133,4248,4133,0,0,weekend,11
+2235,2023-11-11,Vizela,Famalicao,3377,4244,2717,0,0,weekend,11
+21353,2023-11-11,Vitoria de Guimaraes,FC Porto,15805,13559,19653,0,1,weekend,11
+6520,2023-11-12,Boavista,Farense,7480,9146,7480,0,0,weekend,11
+3338,2023-11-12,Gil Vicente,Rio Ave,4640,3234,2856,0,0,weekend,11
+1525,2023-11-12,Arouca,Braga,1789,1383,2348,0,0,weekend,11
+62166,2023-11-12,Benfica,Sporting CP,57580,59966,62295,1,1,weekend,11
+2788,2023-12-01,Chaves,Vizela,3968,4404,5489,0,0,weekend,12
+4858,2023-12-02,Famalicao,FC Porto,3801,3398,4992,0,1,weekend,12
+1187,2023-12-02,Casa Pia AC,Portimonense,3487,2759,556,0,0,weekend,12
+4955,2023-12-02,Farense,Vitoria de Guimaraes,4648,5023,4648,0,0,weekend,12
+2403,2023-12-02,Rio Ave,Estrela da Amadora,2946,2475,2946,0,0,weekend,12
+5664,2023-12-03,Moreirense,Benfica,3397,2811,3397,0,1,weekend,12
+3788,2023-12-03,Boavista,Arouca,7438,8979,4689,0,0,weekend,12
+12902,2023-12-03,Braga,Estoril,15759,13805,15507,0,0,weekend,12
+33712,2023-12-04,Sporting CP,Gil Vicente,31377,36484,27829,1,0,weekday,12
+56766,2023-12-08,Benfica,Farense,57789,60551,57789,1,0,weekend,13
+3785,2023-12-08,Vizela,Braga,3328,3127,3682,0,0,weekend,13
+1188,2023-12-09,Portimonense,Famalicao,2054,2495,1840,0,0,weekend,13
+20357,2023-12-09,Vitoria de Guimaraes,Sporting CP,16046,16479,21893,0,1,weekend,13
+29130,2023-12-09,FC Porto,Casa Pia AC,41330,37051,35203,1,0,weekend,13
+3732,2023-12-10,Estrela da Amadora,Boavista,4021,3408,4021,0,0,weekend,13
+1122,2023-12-10,Arouca,Rio Ave,1778,1442,1210,0,0,weekend,13
+1578,2023-12-10,Estoril,Chaves,2747,4040,2178,0,0,weekend,13
+2382,2023-12-11,Gil Vicente,Moreirense,4583,3515,4583,0,0,weekday,13
+4549,2023-12-15,Farense,Estrela da Amadora,4691,4668,4691,0,0,weekend,14
+2538,2023-12-16,Rio Ave,Vizela,2923,2378,3038,0,0,weekend,14
+1386,2023-12-16,Arouca,Gil Vicente,1750,1228,1759,0,0,weekend,14
+8970,2023-12-16,Boavista,Vitoria de Guimaraes,7286,7639,5756,0,0,weekend,14
+1980,2023-12-17,Chaves,Casa Pia AC,3916,4527,2451,0,0,weekend,14
+1453,2023-12-17,Moreirense,Portimonense,3774,4134,3774,0,0,weekend,14
+3599,2023-12-17,Famalicao,Estoril,3847,3792,3407,0,0,weekend,14
+25532,2023-12-17,Braga,Benfica,15635,12641,19398,0,1,weekend,14
+44385,2023-12-18,Sporting CP,FC Porto,31474,36269,39528,1,1,weekday,14
+21021,2023-12-23,Vitoria de Guimaraes,Rio Ave,16225,18231,9200,0,0,weekend,15
+4334,2023-12-23,Vizela,Moreirense,3347,3485,3347,0,0,weekend,15
+4352,2023-12-28,Estrela da Amadora,Arouca,3980,3442,3980,0,0,rare,15
+58725,2023-12-29,Benfica,Famalicao,57744,58724,56995,1,0,weekend,15
+41529,2023-12-29,FC Porto,Chaves,40800,34222,44109,1,0,weekend,15
+2562,2023-12-30,Estoril,Farense,2696,3147,2696,0,0,weekend,15
+4986,2023-12-30,Gil Vicente,Boavista,4492,3408,3265,0,0,weekend,15
+4153,2023-12-30,Casa Pia AC,Braga,3387,1878,1016,0,0,weekend,15
+4574,2023-12-30,Portimonense,Sporting CP,2017,1440,4474,0,1,weekend,15
+37483,2024-01-05,Sporting CP,Estoril,31991,38835,22313,1,0,weekend,16
+13945,2024-01-05,Boavista,FC Porto,7353,6426,11335,0,1,weekend,16
+3086,2024-01-06,Estrela da Amadora,Vizela,4026,3847,4026,0,0,weekend,16
+4437,2024-01-06,Farense,Gil Vicente,4674,4580,4674,0,0,weekend,16
+4437,2024-01-06,Arouca,Benfica,1736,1344,4614,0,1,weekend,16
+22385,2024-01-06,Braga,Vitoria de Guimaraes,16047,15788,21736,0,0,weekend,16
+2927,2024-01-07,Famalicao,Chaves,3836,3565,3681,0,0,weekend,16
+2593,2024-01-07,Rio Ave,Portimonense,2908,2602,1693,0,0,weekend,16
+944,2024-01-08,Moreirense,Casa Pia AC,3443,3823,3443,0,0,weekday,16
+3611,2024-01-12,Portimonense,Farense,2123,2438,2123,0,0,weekend,17
+1240,2024-01-13,Casa Pia AC,Famalicao,3418,2309,917,0,0,weekend,17
+5690,2024-01-13,Chaves,Sporting CP,3836,4346,4981,0,1,weekend,17
+1762,2024-01-13,Estoril,Moreirense,2691,2345,2691,0,0,weekend,17
+2349,2024-01-14,Gil Vicente,Estrela da Amadora,4512,3569,4512,0,0,weekend,17
+55238,2024-01-14,Benfica,Rio Ave,57785,59219,56176,1,0,weekend,17
+1998,2024-01-14,Vizela,Boavista,3386,3451,3403,0,0,weekend,17
+41402,2024-01-14,FC Porto,Braga,40830,33655,44830,1,0,weekend,17
+11206,2024-01-15,Vitoria de Guimaraes,Arouca,16417,20910,21717,0,0,weekday,17
+3988,2024-01-18,Famalicao,Braga,3800,3795,4637,0,0,rare,18
+4386,2024-01-18,Vizela,Sporting CP,3333,3372,3309,0,1,rare,18
+54345,2024-01-19,Benfica,Boavista,57683,56910,56413,1,0,weekend,18
+34218,2024-01-20,FC Porto,Moreirense,40853,37354,40853,1,0,weekend,18
+1726,2024-01-20,Casa Pia AC,Farense,3331,2193,3331,0,0,weekend,18
+2184,2024-01-20,Estoril,Arouca,2654,1967,2826,0,0,weekend,18
+1946,2024-01-21,Portimonense,Gil Vicente,2183,3124,1278,0,0,weekend,18
+3236,2024-01-21,Chaves,Rio Ave,3910,3486,2987,0,0,weekend,18
+19033,2024-01-21,Vitoria de Guimaraes,Estrela da Amadora,16217,17528,16217,0,0,weekend,18
+6917,2024-01-28,Boavista,Portimonense,7607,8901,4371,0,0,weekend,19
+2327,2024-01-28,Moreirense,Famalicao,3130,2687,3130,0,0,weekend,19
+6356,2024-01-28,Farense,FC Porto,4647,4647,4647,0,1,weekend,19
+1151,2024-01-28,Arouca,Vizela,1840,2315,1742,0,0,weekend,19
+7617,2024-01-28,Gil Vicente,Vitoria de Guimaraes,4428,3239,3088,0,0,weekend,19
+6398,2024-01-29,Estrela da Amadora,Benfica,3922,3723,3922,0,1,weekday,19
+32869,2024-01-29,Sporting CP,Casa Pia AC,32202,38527,26679,1,0,weekday,19
+3058,2024-01-31,Rio Ave,Estoril,2896,2511,2654,0,0,rare,19
+11019,2024-01-31,Braga,Chaves,16301,20273,12494,0,0,rare,19
+1657,2024-02-03,Portimonense,Arouca,2174,3377,867,0,0,weekend,20
+39330,2024-02-03,FC Porto,Rio Ave,40598,39050,40629,1,0,weekend,20
+12275,2024-02-04,Braga,Moreirense,16098,19645,16098,0,0,weekend,20
+58722,2024-02-04,Benfica,Gil Vicente,57555,56103,57266,1,0,weekend,20
+3486,2024-02-04,Estoril,Estrela da Amadora,2636,2169,2636,0,0,weekend,20
+5155,2024-02-04,Vizela,Vitoria de Guimaraes,3372,3573,3820,0,0,weekend,20
+2308,2024-02-04,Chaves,Farense,3884,3635,3884,0,0,weekend,20
+1261,2024-02-05,Casa Pia AC,Boavista,3270,2373,1136,0,0,weekday,20
+1437,2024-02-09,Estrela da Amadora,Portimonense,4169,4612,4169,0,0,weekend,21
+4815,2024-02-10,Farense,Famalicao,4818,5114,4818,0,0,weekend,21
+1340,2024-02-10,Moreirense,Chaves,3041,1575,3041,0,0,weekend,21
+7112,2024-02-10,Boavista,Estoril,7581,9944,5379,0,0,weekend,21
+2682,2024-02-11,Rio Ave,Casa Pia AC,2902,2730,2752,0,0,weekend,21
+39851,2024-02-11,Sporting CP,Braga,32227,38246,26338,1,0,weekend,21
+25015,2024-02-11,Vitoria de Guimaraes,Benfica,16321,17087,19231,0,1,weekend,21
+3157,2024-02-12,Arouca,FC Porto,1814,2325,4092,0,1,weekday,21
+3958,2024-02-13,Gil Vicente,Vizela,4546,4984,3212,0,0,rare,21
+4173,2024-02-16,Famalicao,Rio Ave,3807,3505,3660,0,0,weekend,22
+2144,2024-02-17,Portimonense,Vitoria de Guimaraes,2155,2405,3032,0,0,weekend,22
+30613,2024-02-17,FC Porto,Estrela da Amadora,40551,38317,40551,1,0,weekend,22
+2315,2024-02-17,Chaves,Boavista,3826,3745,3135,0,0,weekend,22
+1244,2024-02-18,Casa Pia AC,Arouca,3195,1409,1022,0,0,weekend,22
+56191,2024-02-18,Benfica,Vizela,57598,56102,47958,1,0,weekend,22
+3596,2024-02-18,Estoril,Gil Vicente,2667,2477,1612,0,0,weekend,22
+11270,2024-02-18,Braga,Farense,15956,15226,15956,0,0,weekend,22
+5163,2024-02-19,Moreirense,Sporting CP,2871,1537,2871,0,1,weekday,22
+1361,2024-02-23,Arouca,Famalicao,1862,2915,1018,0,0,weekend,23
+4894,2024-02-24,Estrela da Amadora,Chaves,3921,3640,3921,0,0,weekend,23
+4646,2024-02-24,Farense,Moreirense,4818,5203,4818,0,0,weekend,23
+13689,2024-02-24,Vitoria de Guimaraes,Casa Pia AC,16632,18418,14231,0,0,weekend,23
+1910,2024-02-25,Vizela,Estoril,3436,3846,2335,0,0,weekend,23
+57201,2024-02-25,Benfica,Portimonense,57548,56419,50559,1,0,weekend,23
+7121,2024-02-25,Gil Vicente,FC Porto,4525,4641,8458,0,1,weekend,23
+4406,2024-02-25,Rio Ave,Sporting CP,2894,2778,4125,0,1,weekend,23
+8905,2024-02-26,Boavista,Braga,7564,9325,9265,0,0,weekday,23
+1927,2024-03-01,Chaves,Arouca,3772,2620,1768,0,0,weekend,24
+9564,2024-03-02,Braga,Estrela da Amadora,15789,11521,15789,0,0,weekend,24
+2086,2024-03-02,Estoril,Vitoria de Guimaraes,2700,3089,1624,0,0,weekend,24
+1542,2024-03-02,Moreirense,Rio Ave,3079,2943,3079,0,0,weekend,24
+1253,2024-03-03,Casa Pia AC,Gil Vicente,3126,1410,772,0,0,weekend,24
+1610,2024-03-03,Portimonense,Vizela,2154,1916,1284,0,0,weekend,24
+39063,2024-03-03,Sporting CP,Farense,32499,36734,32499,1,0,weekend,24
+49013,2024-03-03,FC Porto,Benfica,40196,34720,49500,1,1,weekend,24
+3198,2024-03-04,Famalicao,Boavista,3821,3696,3783,0,0,weekday,24
+2811,2024-03-08,Portimonense,FC Porto,2135,1804,3969,0,1,weekend,25
+1972,2024-03-08,Estrela da Amadora,Casa Pia AC,4002,4243,4002,0,0,weekend,25
+12909,2024-03-09,Vitoria de Guimaraes,Famalicao,16530,19246,14968,0,0,weekend,25
+2753,2024-03-09,Rio Ave,Braga,2946,3382,3071,0,0,weekend,25
+2006,2024-03-09,Vizela,Farense,3383,3817,3383,0,0,weekend,25
+6441,2024-03-09,Boavista,Moreirense,7611,7645,7611,0,0,weekend,25
+4061,2024-03-10,Arouca,Sporting CP,1845,1890,2364,0,1,weekend,25
+48964,2024-03-10,Benfica,Estoril,57536,57371,58036,1,0,weekend,25
+3033,2024-03-11,Gil Vicente,Chaves,4615,6232,3761,0,0,weekday,25
+1870,2024-03-15,Estoril,Portimonense,2679,3056,1714,0,0,weekend,26
+30117,2024-03-16,FC Porto,Vizela,40500,39652,41211,1,0,weekend,26
+4713,2024-03-16,Farense,Rio Ave,4804,5272,4804,0,0,weekend,26
+3490,2024-03-16,Famalicao,Estrela da Amadora,3798,3786,3798,0,0,weekend,26
+14097,2024-03-16,Braga,Gil Vicente,15574,11036,18197,0,0,weekend,26
+4005,2024-03-17,Chaves,Vitoria de Guimaraes,3708,2183,7526,0,0,weekend,26
+1664,2024-03-17,Moreirense,Arouca,2951,2682,2951,0,0,weekend,26
+6925,2024-03-17,Casa Pia AC,Benfica,3061,1253,22253,0,1,weekend,26
+38260,2024-03-17,Sporting CP,Boavista,32725,37261,27535,1,0,weekend,26
+4255,2024-03-29,Gil Vicente,Famalicao,4562,4704,4245,0,0,weekend,27
+55351,2024-03-29,Benfica,Chaves,57250,54119,54990,1,0,weekend,27
+6764,2024-03-29,Estrela da Amadora,Sporting CP,3846,2768,3846,0,1,weekend,27
+1127,2024-03-30,Arouca,Farense,1919,2860,1919,0,0,weekend,27
+15143,2024-03-30,Vitoria de Guimaraes,Moreirense,16409,17204,16409,0,0,weekend,27
+7754,2024-03-30,Boavista,Rio Ave,7572,7486,6260,0,0,weekend,27
+4578,2024-03-30,Estoril,FC Porto,2652,2517,4438,0,1,weekend,27
+2235,2024-03-31,Vizela,Casa Pia AC,3337,3024,3008,0,0,weekend,27
+2204,2024-04-01,Portimonense,Braga,2158,2188,1290,0,0,weekday,27
+4928,2024-04-05,Farense,Boavista,4797,4725,4797,0,0,weekend,28
+13031,2024-04-06,Braga,Arouca,15525,11644,13407,0,0,weekend,28
+48113,2024-04-06,Sporting CP,Benfica,32910,39058,39348,1,1,weekend,28
+3713,2024-04-06,Famalicao,Vizela,3788,3620,3334,0,0,weekend,28
+3085,2024-04-06,Rio Ave,Gil Vicente,2939,3280,3036,0,0,weekend,28
+34582,2024-04-07,FC Porto,Vitoria de Guimaraes,40154,36581,42417,1,0,weekend,28
+1360,2024-04-07,Moreirense,Estrela da Amadora,2852,2790,2852,0,0,weekend,28
+2120,2024-04-07,Chaves,Portimonense,3718,2749,3301,0,0,weekend,28
+1391,2024-04-08,Casa Pia AC,Estoril,3190,3141,302,0,0,weekday,28
+11121,2024-04-12,Gil Vicente,Sporting CP,4552,4803,8076,0,1,weekend,29
+19982,2024-04-13,Vitoria de Guimaraes,Farense,16369,13914,16369,0,0,weekend,29
+30510,2024-04-13,FC Porto,Famalicao,39974,37904,33313,1,0,weekend,29
+3639,2024-04-13,Estoril,Braga,2714,2845,2674,0,0,weekend,29
+5372,2024-04-14,Estrela da Amadora,Rio Ave,4054,4543,4054,0,0,weekend,29
+2301,2024-04-14,Arouca,Boavista,1893,2183,1395,0,0,weekend,29
+1683,2024-04-14,Portimonense,Casa Pia AC,2159,2208,1002,0,0,weekend,29
+49083,2024-04-14,Benfica,Moreirense,57189,53839,57189,1,0,weekend,29
+2895,2024-04-15,Vizela,Chaves,3301,2050,2909,0,0,weekday,29
+4944,2024-04-16,Famalicao,Sporting CP,3785,3467,3937,0,1,rare,20
+3225,2024-04-19,Rio Ave,Arouca,2944,3415,2298,0,0,weekend,30
+19263,2024-04-20,Boavista,Estrela da Amadora,7577,7700,7577,0,0,weekend,30
+12932,2024-04-20,Braga,Vizela,15445,12231,14181,0,0,weekend,30
+1398,2024-04-20,Moreirense,Gil Vicente,2746,1522,2746,0,0,weekend,30
+2337,2024-04-21,Chaves,Estoril,3666,2684,3345,0,0,weekend,30
+3729,2024-04-21,Famalicao,Portimonense,3823,4049,2965,0,0,weekend,30
+3387,2024-04-21,Casa Pia AC,FC Porto,3132,3190,8107,0,1,weekend,30
+46101,2024-04-21,Sporting CP,Vitoria de Guimaraes,33400,41812,27324,1,0,weekend,30
+6309,2024-04-22,Farense,Benfica,4806,4762,4806,0,1,weekday,30
+3401,2024-04-26,Gil Vicente,Arouca,4758,6136,2725,0,0,weekend,31
+2423,2024-04-27,Vizela,Rio Ave,3289,2379,3519,0,0,weekend,31
+1044,2024-04-27,Casa Pia AC,Chaves,3140,3901,1035,0,0,weekend,31
+55727,2024-04-27,Benfica,Braga,56936,51133,60289,1,0,weekend,31
+16839,2024-04-27,Vitoria de Guimaraes,Boavista,16482,16011,11359,0,0,weekend,31
+1810,2024-04-28,Portimonense,Moreirense,2145,2233,2145,0,0,weekend,31
+3191,2024-04-28,Estoril,Famalicao,2743,3362,1473,0,0,weekend,31
+45230,2024-04-28,FC Porto,Sporting CP,39678,31736,49430,1,1,weekend,31
+5384,2024-04-29,Estrela da Amadora,Farense,4142,4703,4142,0,0,weekday,31
+2108,2024-05-03,Moreirense,Vizela,2656,1474,2656,0,0,weekend,32
+49557,2024-05-04,Sporting CP,Portimonense,33797,44158,29782,1,0,weekend,32
+3439,2024-05-04,Chaves,FC Porto,3625,2821,5568,0,1,weekend,32
+17465,2024-05-04,Boavista,Gil Vicente,7943,11153,3845,0,0,weekend,32
+3624,2024-05-04,Rio Ave,Vitoria de Guimaraes,2953,3021,4001,0,0,weekend,32
+5508,2024-05-05,Farense,Estoril,4906,5317,4906,0,0,weekend,32
+1079,2024-05-05,Arouca,Estrela da Amadora,1906,2496,1906,0,0,weekend,32
+10894,2024-05-05,Braga,Casa Pia AC,15366,13353,13004,0,0,weekend,32
+4827,2024-05-05,Famalicao,Benfica,3820,4129,4867,0,1,weekend,32
+1528,2024-05-10,Chaves,Famalicao,3619,2632,2304,0,0,weekend,33
+25224,2024-05-11,Vitoria de Guimaraes,Braga,16492,17321,19072,0,0,weekend,33
+5018,2024-05-11,Estoril,Sporting CP,2757,3803,4718,0,1,weekend,33
+2528,2024-05-11,Portimonense,Rio Ave,2134,1899,1246,0,0,weekend,33
+1612,2024-05-11,Vizela,Estrela da Amadora,3263,2518,3263,0,0,weekend,33
+5831,2024-05-12,Gil Vicente,Farense,4716,6259,4716,0,0,weekend,33
+49364,2024-05-12,Benfica,Arouca,56899,53387,53617,1,0,weekend,33
+1837,2024-05-12,Casa Pia AC,Moreirense,3076,1941,3076,0,0,weekend,33
+33031,2024-05-12,FC Porto,Boavista,39847,36774,47925,1,0,weekend,33
+3115,2024-05-17,Famalicao,Casa Pia AC,3850,4500,2729,0,0,weekend,34
+4809,2024-05-17,Rio Ave,Benfica,2973,3311,4134,0,1,weekend,34
+48628,2024-05-18,Sporting CP,Chaves,34275,47924,31408,1,0,weekend,34
+23284,2024-05-18,Braga,FC Porto,15230,12286,22256,0,1,weekend,34
+1697,2024-05-18,Moreirense,Estoril,2622,1622,2622,0,0,weekend,34
+2208,2024-05-18,Arouca,Vitoria de Guimaraes,1881,1502,2376,0,0,weekend,34
+7331,2024-05-18,Estrela da Amadora,Gil Vicente,4220,5840,4220,0,0,weekend,34
+19874,2024-05-18,Boavista,Vizela,8231,14827,5764,0,0,weekend,34
+5888,2024-05-18,Farense,Portimonense,4944,5582,4944,0,0,weekend,34
+38513,2024-08-09,Sporting CP,Rio Ave,34697,48095,33058,1,0,weekend,1
+1596,2024-08-10,AVS Futebol SAD,Nacional,11951,11951,11951,0,0,weekend,1
+1142,2024-08-10,Casa Pia AC,Boavista,3040,2089,1198,0,0,weekend,1
+46813,2024-08-10,FC Porto,Gil Vicente,39646,36257,36563,1,0,weekend,1
+1968,2024-08-11,Estoril,Santa Clara,2823,3949,4198,0,0,weekend,1
+5025,2024-08-11,Famalicao,Benfica,3829,3890,4847,0,1,weekend,1
+5255,2024-08-11,Farense,Moreirense,4999,5902,4646,0,0,weekend,1
+14746,2024-08-11,Braga,Estrela da Amadora,15467,15703,9564,0,0,weekend,1
+3394,2024-08-12,Arouca,Vitoria de Guimaraes,1890,1863,2292,0,0,weekday,1
+3649,2024-08-16,Gil Vicente,AVS Futebol SAD,4749,6784,4749,0,0,weekend,2
+7022,2024-08-16,Santa Clara,FC Porto,2160,616,5692,0,1,weekend,2
+58926,2024-08-17,Benfica,Casa Pia AC,56677,51391,58002,1,0,weekend,2
+5058,2024-08-17,Nacional,Sporting CP,11951,11951,11951,0,1,weekend,2
+3177,2024-08-17,Rio Ave,Farense,3027,3886,1865,0,0,weekend,2
+1527,2024-08-18,Moreirense,Arouca,2567,1734,1664,0,0,weekend,2
+17331,2024-08-18,Vitoria de Guimaraes,Estoril,16749,20682,15376,0,0,weekend,2
+7119,2024-08-18,Boavista,Braga,8574,18867,9085,0,0,weekend,2
+4769,2024-08-19,Estrela da Amadora,Famalicao,4403,6029,3137,0,0,weekday,2
+17793,2024-08-23,Farense,Sporting CP,5014,5550,6020,0,1,weekend,3
+1188,2024-08-24,Casa Pia AC,Santa Clara,2986,1341,1003,0,0,weekend,3
+47113,2024-08-24,FC Porto,Rio Ave,39851,41691,39980,1,0,weekend,3
+59490,2024-08-24,Benfica,Estrela da Amadora,56742,54672,58479,1,0,weekend,3
+4769,2024-08-24,Famalicao,Boavista,3863,4322,3490,0,0,weekend,3
+2081,2024-08-25,Arouca,Nacional,1933,2227,1933,0,0,weekend,3
+2010,2024-08-25,Estoril,Gil Vicente,2799,3392,2604,0,0,weekend,3
+4485,2024-08-25,AVS Futebol SAD,Vitoria de Guimaraes,1596,1596,1596,0,0,weekend,3
+14155,2024-08-25,Braga,Moreirense,15447,16308,12275,0,0,weekend,3
+5817,2024-08-30,Moreirense,Benfica,2509,1777,5664,0,1,weekend,4
+46413,2024-08-31,Sporting CP,FC Porto,34806,45566,41956,1,1,weekend,4
+3471,2024-08-31,Estrela da Amadora,Casa Pia AC,4423,5828,1972,0,0,weekend,4
+1935,2024-08-31,Santa Clara,AVS Futebol SAD,2430,2745,2430,0,0,weekend,4
+3956,2024-08-31,Boavista,Estoril,8532,14819,6246,0,0,weekend,4
+2038,2024-09-01,Nacional,Farense,5058,5058,5058,0,0,weekend,4
+2558,2024-09-01,Rio Ave,Arouca,3032,3870,2762,0,0,weekend,4
+7140,2024-09-01,Gil Vicente,Braga,4718,4294,5066,0,0,weekend,4
+20134,2024-09-01,Vitoria de Guimaraes,Famalicao,16766,19798,13938,0,0,weekend,4
+4644,2024-09-13,Arouca,Sporting CP,1938,2561,3212,0,1,weekend,5
+2151,2024-09-14,AVS Futebol SAD,Rio Ave,3040,3040,3040,0,0,weekend,5
+1248,2024-09-14,Casa Pia AC,Moreirense,2936,1389,1837,0,0,weekend,5
+60145,2024-09-14,Benfica,Santa Clara,56818,55927,64012,1,0,weekend,5
+4112,2024-09-14,Famalicao,Gil Vicente,3888,4303,3361,0,0,weekend,5
+47013,2024-09-15,FC Porto,Farense,40053,42319,48129,1,0,weekend,5
+2128,2024-09-15,Estoril,Nacional,2777,2999,2777,0,0,weekend,5
+21215,2024-09-15,Braga,Vitoria de Guimaraes,15411,17395,22060,0,0,weekend,5
+3476,2024-09-16,Estrela da Amadora,Boavista,4373,5190,3732,0,0,weekday,5
+2459,2024-09-20,Nacional,Braga,3548,3548,3548,0,0,weekend,6
+2022,2024-09-21,Moreirense,Famalicao,2684,3014,2327,0,0,weekend,6
+26377,2024-09-21,Vitoria de Guimaraes,FC Porto,16859,20896,20503,0,1,weekend,6
+2123,2024-09-21,Santa Clara,Estrela da Amadora,2404,3197,2404,0,0,weekend,6
+3014,2024-09-21,Rio Ave,Estoril,3018,3515,2856,0,0,weekend,6
+3825,2024-09-22,Gil Vicente,Casa Pia AC,4785,5540,2487,0,0,weekend,6
+5057,2024-09-22,Farense,Arouca,5686,9645,4237,0,0,weekend,6
+43039,2024-09-22,Sporting CP,AVS Futebol SAD,35128,44518,35128,1,0,weekend,6
+16151,2024-09-23,Boavista,Benfica,8405,10316,16130,0,1,weekday,6
+4658,2024-09-27,Estoril,Sporting CP,2759,2035,4868,0,1,weekend,7
+2632,2024-09-28,Casa Pia AC,Vitoria de Guimaraes,2890,1193,2824,0,0,weekend,7
+58965,2024-09-28,Benfica,Gil Vicente,56908,59520,57994,1,0,weekend,7
+2987,2024-09-28,Estrela da Amadora,Moreirense,4328,3905,3458,0,0,weekend,7
+3974,2024-09-29,Famalicao,Nacional,3894,4635,3894,0,0,weekend,7
+44209,2024-09-29,FC Porto,Arouca,40241,46980,46120,1,0,weekend,7
+11888,2024-09-29,Braga,Rio Ave,15568,16705,12774,0,0,weekend,7
+1320,2024-09-29,Santa Clara,Boavista,2390,3693,1680,0,0,weekend,7
+1615,2024-09-30,AVS Futebol SAD,Farense,2744,2744,2744,0,0,weekday,7
+2708,2024-10-04,Rio Ave,Famalicao,3018,2916,3056,0,0,weekend,8
+42887,2024-10-05,Sporting CP,Casa Pia AC,35342,42655,29774,1,0,weekend,8
+1113,2024-10-05,Arouca,AVS Futebol SAD,2011,3373,2011,0,0,weekend,8
+1798,2024-10-05,Moreirense,Santa Clara,2650,3122,2650,0,0,weekend,8
+2709,2024-10-05,Gil Vicente,Estrela da Amadora,4759,4871,2349,0,0,weekend,8
+4921,2024-10-06,Farense,Estoril,5655,9368,5508,0,0,weekend,8
+15961,2024-10-06,Vitoria de Guimaraes,Boavista,17117,21281,14099,0,0,weekend,8
+44813,2024-10-06,FC Porto,Braga,40345,46112,43116,1,0,weekend,8
+1004,2024-10-25,Casa Pia AC,Nacional,2883,1689,2883,0,0,weekend,9
+1676,2024-10-25,Santa Clara,Gil Vicente,2339,1793,579,0,0,weekend,9
+1686,2024-10-26,Estoril,Arouca,2809,2932,2505,0,0,weekend,9
+3697,2024-10-26,Boavista,Moreirense,8614,9075,6441,0,0,weekend,9
+4520,2024-10-26,Famalicao,Sporting CP,3896,4285,4440,0,1,weekend,9
+12841,2024-10-27,Braga,Farense,15471,15753,11270,0,0,weekend,9
+58961,2024-10-27,Benfica,Rio Ave,56962,59533,55707,1,0,weekend,9
+2319,2024-10-27,Estrela da Amadora,Vitoria de Guimaraes,4264,3311,4300,0,0,weekend,9
+4795,2024-10-28,AVS Futebol SAD,FC Porto,2462,2750,2462,0,1,weekday,9
+41282,2024-11-01,Sporting CP,Estrela da Amadora,35541,44113,38408,1,0,weekend,10
+4221,2024-11-02,Gil Vicente,Boavista,4705,4558,4126,0,0,weekend,10
+2323,2024-11-02,Rio Ave,Casa Pia AC,3010,2760,2717,0,0,weekend,10
+12649,2024-11-02,Farense,Benfica,5620,9257,6309,0,1,weekend,10
+2429,2024-11-03,AVS Futebol SAD,Famalicao,2928,2854,2928,0,0,weekend,10
+1631,2024-11-03,Arouca,Braga,1987,2613,1936,0,0,weekend,10
+18031,2024-11-03,Vitoria de Guimaraes,Moreirense,17086,20824,15143,0,0,weekend,10
+39019,2024-11-03,FC Porto,Estoril,40460,45345,29711,1,0,weekend,10
+1425,2024-11-04,Nacional,Santa Clara,3185,3185,3185,0,0,weekday,10
+1316,2024-11-08,Moreirense,Gil Vicente,2610,3212,1398,0,0,weekend,11
+4495,2024-11-09,Boavista,Rio Ave,8485,7935,7007,0,0,weekend,11
+3551,2024-11-09,Famalicao,Arouca,3912,4202,3854,0,0,weekend,11
+1912,2024-11-09,Estoril,AVS Futebol SAD,2780,2824,2780,0,0,weekend,11
+1202,2024-11-09,Casa Pia AC,Farense,2835,1628,1726,0,0,weekend,11
+3386,2024-11-10,Estrela da Amadora,Nacional,4176,2927,4176,0,0,weekend,11
+2512,2024-11-10,Santa Clara,Vitoria de Guimaraes,2309,1706,1598,0,0,weekend,11
+20585,2024-11-10,Braga,Sporting CP,15403,15315,20248,0,1,weekend,11
+63342,2024-11-10,Benfica,FC Porto,57013,59357,62138,1,1,weekend,11
+5178,2024-11-29,Farense,Estrela da Amadora,5939,7542,4549,0,0,weekend,12
+41681,2024-11-30,Sporting CP,Santa Clara,35688,42403,31603,1,0,weekend,12
+2009,2024-11-30,Rio Ave,Moreirense,2992,2682,2695,0,0,weekend,12
+1516,2024-11-30,Nacional,Boavista,2745,1974,2745,0,0,weekend,12
+2047,2024-12-01,Estoril,Famalicao,2759,2752,2332,0,0,weekend,12
+4644,2024-12-01,Arouca,Benfica,1978,2463,4526,0,1,weekend,12
+2579,2024-12-01,AVS Futebol SAD,Braga,2845,2946,2845,0,0,weekend,12
+11317,2024-12-02,Vitoria de Guimaraes,Gil Vicente,17110,20123,18930,0,0,weekday,12
+32810,2024-12-02,FC Porto,Casa Pia AC,40424,42680,32166,1,0,weekday,12
+5154,2024-12-05,Moreirense,Sporting CP,2551,1712,5163,0,1,rare,13
+9071,2024-12-06,Braga,Estoril,15533,15105,14204,0,0,weekend,13
+2643,2024-12-07,Gil Vicente,Nacional,4693,3585,4693,0,0,weekend,13
+58839,2024-12-07,Benfica,Vitoria de Guimaraes,57171,60423,59892,1,0,weekend,13
+1564,2024-12-07,Santa Clara,Rio Ave,2318,1836,912,0,0,weekend,13
+4499,2024-12-07,Famalicao,FC Porto,3903,4015,4925,0,1,weekend,13
+3845,2024-12-08,Boavista,Farense,8383,8114,6520,0,0,weekend,13
+1147,2024-12-08,Casa Pia AC,AVS Futebol SAD,2794,1613,2794,0,0,weekend,13
+2083,2024-12-09,Estrela da Amadora,Arouca,4142,2897,4352,0,0,weekday,13
+34094,2024-12-14,Sporting CP,Boavista,35838,41950,32898,1,0,weekend,14
+4761,2024-12-14,Farense,Gil Vicente,5906,7583,4437,0,0,weekend,14
+1471,2024-12-14,Nacional,Moreirense,2499,1800,2499,0,0,weekend,14
+1307,2024-12-15,Arouca,Santa Clara,2045,2463,857,0,0,weekend,14
+5473,2024-12-15,AVS Futebol SAD,Benfica,2807,3268,2807,0,1,weekend,14
+1873,2024-12-15,Estoril,Casa Pia AC,2741,1882,2093,0,0,weekend,14
+8322,2024-12-16,Braga,Famalicao,15375,14166,16758,0,0,weekday,14
+32116,2024-12-16,FC Porto,Estrela da Amadora,40238,38881,30613,1,0,weekday,14
+2897,2024-12-16,Rio Ave,Vitoria de Guimaraes,2968,2347,3812,0,0,weekday,14
+5086,2024-12-19,Nacional,Benfica,2328,1471,2328,0,1,rare,8
+912,2024-12-20,Casa Pia AC,Arouca,2754,1118,1133,0,0,weekend,15
+3072,2024-12-21,Famalicao,Farense,3918,4190,4171,0,0,weekend,15
+3321,2024-12-21,Boavista,AVS Futebol SAD,8269,4012,8269,0,0,weekend,15
+4553,2024-12-21,Moreirense,FC Porto,2664,2756,5674,0,1,weekend,15
+9794,2024-12-22,Gil Vicente,Sporting CP,4642,3191,9598,0,1,weekend,15
+4041,2024-12-22,Santa Clara,Braga,2287,1917,1591,0,0,weekend,15
+2202,2024-12-23,Estrela da Amadora,Rio Ave,4056,2596,5372,0,0,weekday,15
+60572,2024-12-23,Benfica,Estoril,57212,60381,53500,1,0,weekday,15
+17423,2024-12-23,Vitoria de Guimaraes,Nacional,16966,15103,16966,0,0,weekday,15
+1743,2024-12-27,Arouca,Gil Vicente,2027,2527,1572,0,0,weekend,16
+1262,2024-12-28,AVS Futebol SAD,Estrela da Amadora,3140,3494,3140,0,0,weekend,16
+2246,2024-12-28,Estoril,Moreirense,2721,1944,1762,0,0,weekend,16
+47509,2024-12-28,FC Porto,Boavista,40045,34648,40478,1,0,weekend,16
+6012,2024-12-29,Farense,Vitoria de Guimaraes,5858,7529,4955,0,0,weekend,16
+2729,2024-12-29,Rio Ave,Nacional,2966,2410,2966,0,0,weekend,16
+20819,2024-12-29,Braga,Casa Pia AC,15207,12659,11949,0,0,weekend,16
+48076,2024-12-29,Sporting CP,Benfica,35795,39019,43730,1,1,weekend,16
+3818,2024-12-30,Famalicao,Santa Clara,3898,3707,3636,0,0,weekday,16
+26549,2025-01-03,Vitoria de Guimaraes,Sporting CP,16977,15590,21125,0,1,weekend,17
+61750,2025-01-04,Benfica,Braga,57292,60918,58008,1,0,weekend,17
+2327,2025-01-04,Moreirense,AVS Futebol SAD,2743,3674,2743,0,0,weekend,17
+3559,2025-01-04,Boavista,Arouca,8148,3887,4238,0,0,weekend,17
+974,2025-01-05,Casa Pia AC,Famalicao,2710,1087,1078,0,0,weekend,17
+2291,2025-01-05,Santa Clara,Farense,2357,2706,2357,0,0,weekend,17
+1756,2025-01-05,Estrela da Amadora,Estoril,3982,2557,3624,0,0,weekend,17
+3348,2025-01-06,Gil Vicente,Rio Ave,4767,5553,3097,0,0,weekday,17
+4466,2025-01-12,Nacional,FC Porto,2722,2691,2722,0,1,weekend,17
+53985,2025-01-17,Benfica,Famalicao,57396,60387,57860,1,0,weekend,18
+1724,2025-01-18,Santa Clara,Estoril,2354,2632,747,0,0,weekend,18
+4756,2025-01-18,Rio Ave,Sporting CP,2961,2545,4266,0,1,weekend,18
+13916,2025-01-18,Vitoria de Guimaraes,Arouca,17205,18430,16462,0,0,weekend,18
+1369,2025-01-19,Moreirense,Farense,2726,4011,1695,0,0,weekend,18
+2061,2025-01-19,Nacional,AVS Futebol SAD,2940,3674,2940,0,0,weekend,18
+2719,2025-01-19,Estrela da Amadora,Braga,3896,2014,3630,0,0,weekend,18
+7412,2025-01-19,Gil Vicente,FC Porto,4733,5262,7790,0,1,weekend,18
+2178,2025-01-20,Boavista,Casa Pia AC,8039,3575,4260,0,0,weekday,18
+756,2025-01-24,Arouca,Moreirense,2020,2565,1037,0,0,weekend,19
+2716,2025-01-25,Famalicao,Estrela da Amadora,3896,3796,3490,0,0,weekend,19
+5200,2025-01-25,Farense,Rio Ave,5865,5317,4713,0,0,weekend,19
+7051,2025-01-25,Casa Pia AC,Benfica,2670,1011,14589,0,1,weekend,19
+42420,2025-01-25,Sporting CP,Nacional,36088,41284,36088,1,0,weekend,19
+4265,2025-01-26,Braga,Boavista,15338,12737,14376,0,0,weekend,19
+27793,2025-01-26,FC Porto,Santa Clara,40218,37478,40708,1,0,weekend,19
+2660,2025-01-26,Estoril,Vitoria de Guimaraes,2710,2055,1855,0,0,weekend,19
+726,2025-01-27,AVS Futebol SAD,Gil Vicente,2932,3105,2932,0,0,weekday,19
+2904,2025-01-31,Boavista,Famalicao,7903,3019,6670,0,0,weekend,20
+1989,2025-02-01,Nacional,Arouca,2842,3871,2842,0,0,weekend,20
+2019,2025-02-01,Santa Clara,Casa Pia AC,2331,2685,1785,0,0,weekend,20
+3949,2025-02-01,Gil Vicente,Estoril,4796,6851,2506,0,0,weekend,20
+13647,2025-02-01,Vitoria de Guimaraes,AVS Futebol SAD,17128,19296,17128,0,0,weekend,20
+6243,2025-02-02,Estrela da Amadora,Benfica,3852,2226,6398,0,1,weekend,20
+43023,2025-02-02,Sporting CP,Farense,36235,41530,39063,1,0,weekend,20
+2175,2025-02-03,Moreirense,Braga,2674,2750,2875,0,0,weekday,20
+4100,2025-02-03,Rio Ave,FC Porto,3002,3461,4396,0,1,weekday,20
+49193,2025-02-07,FC Porto,Sporting CP,39936,35806,47330,1,1,weekend,21
+1135,2025-02-08,AVS Futebol SAD,Santa Clara,2711,2487,2711,0,0,weekend,21
+58189,2025-02-08,Benfica,Moreirense,57318,58769,49083,1,0,weekend,21
+3297,2025-02-08,Famalicao,Vitoria de Guimaraes,3869,3202,4160,0,0,weekend,21
+1042,2025-02-09,Casa Pia AC,Estrela da Amadora,2769,2979,2861,0,0,weekend,21
+12304,2025-02-09,Braga,Gil Vicente,15086,11135,16147,0,0,weekend,21
+3064,2025-02-09,Estoril,Boavista,2709,2260,2006,0,0,weekend,21
+5830,2025-02-09,Farense,Nacional,5839,5324,5839,0,0,weekend,21
+1245,2025-02-10,Arouca,Rio Ave,1990,1269,1166,0,0,weekday,21
+4494,2025-02-14,Boavista,Estrela da Amadora,7789,2880,19263,0,0,weekend,22
+1629,2025-02-15,Moreirense,Casa Pia AC,2656,1957,944,0,0,weekend,22
+1784,2025-02-15,Nacional,Estoril,2757,2839,2757,0,0,weekend,22
+9933,2025-02-15,Santa Clara,Benfica,2320,2011,9701,0,1,weekend,22
+39258,2025-02-15,Sporting CP,Arouca,36389,44506,31136,1,0,weekend,22
+2206,2025-02-16,Rio Ave,AVS Futebol SAD,3027,3862,3027,0,0,weekend,22
+15302,2025-02-16,Farense,FC Porto,5839,5681,6356,0,1,weekend,22
+28133,2025-02-16,Vitoria de Guimaraes,Braga,17049,18037,22148,0,0,weekend,22
+4490,2025-02-17,Gil Vicente,Famalicao,4776,4903,4250,0,0,weekday,22
+7872,2025-02-21,Braga,Nacional,15024,12463,15024,0,0,weekend,23
+2721,2025-02-22,Estoril,Rio Ave,2716,2657,2050,0,0,weekend,23
+58022,2025-02-22,Benfica,Boavista,57338,57975,55379,1,0,weekend,23
+1135,2025-02-22,Casa Pia AC,Gil Vicente,2731,3022,1012,0,0,weekend,23
+1705,2025-02-23,Arouca,Farense,1974,1248,1127,0,0,weekend,23
+3481,2025-02-23,Estrela da Amadora,Santa Clara,3938,3573,3938,0,0,weekend,23
+4262,2025-02-23,AVS Futebol SAD,Sporting CP,2568,1041,2568,0,1,weekend,23
+3641,2025-02-23,Famalicao,Moreirense,3856,3277,4640,0,0,weekend,23
+44142,2025-02-24,FC Porto,Vitoria de Guimaraes,40142,41498,38500,1,0,weekday,23
+1466,2025-03-01,Nacional,Famalicao,2668,1945,2668,0,0,weekend,24
+3114,2025-03-01,Arouca,FC Porto,1968,1235,3624,0,1,weekend,24
+14798,2025-03-01,Vitoria de Guimaraes,Casa Pia AC,17295,18565,13960,0,0,weekend,24
+5864,2025-03-02,Boavista,Santa Clara,7716,3192,5520,0,0,weekend,24
+1498,2025-03-02,Moreirense,Estrela da Amadora,2619,1724,1360,0,0,weekend,24
+5967,2025-03-02,Farense,AVS Futebol SAD,6177,8777,6177,0,0,weekend,24
+3234,2025-03-02,Rio Ave,Braga,3009,3687,2912,0,0,weekend,24
+36505,2025-03-03,Sporting CP,Estoril,36453,41567,29898,1,0,weekday,24
+1945,2025-03-07,Estrela da Amadora,Gil Vicente,3922,4148,7331,0,0,weekend,25
+1487,2025-03-08,Estoril,Farense,2717,2815,2562,0,0,weekend,25
+15922,2025-03-08,Braga,FC Porto,14869,8147,22770,0,1,weekend,25
+759,2025-03-08,AVS Futebol SAD,Arouca,2709,2041,2709,0,0,weekend,25
+52543,2025-03-08,Benfica,Nacional,57353,56732,57353,1,0,weekend,25
+16820,2025-03-09,Boavista,Vitoria de Guimaraes,7676,4421,7363,0,0,weekend,25
+6823,2025-03-09,Casa Pia AC,Sporting CP,2696,3076,8745,0,1,weekend,25
+1780,2025-03-10,Famalicao,Rio Ave,3851,3218,3916,0,0,weekday,25
+6064,2025-03-15,Farense,Braga,6169,9033,5006,0,0,weekend,26
+4248,2025-03-15,Gil Vicente,Santa Clara,4770,5284,2839,0,0,weekend,26
+37286,2025-03-15,FC Porto,AVS Futebol SAD,40229,40376,40229,1,0,weekend,26
+41791,2025-03-15,Sporting CP,Famalicao,36454,39595,34865,1,0,weekend,26
+1643,2025-03-16,Arouca,Estoril,1992,2021,1258,0,0,weekend,26
+1556,2025-03-16,Nacional,Casa Pia AC,2568,1746,2568,0,0,weekend,26
+4753,2025-03-16,Rio Ave,Benfica,3014,3180,4472,0,1,weekend,26
+1521,2025-03-16,Moreirense,Boavista,2580,1767,2388,0,0,weekend,26
+13974,2025-03-16,Vitoria de Guimaraes,Estrela da Amadora,17241,18859,19033,0,0,weekend,26
+11010,2025-03-28,Gil Vicente,Benfica,4759,4229,11743,0,1,weekend,24
+1206,2025-03-29,Casa Pia AC,Rio Ave,2784,3000,2563,0,0,weekend,27
+7031,2025-03-29,Estrela da Amadora,Sporting CP,3856,3890,6764,0,1,weekend,27
+12122,2025-03-29,Braga,Arouca,14891,12033,13219,0,0,weekend,27
+3795,2025-03-30,Moreirense,Vitoria de Guimaraes,2545,1549,4351,0,0,weekend,27
+4762,2025-03-30,Estoril,FC Porto,2690,2424,4508,0,1,weekend,27
+2038,2025-03-30,Santa Clara,Nacional,2582,4559,2582,0,0,weekend,27
+4163,2025-03-30,Famalicao,AVS Futebol SAD,3807,2906,3807,0,0,weekend,27
+4731,2025-04-01,Boavista,Gil Vicente,7870,9059,10655,0,0,rare,27
+51790,2025-04-02,Benfica,Farense,57250,56251,56766,1,0,rare,27
+743,2025-04-04,AVS Futebol SAD,Estoril,2559,2052,2559,0,0,weekend,28
+1699,2025-04-05,Arouca,Famalicao,1985,2154,1190,0,0,weekend,28
+15143,2025-04-05,Vitoria de Guimaraes,Santa Clara,17172,18968,12132,0,0,weekend,28
+5981,2025-04-06,Gil Vicente,Moreirense,4892,6583,2382,0,0,weekend,28
+1872,2025-04-06,Nacional,Estrela da Amadora,2490,1602,2490,0,0,weekend,28
+49193,2025-04-06,FC Porto,Benfica,40166,43540,49256,1,1,weekend,28
+5527,2025-04-07,Farense,Casa Pia AC,6166,9111,3953,0,0,weekday,28
+1060,2025-04-07,Rio Ave,Boavista,3051,3398,2706,0,0,weekday,28
+45626,2025-04-07,Sporting CP,Braga,36568,39185,33094,1,0,weekday,28
+6588,2025-04-11,Gil Vicente,Vitoria de Guimaraes,4914,7080,5352,0,0,weekend,29
+8914,2025-04-12,Santa Clara,Sporting CP,2564,4663,4447,0,1,weekend,29
+3649,2025-04-12,Casa Pia AC,FC Porto,2751,3055,5747,0,1,weekend,29
+6280,2025-04-12,Boavista,Nacional,7805,9138,7805,0,0,weekend,29
+3003,2025-04-12,Famalicao,Estoril,3815,3195,3503,0,0,weekend,29
+4103,2025-04-13,Estrela da Amadora,Farense,3959,4152,5384,0,0,weekend,29
+61581,2025-04-13,Benfica,Arouca,57136,54118,51490,1,0,weekend,29
+14529,2025-04-13,Braga,AVS Futebol SAD,14834,11972,14834,0,0,weekend,29
+1388,2025-04-13,Moreirense,Rio Ave,2585,2271,1542,0,0,weekend,29
+6171,2025-04-18,Farense,Boavista,6145,5853,4928,0,0,weekend,30
+921,2025-04-18,Rio Ave,Santa Clara,3009,3016,1984,0,0,weekend,30
+44558,2025-04-18,Sporting CP,Moreirense,36756,41307,36815,1,0,weekend,30
+39286,2025-04-18,FC Porto,Famalicao,40354,43540,31912,1,0,weekend,30
+2057,2025-04-19,AVS Futebol SAD,Casa Pia AC,2429,1921,2429,0,0,weekend,30
+2998,2025-04-19,Nacional,Gil Vicente,2446,1631,2446,0,0,weekend,30
+1227,2025-04-19,Arouca,Estrela da Amadora,1979,2152,1079,0,0,weekend,30
+3656,2025-04-19,Estoril,Braga,2734,2990,3156,0,0,weekend,30
+23341,2025-04-19,Vitoria de Guimaraes,Benfica,17129,14638,22123,0,1,weekend,30
+4665,2025-04-25,Famalicao,Braga,3798,2982,4312,0,0,weekend,31
+4273,2025-04-26,Estrela da Amadora,FC Porto,3963,4360,5976,0,1,weekend,31
+5611,2025-04-26,Gil Vicente,Farense,4949,7860,5831,0,0,weekend,31
+1534,2025-04-26,Santa Clara,Arouca,2769,6962,1172,0,0,weekend,31
+1214,2025-04-27,Moreirense,Nacional,2548,2235,2548,0,0,weekend,31
+58102,2025-04-27,Benfica,AVS Futebol SAD,57227,55305,57227,1,0,weekend,31
+17304,2025-04-27,Vitoria de Guimaraes,Rio Ave,17256,17486,15110,0,0,weekend,31
+18322,2025-04-27,Boavista,Sporting CP,7774,9277,10544,0,1,weekend,31
+1032,2025-04-29,Casa Pia AC,Estoril,2770,3893,846,0,0,rare,31
+27374,2025-05-02,FC Porto,Moreirense,40332,41922,34218,1,0,weekend,32
+1911,2025-05-03,Nacional,Vitoria de Guimaraes,2483,2142,2483,0,0,weekend,32
+4171,2025-05-03,Farense,Famalicao,6146,5921,4815,0,0,weekend,32
+14901,2025-05-03,Braga,Santa Clara,14827,14191,16442,0,0,weekend,32
+5026,2025-05-03,Estoril,Benfica,2752,3302,4912,0,1,weekend,32
+1032,2025-05-04,Arouca,Casa Pia AC,1964,1523,1208,0,0,weekend,32
+44666,2025-05-04,Sporting CP,Gil Vicente,36916,43992,30770,1,0,weekend,32
+689,2025-05-05,Rio Ave,Estrela da Amadora,2967,2245,2403,0,0,weekday,32
+2605,2025-05-05,AVS Futebol SAD,Boavista,2404,1186,2404,0,0,weekday,32
+6819,2025-05-10,Gil Vicente,Arouca,4962,6060,3063,0,0,weekend,33
+63478,2025-05-10,Benfica,Sporting CP,57245,57158,62230,1,1,weekend,33
+1342,2025-05-10,Casa Pia AC,Braga,2735,1962,2584,0,0,weekend,33
+1618,2025-05-10,Santa Clara,Famalicao,2730,4162,1618,0,0,weekend,33
+1568,2025-05-10,Nacional,Rio Ave,2447,2260,2447,0,0,weekend,33
+6728,2025-05-11,Estrela da Amadora,AVS Futebol SAD,3972,5136,3972,0,0,weekend,33
+1472,2025-05-11,Moreirense,Estoril,2507,2132,1697,0,0,weekend,33
+20226,2025-05-11,Vitoria de Guimaraes,Farense,17257,18596,19982,0,0,weekend,33
+14860,2025-05-11,Boavista,FC Porto,7985,9778,12640,0,1,weekend,33
+4130,2025-05-16,Famalicao,Casa Pia AC,3816,3944,2922,0,0,weekend,34
+909,2025-05-16,Rio Ave,Gil Vicente,2921,890,3060,0,0,weekend,34
+49155,2025-05-17,Sporting CP,Vitoria de Guimaraes,37071,44950,36712,1,0,weekend,34
+34674,2025-05-17,FC Porto,Nacional,40073,38618,40073,1,0,weekend,34
+5954,2025-05-17,Farense,Santa Clara,6086,5290,6086,0,0,weekend,34
+2911,2025-05-17,Arouca,Boavista,1945,1319,1848,0,0,weekend,34
+20198,2025-05-17,Braga,Benfica,14829,13851,22465,0,1,weekend,34
+2247,2025-05-17,AVS Futebol SAD,Moreirense,2417,1802,2417,0,0,weekend,34
+2386,2025-05-17,Estoril,Estrela da Amadora,2798,4481,3486,0,0,weekend,34
+6981,2025-08-08,Casa Pia AC,Sporting CP,2707,2008,8104,0,1,weekend,1
+2003,2025-08-09,Arouca,AVS Futebol SAD,1964,1723,1113,0,0,weekend,1
+1663,2025-08-09,Nacional,Gil Vicente,2396,2159,2998,0,0,weekend,1
+4300,2025-08-10,Famalicao,Santa Clara,3822,3933,3727,0,0,weekend,1
+17174,2025-08-10,Braga,Tondela,14934,16543,14934,0,0,weekend,1
+2550,2025-08-10,Moreirense,Alverca,2477,1358,2477,0,0,weekend,1
+2781,2025-08-11,Estoril,Estrela da Amadora,2790,3689,2936,0,0,weekday,1
+48534,2025-08-11,FC Porto,Vitoria de Guimaraes,39967,33778,40380,1,0,weekday,1
+1225,2025-08-15,AVS Futebol SAD,Casa Pia AC,2407,2303,2057,0,0,weekend,2
+532,2025-08-16,Tondela,Famalicao,11951,11951,11951,0,0,weekend,2
+18926,2025-08-16,Vitoria de Guimaraes,Estoril,17315,20290,16028,0,0,weekend,2
+6249,2025-08-16,Estrela da Amadora,Benfica,4054,5035,6320,0,1,weekend,2
+2452,2025-08-17,Rio Ave,Nacional,2882,840,2729,0,0,weekend,2
+2776,2025-08-17,Alverca,Braga,11951,11951,11951,0,0,weekend,2
+1695,2025-08-17,Santa Clara,Moreirense,2697,4022,2697,0,0,weekend,2
+41986,2025-08-17,Sporting CP,Arouca,37307,46126,33843,1,0,weekend,2
+11066,2025-08-18,Gil Vicente,FC Porto,4998,6339,7664,0,1,weekday,2
+61229,2025-08-23,Benfica,Tondela,57367,61054,57367,1,0,weekend,3
+1733,2025-08-23,Arouca,Rio Ave,1965,1982,1192,0,0,weekend,3
+4394,2025-08-23,Nacional,Sporting CP,2355,1714,5058,0,1,weekend,3
+4210,2025-08-23,Moreirense,Vitoria de Guimaraes,2479,1745,4073,0,0,weekend,3
+4571,2025-08-24,Famalicao,Gil Vicente,3831,4365,3611,0,0,weekend,3
+49045,2025-08-24,FC Porto,Casa Pia AC,40132,36861,32381,1,0,weekend,3
+15078,2025-08-24,Braga,AVS Futebol SAD,14977,17424,14529,0,0,weekend,3
+3411,2025-08-25,Estrela da Amadora,Alverca,4116,5750,4116,0,0,weekday,3
+5693,2025-08-29,Gil Vicente,Moreirense,5115,7832,4182,0,0,weekend,4
+1351,2025-08-30,Casa Pia AC,Nacional,2790,3118,1004,0,0,weekend,4
+1633,2025-08-30,AVS Futebol SAD,Famalicao,2341,2026,2429,0,0,weekend,4
+14128,2025-08-30,Vitoria de Guimaraes,Arouca,17346,18819,15613,0,0,weekend,4
+50946,2025-08-30,Sporting CP,FC Porto,37397,45269,43442,1,1,weekend,4
+2226,2025-08-31,Tondela,Estoril,532,532,532,0,0,weekend,4
+6532,2025-08-31,Alverca,Benfica,2776,2776,2776,0,1,weekend,4
+3250,2025-08-31,Rio Ave,Braga,2874,1350,3019,0,0,weekend,4
+1938,2025-08-31,Santa Clara,Estrela da Amadora,2667,1616,2123,0,0,weekend,4
+1852,2025-09-06,Estoril,Santa Clara,2790,3398,3083,0,0,weekend,3
+59507,2025-09-12,Benfica,Santa Clara,57441,60936,62078,1,0,weekend,5
+2037,2025-09-12,Alverca,Tondela,4654,4654,4654,0,0,weekend,5
+1752,2025-09-13,Estoril,AVS Futebol SAD,2772,2340,1912,0,0,weekend,5
+1683,2025-09-13,Moreirense,Rio Ave,2527,2744,1465,0,0,weekend,5
+47285,2025-09-13,FC Porto,Nacional,40300,44084,34674,1,0,weekend,5
+4887,2025-09-13,Famalicao,Sporting CP,3845,4334,4467,0,1,weekend,5
+3044,2025-09-14,Estrela da Amadora,Vitoria de Guimaraes,4097,5463,3310,0,0,weekend,5
+1358,2025-09-14,Arouca,Casa Pia AC,1960,2216,1150,0,0,weekend,5
+14118,2025-09-14,Braga,Gil Vicente,14979,17483,14866,0,0,weekend,5
+4624,2025-09-19,Rio Ave,FC Porto,2881,2204,4297,0,1,weekend,6
+1529,2025-09-20,Nacional,Arouca,2462,2542,1989,0,0,weekend,6
+1684,2025-09-20,Santa Clara,Alverca,2646,1750,2646,0,0,weekend,6
+5416,2025-09-20,AVS Futebol SAD,Benfica,2304,1702,5473,0,1,weekend,6
+25114,2025-09-20,Vitoria de Guimaraes,Braga,17285,17760,24143,0,0,weekend,6
+1897,2025-09-21,Tondela,Estrela da Amadora,1379,1379,1379,0,0,weekend,6
+7259,2025-09-21,Gil Vicente,Estoril,5126,7859,2987,0,0,weekend,6
+1011,2025-09-21,Casa Pia AC,Famalicao,2763,3225,1044,0,0,weekend,6
+41710,2025-09-22,Sporting CP,Moreirense,37653,47362,40686,1,0,weekday,6
+57059,2025-09-23,Benfica,Rio Ave,57480,61405,56792,1,0,rare,1
+57358,2025-09-26,Benfica,Gil Vicente,57472,59265,58318,1,0,weekend,7
+1821,2025-09-27,Moreirense,Casa Pia AC,2504,2814,1286,0,0,weekend,7
+1808,2025-09-27,Santa Clara,Tondela,2620,1772,2620,0,0,weekend,7
+1712,2025-09-27,Estrela da Amadora,AVS Futebol SAD,4068,4235,6728,0,0,weekend,7
+4882,2025-09-27,Estoril,Sporting CP,2753,2128,4798,0,1,weekend,7
+2877,2025-09-28,Alverca,Vitoria de Guimaraes,3782,3782,3782,0,0,weekend,7
+13502,2025-09-28,Braga,Nacional,14963,15457,7872,0,0,weekend,7
+3865,2025-09-28,Famalicao,Rio Ave,3864,4586,3204,0,0,weekend,7
+4192,2025-09-29,Arouca,FC Porto,1949,1698,3454,0,1,weekday,7
+1145,2025-10-03,Casa Pia AC,Estoril,2730,3114,908,0,0,weekend,8
+4960,2025-10-04,Gil Vicente,Estrela da Amadora,5165,8006,2529,0,0,weekend,8
+1678,2025-10-04,Nacional,Moreirense,2416,2529,1471,0,0,weekend,8
+1100,2025-10-04,AVS Futebol SAD,Alverca,2460,2758,2460,0,0,weekend,8
+14224,2025-10-04,Vitoria de Guimaraes,Santa Clara,17430,19389,13638,0,0,weekend,8
+46331,2025-10-05,Sporting CP,Braga,37728,44881,37272,1,0,weekend,8
+49520,2025-10-05,FC Porto,Benfica,40429,48288,49235,1,1,weekend,8
+1491,2025-10-05,Arouca,Famalicao,1990,2428,1359,0,0,weekend,8
+2066,2025-10-05,Rio Ave,Tondela,2913,3442,2913,0,0,weekend,8
+2008,2025-10-24,Alverca,Gil Vicente,3556,3815,3556,0,0,weekend,9
+1071,2025-10-25,Santa Clara,AVS Futebol SAD,2598,1810,1935,0,0,weekend,9
+60322,2025-10-25,Benfica,Arouca,57470,57975,54854,1,0,weekend,9
+1827,2025-10-25,Estrela da Amadora,Rio Ave,4006,2722,3787,0,0,weekend,9
+4519,2025-10-26,Tondela,Sporting CP,1552,1552,1552,0,1,weekend,9
+11384,2025-10-26,Braga,Casa Pia AC,14937,14233,14906,0,0,weekend,9
+2687,2025-10-26,Estoril,Nacional,2792,2829,2128,0,0,weekend,9
+4384,2025-10-26,Famalicao,Vitoria de Guimaraes,3864,4441,3872,0,0,weekend,9
+5658,2025-10-27,Moreirense,FC Porto,2486,2571,5114,0,1,weekday,9
+31833,2025-10-31,Sporting CP,Alverca,37885,46329,37885,1,0,weekend,10
+1882,2025-11-01,Nacional,Famalicao,2380,2534,1466,0,0,weekend,10
+1214,2025-11-01,Casa Pia AC,Estrela da Amadora,2701,1169,1952,0,0,weekend,10
+2039,2025-11-01,Rio Ave,Estoril,2897,3313,2909,0,0,weekend,10
+26127,2025-11-01,Vitoria de Guimaraes,Benfica,17372,17822,22529,0,1,weekend,10
+1249,2025-11-02,Arouca,Moreirense,1981,2347,896,0,0,weekend,10
+1050,2025-11-02,AVS Futebol SAD,Tondela,2395,2716,2395,0,0,weekend,10
+48473,2025-11-02,FC Porto,Braga,40595,48617,43682,1,0,weekend,10
+5475,2025-11-03,Gil Vicente,Santa Clara,5162,5971,3544,0,0,weekday,10
+1856,2025-11-07,Estoril,Arouca,2790,3107,2232,0,0,weekend,11
+1645,2025-11-08,Alverca,Rio Ave,3246,2307,3246,0,0,weekend,11
+2718,2025-11-08,Tondela,Vitoria de Guimaraes,2294,2881,2294,0,0,weekend,11
+5970,2025-11-08,Santa Clara,Sporting CP,2558,1521,6680,0,1,weekend,11
+1551,2025-11-09,AVS Futebol SAD,Gil Vicente,2334,2522,726,0,0,weekend,11
+2658,2025-11-09,Estrela da Amadora,Nacional,3950,2194,3386,0,0,weekend,11
+4906,2025-11-09,Famalicao,FC Porto,3874,4379,4783,0,1,weekend,11
+56428,2025-11-09,Benfica,Casa Pia AC,57521,58246,58310,1,0,weekend,11
+10290,2025-11-09,Braga,Moreirense,14873,13001,13215,0,0,weekend,11
+11976,2025-11-28,Vitoria de Guimaraes,AVS Futebol SAD,17528,21822,13647,0,0,weekend,12
+1127,2025-11-29,Casa Pia AC,Alverca,2675,1123,2675,0,0,weekend,12
+1999,2025-11-29,Moreirense,Famalicao,2568,3054,2174,0,0,weekend,12
+4826,2025-11-29,Nacional,Benfica,2358,1696,5086,0,1,weekend,12
+4538,2025-11-29,Gil Vicente,Tondela,5167,5898,5167,0,0,weekend,12
+43722,2025-11-30,Sporting CP,Estrela da Amadora,37777,39958,39845,1,0,weekend,12
+45092,2025-11-30,FC Porto,Estoril,40735,48426,32814,1,0,weekend,12
+2098,2025-11-30,Rio Ave,Santa Clara,2882,2910,1452,0,0,weekend,12
+1447,2025-12-01,Arouca,Braga,1968,2311,1835,0,0,weekday,12
+65247,2025-12-05,Benfica,Sporting CP,57502,58036,62646,1,1,weekend,13
+861,2025-12-06,Santa Clara,Casa Pia AC,2645,2950,1902,0,0,weekend,13
+1027,2025-12-06,AVS Futebol SAD,Rio Ave,2300,1234,2151,0,0,weekend,13
+2561,2025-12-06,Famalicao,Braga,3892,4385,4430,0,0,weekend,13
+3019,2025-12-07,Estrela da Amadora,Arouca,3918,2066,3218,0,0,weekend,13
+1964,2025-12-07,Estoril,Moreirense,2773,3142,2004,0,0,weekend,13
+1396,2025-12-07,Alverca,Nacional,2979,2177,2979,0,0,weekend,13
+4133,2025-12-07,Tondela,FC Porto,2378,3045,2378,0,1,weekend,13
+13126,2025-12-08,Vitoria de Guimaraes,Gil Vicente,17431,17442,16392,0,0,weekday,13
+1033,2025-12-13,Casa Pia AC,Gil Vicente,2648,1162,1053,0,0,weekend,14
+2521,2025-12-13,Rio Ave,Vitoria de Guimaraes,2868,2068,3507,0,0,weekend,14
+38713,2025-12-13,Sporting CP,AVS Futebol SAD,37881,40629,43039,1,0,weekend,14
+5518,2025-12-14,Moreirense,Benfica,2553,3159,5740,0,1,weekend,14
+856,2025-12-14,Arouca,Alverca,1959,1396,1959,0,0,weekend,14
+3366,2025-12-14,Famalicao,Estoril,3869,3950,3336,0,0,weekend,14
+31247,2025-12-15,FC Porto,Estrela da Amadora,40812,47695,31364,1,0,weekday,14
+1082,2025-12-15,Nacional,Tondela,2465,2795,2465,0,0,weekday,14
+5369,2025-12-15,Braga,Santa Clara,14793,11725,15672,0,0,weekday,14
+2334,2025-12-19,Estoril,Braga,2760,2169,3323,0,0,weekend,15
+4187,2025-12-20,Gil Vicente,Rio Ave,5156,4991,3181,0,0,weekend,15
+1614,2025-12-20,Estrela da Amadora,Moreirense,3896,2501,3222,0,0,weekend,15
+843,2025-12-21,AVS Futebol SAD,Nacional,2247,1209,1596,0,0,weekend,15
+1673,2025-12-21,Tondela,Casa Pia AC,2671,3790,2671,0,0,weekend,15
+2029,2025-12-21,Santa Clara,Arouca,2600,2634,1353,0,0,weekend,15
+5634,2025-12-22,Alverca,FC Porto,2753,1683,2753,0,1,weekday,15
+57894,2025-12-22,Benfica,Famalicao,57636,60666,56568,1,0,weekday,15
+25097,2025-12-23,Vitoria de Guimaraes,Sporting CP,17357,17076,22933,0,1,rare,15
+3989,2025-12-27,Famalicao,Estrela da Amadora,3860,3611,3103,0,0,weekend,16
+1948,2025-12-27,Estoril,Alverca,2752,2051,2752,0,0,weekend,16
+1903,2025-12-28,Arouca,Gil Vicente,1941,1184,1629,0,0,weekend,16
+1574,2025-12-28,Casa Pia AC,Vitoria de Guimaraes,2620,1125,2760,0,0,weekend,16
+24314,2025-12-28,Braga,Benfica,14630,9014,21709,0,1,weekend,16
+47032,2025-12-28,Sporting CP,Rio Ave,37895,38089,34876,1,0,weekend,16
+48097,2025-12-29,FC Porto,AVS Futebol SAD,40647,41604,37286,1,0,weekday,16
+8956,2026-01-02,Gil Vicente,Sporting CP,5139,4733,9664,0,1,weekend,17
+13955,2026-01-02,Vitoria de Guimaraes,Nacional,17488,16733,17423,0,0,weekend,17
+1812,2026-01-03,Tondela,Arouca,2528,2841,2528,0,0,weekend,17
+59865,2026-01-03,Benfica,Estoril,57640,59856,55857,1,0,weekend,17
+2133,2026-01-03,Estrela da Amadora,Braga,3842,2430,3174,0,0,weekend,17
+1754,2026-01-03,AVS Futebol SAD,Moreirense,2191,1140,2247,0,0,weekend,17
+5338,2026-01-04,Santa Clara,FC Porto,2587,2953,6357,0,1,weekend,17
+1454,2026-01-04,Alverca,Famalicao,3113,2892,3113,0,0,weekend,17
+2067,2026-01-04,Rio Ave,Casa Pia AC,2862,2219,2586,0,0,weekend,17
+2068,2026-01-11,Nacional,Santa Clara,2407,2597,1425,0,0,weekend,16
+1952,2026-01-11,Moreirense,Tondela,2626,4392,2626,0,0,weekend,16
+34975,2026-01-16,Sporting CP,Casa Pia AC,38050,43156,34145,1,0,weekend,18
+5209,2026-01-17,Gil Vicente,Nacional,5204,5894,2643,0,0,weekend,18
+1498,2026-01-17,Alverca,Moreirense,2929,2828,2929,0,0,weekend,18
+987,2026-01-17,AVS Futebol SAD,Arouca,2174,1208,759,0,0,weekend,18
+4435,2026-01-17,Rio Ave,Benfica,2849,2229,4565,0,1,weekend,18
+28526,2026-01-18,Vitoria de Guimaraes,FC Porto,17429,17393,22461,0,1,weekend,18
+1525,2026-01-18,Santa Clara,Famalicao,2652,2743,1618,0,0,weekend,18
+2476,2026-01-18,Tondela,Braga,2439,2539,2439,0,0,weekend,18
+2826,2026-01-19,Estrela da Amadora,Estoril,3802,2255,2690,0,0,weekday,18
+914,2026-01-23,Casa Pia AC,AVS Futebol SAD,2602,1245,1147,0,0,weekend,19
+1290,2026-01-24,Moreirense,Santa Clara,2610,3156,1798,0,0,weekend,19
+3142,2026-01-24,Arouca,Sporting CP,1940,1402,3690,0,1,weekend,19
+2176,2026-01-24,Estoril,Vitoria de Guimaraes,2739,2082,2123,0,0,weekend,19
+1877,2026-01-25,Nacional,Rio Ave,2394,2659,1568,0,0,weekend,19
+54548,2026-01-25,Benfica,Estrela da Amadora,57677,61002,58984,1,0,weekend,19
+2529,2026-01-25,Famalicao,Tondela,3862,3305,3862,0,0,weekend,19
+8410,2026-01-25,Braga,Alverca,14794,13324,14794,0,0,weekend,19
+34273,2026-01-26,FC Porto,Gil Vicente,40773,41479,39980,1,0,weekday,19
+10826,2026-01-30,Vitoria de Guimaraes,Moreirense,17611,22526,16587,0,0,weekend,20
+1845,2026-01-31,Alverca,Estrela da Amadora,2786,2862,2786,0,0,weekend,20
+1162,2026-01-31,Santa Clara,Estoril,2626,2964,1236,0,0,weekend,20
+1842,2026-01-31,Rio Ave,Arouca,2875,3008,2694,0,0,weekend,20
+4568,2026-02-01,Tondela,Benfica,2443,1987,2443,0,1,weekend,20
+5745,2026-02-01,Gil Vicente,Famalicao,5204,6117,4330,0,0,weekend,20
+39984,2026-02-01,Sporting CP,Nacional,37999,40240,42420,1,0,weekend,20
+1140,2026-02-02,AVS Futebol SAD,Braga,2130,1195,2579,0,0,weekday,20
+3296,2026-02-02,Casa Pia AC,FC Porto,2574,1174,5048,0,1,weekday,20
+1498,2026-02-07,Estrela da Amadora,Santa Clara,3780,2191,3481,0,0,weekend,21
+1729,2026-02-07,Moreirense,Gil Vicente,2579,2920,1357,0,0,weekend,21
+2072,2026-02-07,Estoril,Tondela,2730,2153,2730,0,0,weekend,21
+1355,2026-02-07,Arouca,Vitoria de Guimaraes,1960,1967,2659,0,0,weekend,21
+1881,2026-02-08,Nacional,Casa Pia AC,2374,1676,1556,0,0,weekend,21
+10528,2026-02-08,Braga,Rio Ave,14688,12698,12479,0,0,weekend,21
+49311,2026-02-08,Benfica,Alverca,57626,57436,57626,1,0,weekend,21
+1141,2026-02-09,Famalicao,AVS Futebol SAD,3840,3295,4163,0,0,weekday,21
+49378,2026-02-09,FC Porto,Sporting CP,40665,37872,47951,1,1,weekday,21
+7184,2026-02-13,Santa Clara,Benfica,2593,2675,9817,0,1,weekend,22
+1468,2026-02-13,Tondela,Alverca,2655,2952,2655,0,0,weekend,22
+1037,2026-02-14,Casa Pia AC,Arouca,2586,1928,1059,0,0,weekend,22
+13645,2026-02-14,Vitoria de Guimaraes,Estrela da Amadora,17502,17769,16504,0,0,weekend,22

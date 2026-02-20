@@ -1,0 +1,1111 @@
+Round,Date,Day_of_Week,Home,Away,Attendance
+1,2022-08-05,Fri,Benfica,Arouca,53617
+1,2022-08-06,Sat,Rio Ave,Vizela,3038
+1,2022-08-06,Sat,Estoril,Famalicao,1473
+1,2022-08-06,Sat,FC Porto,Maritimo,46309
+1,2022-08-07,Sun,Santa Clara,Casa Pia AC,1785
+1,2022-08-07,Sun,Braga,Sporting CP,17714
+1,2022-08-07,Sun,Chaves,Vitoria de Guimaraes,7526
+1,2022-08-07,Sun,Portimonense,Boavista,2590
+1,2022-08-08,Mon,Gil Vicente,Pacos de Ferreira,4871
+2,2022-08-12,Fri,Famalicao,Braga,4637
+2,2022-08-13,Sat,Casa Pia AC,Benfica,22253
+2,2022-08-13,Sat,Sporting CP,Rio Ave,31760
+2,2022-08-14,Sun,Boavista,Santa Clara,5520
+2,2022-08-14,Sun,Vizela,FC Porto,4679
+2,2022-08-14,Sun,Vitoria de Guimaraes,Estoril,15652
+2,2022-08-15,Mon,Maritimo,Chaves,6827
+2,2022-08-15,Mon,Arouca,Gil Vicente,1759
+2,2022-08-15,Mon,Pacos de Ferreira,Portimonense,2661
+3,2022-08-19,Fri,Estoril,Rio Ave,1742
+3,2022-08-20,Sat,Santa Clara,Arouca,1172
+3,2022-08-20,Sat,Chaves,Vizela,5489
+3,2022-08-20,Sat,FC Porto,Sporting CP,49430
+3,2022-08-21,Sun,Casa Pia AC,Boavista,1136
+3,2022-08-21,Sun,Braga,Maritimo,12358
+3,2022-08-21,Sun,Portimonense,Vitoria de Guimaraes,3032
+3,2022-08-22,Mon,Gil Vicente,Famalicao,4245
+4,2022-08-26,Fri,Pacos de Ferreira,Estoril,2469
+4,2022-08-27,Sat,Maritimo,Portimonense,4785
+4,2022-08-27,Sat,Boavista,Benfica,10939
+4,2022-08-27,Sat,Sporting CP,Chaves,31408
+4,2022-08-28,Sun,Famalicao,Santa Clara,3636
+4,2022-08-28,Sun,Arouca,Braga,2348
+4,2022-08-28,Sun,Rio Ave,FC Porto,3980
+4,2022-08-29,Mon,Vitoria de Guimaraes,Casa Pia AC,14231
+4,2022-08-29,Mon,Vizela,Gil Vicente,2824
+3,2022-08-30,Tue,Benfica,Pacos de Ferreira,55151
+5,2022-09-02,Fri,Benfica,Vizela,47958
+5,2022-09-02,Fri,Estoril,Sporting CP,4718
+5,2022-09-03,Sat,Braga,Vitoria de Guimaraes,21736
+5,2022-09-03,Sat,Gil Vicente,FC Porto,8458
+5,2022-09-04,Sun,Casa Pia AC,Arouca,1022
+5,2022-09-04,Sun,Santa Clara,Maritimo,1012
+5,2022-09-04,Sun,Portimonense,Famalicao,1840
+5,2022-09-05,Mon,Boavista,Pacos de Ferreira,4831
+5,2022-09-05,Mon,Chaves,Rio Ave,2987
+6,2022-09-09,Fri,Vitoria de Guimaraes,Santa Clara,12132
+6,2022-09-10,Sat,Famalicao,Benfica,4867
+6,2022-09-10,Sat,Sporting CP,Portimonense,29782
+6,2022-09-10,Sat,FC Porto,Chaves,44109
+6,2022-09-11,Sun,Pacos de Ferreira,Casa Pia AC,4112
+6,2022-09-11,Sun,Arouca,Boavista,1395
+6,2022-09-11,Sun,Maritimo,Gil Vicente,5032
+6,2022-09-11,Sun,Rio Ave,Braga,3071
+6,2022-09-12,Mon,Vizela,Estoril,2335
+7,2022-09-16,Fri,Portimonense,Chaves,1411
+7,2022-09-17,Sat,Gil Vicente,Rio Ave,2856
+7,2022-09-17,Sat,Santa Clara,Pacos de Ferreira,2123
+7,2022-09-17,Sat,Estoril,FC Porto,4438
+7,2022-09-17,Sat,Boavista,Sporting CP,8480
+7,2022-09-18,Sun,Arouca,Vitoria de Guimaraes,2376
+7,2022-09-18,Sun,Benfica,Maritimo,56889
+7,2022-09-18,Sun,Casa Pia AC,Famalicao,917
+7,2022-09-18,Sun,Braga,Vizela,14181
+8,2022-09-30,Fri,Sporting CP,Gil Vicente,27829
+8,2022-09-30,Fri,FC Porto,Braga,44830
+8,2022-10-01,Sat,Vizela,Portimonense,2435
+8,2022-10-01,Sat,Chaves,Estoril,3345
+8,2022-10-01,Sat,Vitoria de Guimaraes,Benfica,19231
+8,2022-10-02,Sun,Rio Ave,Santa Clara,1984
+8,2022-10-02,Sun,Pacos de Ferreira,Arouca,4431
+8,2022-10-02,Sun,Famalicao,Boavista,3783
+8,2022-10-03,Mon,Maritimo,Casa Pia AC,4484
+9,2022-10-07,Fri,Gil Vicente,Estoril,2516
+9,2022-10-08,Sat,Santa Clara,Sporting CP,4447
+9,2022-10-08,Sat,Benfica,Rio Ave,56176
+9,2022-10-08,Sat,Portimonense,FC Porto,3969
+9,2022-10-08,Sat,Pacos de Ferreira,Vitoria de Guimaraes,5346
+9,2022-10-09,Sun,Boavista,Maritimo,11295
+9,2022-10-09,Sun,Casa Pia AC,Vizela,2912
+9,2022-10-09,Sun,Braga,Chaves,12494
+9,2022-10-10,Mon,Arouca,Famalicao,1018
+10,2022-10-21,Fri,FC Porto,Benfica,49500
+10,2022-10-22,Sat,Famalicao,Pacos de Ferreira,2380
+10,2022-10-22,Sat,Estoril,Braga,2674
+10,2022-10-22,Sat,Sporting CP,Casa Pia AC,26679
+10,2022-10-23,Sun,Maritimo,Arouca,9072
+10,2022-10-23,Sun,Vizela,Santa Clara,2007
+10,2022-10-23,Sun,Chaves,Gil Vicente,2794
+10,2022-10-23,Sun,Vitoria de Guimaraes,Boavista,11359
+10,2022-10-24,Mon,Rio Ave,Portimonense,1693
+11,2022-10-28,Fri,Pacos de Ferreira,Maritimo,3067
+11,2022-10-29,Sat,Santa Clara,FC Porto,5692
+11,2022-10-29,Sat,Benfica,Chaves,54990
+11,2022-10-29,Sat,Arouca,Sporting CP,2364
+11,2022-10-30,Sun,Boavista,Vizela,5764
+11,2022-10-30,Sun,Portimonense,Estoril,1304
+11,2022-10-30,Sun,Casa Pia AC,Rio Ave,1859
+11,2022-10-30,Sun,Gil Vicente,Braga,5627
+11,2022-10-31,Mon,Vitoria de Guimaraes,Famalicao,14968
+12,2022-11-04,Fri,Gil Vicente,Portimonense,2235
+12,2022-11-05,Sat,Vizela,Arouca,2722
+12,2022-11-05,Sat,FC Porto,Pacos de Ferreira,41730
+12,2022-11-05,Sat,Sporting CP,Vitoria de Guimaraes,27324
+12,2022-11-06,Sun,Rio Ave,Boavista,2546
+12,2022-11-06,Sun,Braga,Casa Pia AC,13004
+12,2022-11-06,Sun,Maritimo,Famalicao,9438
+12,2022-11-06,Sun,Estoril,Benfica,4858
+12,2022-11-07,Mon,Chaves,Santa Clara,2224
+13,2022-11-12,Sat,Arouca,Rio Ave,1210
+13,2022-11-12,Sat,Boavista,FC Porto,11335
+13,2022-11-13,Sun,Pacos de Ferreira,Vizela,5182
+13,2022-11-13,Sun,Vitoria de Guimaraes,Maritimo,14920
+13,2022-11-13,Sun,Benfica,Gil Vicente,57266
+13,2022-11-13,Sun,Casa Pia AC,Chaves,1035
+13,2022-11-13,Sun,Portimonense,Braga,1290
+13,2022-11-13,Sun,Famalicao,Sporting CP,3937
+13,2022-11-14,Mon,Santa Clara,Estoril,747
+14,2022-12-23,Fri,Rio Ave,Maritimo,1492
+14,2022-12-28,Wed,Portimonense,Casa Pia AC,1002
+14,2022-12-28,Wed,FC Porto,Arouca,45725
+14,2022-12-29,Thu,Gil Vicente,Santa Clara,2839
+14,2022-12-29,Thu,Sporting CP,Pacos de Ferreira,31005
+14,2022-12-30,Fri,Chaves,Famalicao,2304
+14,2022-12-30,Fri,Vizela,Vitoria de Guimaraes,3820
+14,2022-12-30,Fri,Braga,Benfica,19398
+15,2023-01-05,Thu,Santa Clara,Braga,1591
+15,2023-01-06,Fri,Benfica,Portimonense,50559
+15,2023-01-06,Fri,Famalicao,Vizela,3334
+15,2023-01-07,Sat,Arouca,Estoril,764
+15,2023-01-07,Sat,Vitoria de Guimaraes,Rio Ave,9200
+15,2023-01-07,Sat,Casa Pia AC,FC Porto,8107
+15,2023-01-08,Sun,Pacos de Ferreira,Chaves,2466
+15,2023-01-08,Sun,Maritimo,Sporting CP,9510
+15,2023-01-08,Sun,Boavista,Gil Vicente,3845
+16,2023-01-13,Fri,Portimonense,Santa Clara,762
+16,2023-01-14,Sat,Vizela,Maritimo,2609
+16,2023-01-14,Sat,Rio Ave,Pacos de Ferreira,2310
+16,2023-01-14,Sat,Braga,Boavista,12357
+16,2023-01-15,Sun,Chaves,Arouca,1768
+16,2023-01-15,Sun,Benfica,Sporting CP,62295
+16,2023-01-15,Sun,FC Porto,Famalicao,33313
+16,2023-01-16,Mon,Estoril,Casa Pia AC,1290
+16,2023-01-16,Mon,Gil Vicente,Vitoria de Guimaraes,3088
+17,2023-01-20,Fri,Arouca,Portimonense,839
+17,2023-01-20,Fri,Sporting CP,Vizela,23358
+17,2023-01-21,Sat,Pacos de Ferreira,Braga,5904
+17,2023-01-21,Sat,Santa Clara,Benfica,9701
+17,2023-01-21,Sat,Vitoria de Guimaraes,FC Porto,19653
+17,2023-01-22,Sun,Maritimo,Estoril,9212
+17,2023-01-22,Sun,Casa Pia AC,Gil Vicente,772
+17,2023-01-22,Sun,Famalicao,Rio Ave,3660
+17,2023-01-23,Mon,Boavista,Chaves,4011
+20,2023-01-26,Thu,Pacos de Ferreira,Benfica,8060
+18,2023-01-29,Sun,Casa Pia AC,Santa Clara,1003
+18,2023-01-29,Sun,Vizela,Rio Ave,3519
+18,2023-01-29,Sun,Boavista,Portimonense,4371
+18,2023-01-29,Sun,Famalicao,Estoril,3407
+18,2023-01-30,Mon,Vitoria de Guimaraes,Chaves,9347
+18,2023-01-31,Tue,Pacos de Ferreira,Gil Vicente,2901
+18,2023-01-31,Tue,Arouca,Benfica,4614
+18,2023-02-01,Wed,Maritimo,FC Porto,9624
+18,2023-02-01,Wed,Sporting CP,Braga,26338
+19,2023-02-04,Sat,Santa Clara,Boavista,1680
+19,2023-02-04,Sat,Benfica,Casa Pia AC,58763
+19,2023-02-04,Sat,Estoril,Vitoria de Guimaraes,1624
+19,2023-02-05,Sun,Braga,Famalicao,14331
+19,2023-02-05,Sun,Chaves,Maritimo,2129
+19,2023-02-05,Sun,FC Porto,Vizela,41211
+19,2023-02-05,Sun,Gil Vicente,Arouca,2725
+19,2023-02-06,Mon,Portimonense,Pacos de Ferreira,745
+19,2023-02-06,Mon,Rio Ave,Sporting CP,4125
+14,2023-02-09,Thu,Estoril,Boavista,956
+20,2023-02-10,Fri,Vizela,Chaves,2909
+20,2023-02-11,Sat,Arouca,Santa Clara,857
+20,2023-02-11,Sat,Vitoria de Guimaraes,Portimonense,12956
+20,2023-02-12,Sun,Famalicao,Gil Vicente,4483
+20,2023-02-12,Sun,Sporting CP,FC Porto,39528
+20,2023-02-12,Sun,Maritimo,Braga,9937
+20,2023-02-13,Mon,Rio Ave,Estoril,2654
+20,2023-02-13,Mon,Boavista,Casa Pia AC,3575
+21,2023-02-17,Fri,Gil Vicente,Vizela,3212
+21,2023-02-18,Sat,Estoril,Pacos de Ferreira,2052
+21,2023-02-18,Sat,Portimonense,Maritimo,1572
+21,2023-02-18,Sat,FC Porto,Rio Ave,40629
+21,2023-02-19,Sun,Santa Clara,Famalicao,1618
+21,2023-02-19,Sun,Braga,Arouca,13407
+21,2023-02-19,Sun,Casa Pia AC,Vitoria de Guimaraes,1818
+21,2023-02-20,Mon,Chaves,Sporting CP,4981
+21,2023-02-20,Mon,Benfica,Boavista,56413
+22,2023-02-24,Fri,Famalicao,Portimonense,2965
+22,2023-02-25,Sat,Arouca,Casa Pia AC,1071
+22,2023-02-25,Sat,Maritimo,Santa Clara,9312
+22,2023-02-25,Sat,Vizela,Benfica,5872
+22,2023-02-26,Sun,Rio Ave,Chaves,3244
+22,2023-02-26,Sun,Pacos de Ferreira,Boavista,5406
+22,2023-02-26,Sun,FC Porto,Gil Vicente,35509
+22,2023-02-27,Mon,Sporting CP,Estoril,22313
+22,2023-02-27,Mon,Vitoria de Guimaraes,Braga,19072
+23,2023-03-03,Fri,Boavista,Arouca,4689
+23,2023-03-03,Fri,Benfica,Famalicao,56995
+23,2023-03-04,Sat,Estoril,Vizela,1815
+23,2023-03-04,Sat,Portimonense,Sporting CP,4474
+23,2023-03-04,Sat,Chaves,FC Porto,5568
+23,2023-03-05,Sun,Gil Vicente,Maritimo,5243
+23,2023-03-05,Sun,Santa Clara,Vitoria de Guimaraes,1598
+23,2023-03-05,Sun,Braga,Rio Ave,9456
+23,2023-03-06,Mon,Casa Pia AC,Pacos de Ferreira,530
+24,2023-03-10,Fri,FC Porto,Estoril,29116
+24,2023-03-11,Sat,Chaves,Portimonense,3301
+24,2023-03-11,Sat,Pacos de Ferreira,Santa Clara,3601
+24,2023-03-11,Sat,Vitoria de Guimaraes,Arouca,21717
+24,2023-03-11,Sat,Vizela,Braga,3682
+24,2023-03-12,Sun,Rio Ave,Gil Vicente,3036
+24,2023-03-12,Sun,Maritimo,Benfica,10547
+24,2023-03-12,Sun,Sporting CP,Boavista,27535
+24,2023-03-13,Mon,Famalicao,Casa Pia AC,2729
+25,2023-03-17,Fri,Santa Clara,Rio Ave,912
+25,2023-03-18,Sat,Portimonense,Vizela,1284
+25,2023-03-18,Sat,Arouca,Pacos de Ferreira,1048
+25,2023-03-18,Sat,Benfica,Vitoria de Guimaraes,59374
+25,2023-03-18,Sat,Estoril,Chaves,2178
+25,2023-03-19,Sun,Casa Pia AC,Maritimo,2432
+25,2023-03-19,Sun,Braga,FC Porto,22256
+25,2023-03-19,Sun,Boavista,Famalicao,5530
+26,2023-03-31,Fri,Estoril,Gil Vicente,1612
+26,2023-04-01,Sat,Vizela,Casa Pia AC,3008
+26,2023-04-01,Sat,Vitoria de Guimaraes,Pacos de Ferreira,14784
+26,2023-04-01,Sat,Sporting CP,Santa Clara,31603
+26,2023-04-02,Sun,Chaves,Braga,5454
+26,2023-04-02,Sun,Maritimo,Boavista,9679
+26,2023-04-02,Sun,Rio Ave,Benfica,4134
+26,2023-04-02,Sun,FC Porto,Portimonense,35802
+26,2023-04-03,Mon,Famalicao,Arouca,4030
+25,2023-04-05,Wed,Gil Vicente,Sporting CP,8076
+27,2023-04-07,Fri,Santa Clara,Vizela,802
+27,2023-04-07,Fri,Benfica,FC Porto,62028
+27,2023-04-07,Fri,Boavista,Vitoria de Guimaraes,5756
+27,2023-04-08,Sat,Arouca,Maritimo,1719
+27,2023-04-08,Sat,Pacos de Ferreira,Famalicao,4992
+27,2023-04-08,Sat,Portimonense,Rio Ave,1246
+27,2023-04-08,Sat,Braga,Estoril,15507
+27,2023-04-09,Sun,Casa Pia AC,Sporting CP,10509
+27,2023-04-10,Mon,Gil Vicente,Chaves,3761
+28,2023-04-14,Fri,Famalicao,Vitoria de Guimaraes,4042
+28,2023-04-15,Sat,Estoril,Portimonense,1714
+28,2023-04-15,Sat,Maritimo,Pacos de Ferreira,9093
+28,2023-04-15,Sat,Chaves,Benfica,8297
+28,2023-04-15,Sat,FC Porto,Santa Clara,40708
+28,2023-04-16,Sun,Rio Ave,Casa Pia AC,2752
+28,2023-04-16,Sun,Braga,Gil Vicente,18197
+28,2023-04-16,Sun,Sporting CP,Arouca,25584
+28,2023-04-17,Mon,Vizela,Boavista,3403
+29,2023-04-21,Fri,Casa Pia AC,Braga,1016
+29,2023-04-22,Sat,Famalicao,Maritimo,4044
+29,2023-04-22,Sat,Boavista,Rio Ave,6260
+29,2023-04-22,Sat,Pacos de Ferreira,FC Porto,7852
+29,2023-04-23,Sun,Portimonense,Gil Vicente,1278
+29,2023-04-23,Sun,Benfica,Estoril,58036
+29,2023-04-23,Sun,Santa Clara,Chaves,633
+29,2023-04-23,Sun,Arouca,Vizela,1742
+29,2023-04-24,Mon,Vitoria de Guimaraes,Sporting CP,21893
+30,2023-04-28,Fri,Rio Ave,Arouca,2298
+30,2023-04-29,Sat,Braga,Portimonense,16005
+30,2023-04-29,Sat,Maritimo,Vitoria de Guimaraes,9274
+30,2023-04-29,Sat,Chaves,Casa Pia AC,2451
+30,2023-04-29,Sat,Vizela,Pacos de Ferreira,4423
+30,2023-04-29,Sat,Gil Vicente,Benfica,11694
+30,2023-04-30,Sun,Estoril,Santa Clara,4198
+30,2023-04-30,Sun,FC Porto,Boavista,47925
+30,2023-04-30,Sun,Sporting CP,Famalicao,29443
+31,2023-05-05,Fri,Casa Pia AC,Portimonense,556
+31,2023-05-06,Sat,Santa Clara,Gil Vicente,579
+31,2023-05-06,Sat,Boavista,Estoril,5379
+31,2023-05-06,Sat,Benfica,Braga,60289
+31,2023-05-07,Sun,Maritimo,Rio Ave,8641
+31,2023-05-07,Sun,Vitoria de Guimaraes,Vizela,20031
+31,2023-05-07,Sun,Pacos de Ferreira,Sporting CP,4791
+31,2023-05-08,Mon,Famalicao,Chaves,3681
+31,2023-05-08,Mon,Arouca,FC Porto,4092
+32,2023-05-12,Fri,Gil Vicente,Boavista,3265
+32,2023-05-13,Sat,Chaves,Pacos de Ferreira,2475
+32,2023-05-13,Sat,Vizela,Famalicao,2717
+32,2023-05-13,Sat,Portimonense,Benfica,4404
+32,2023-05-13,Sat,Sporting CP,Maritimo,27130
+32,2023-05-14,Sun,Rio Ave,Vitoria de Guimaraes,4001
+32,2023-05-14,Sun,Braga,Santa Clara,16442
+32,2023-05-14,Sun,FC Porto,Casa Pia AC,35203
+32,2023-05-15,Mon,Estoril,Arouca,2826
+33,2023-05-19,Fri,Maritimo,Vizela,10181
+33,2023-05-20,Sat,Arouca,Chaves,1993
+33,2023-05-20,Sat,Santa Clara,Portimonense,635
+33,2023-05-20,Sat,Boavista,Braga,9265
+33,2023-05-20,Sat,Famalicao,FC Porto,4992
+33,2023-05-21,Sun,Vitoria de Guimaraes,Gil Vicente,22733
+33,2023-05-21,Sun,Casa Pia AC,Estoril,302
+33,2023-05-21,Sun,Pacos de Ferreira,Rio Ave,2032
+33,2023-05-21,Sun,Sporting CP,Benfica,39348
+34,2023-05-26,Fri,Rio Ave,Famalicao,3037
+34,2023-05-26,Fri,Vizela,Sporting CP,3309
+34,2023-05-27,Sat,Gil Vicente,Casa Pia AC,2272
+34,2023-05-27,Sat,Chaves,Boavista,3135
+34,2023-05-27,Sat,Estoril,Maritimo,2736
+34,2023-05-27,Sat,Benfica,Santa Clara,64012
+34,2023-05-27,Sat,FC Porto,Vitoria de Guimaraes,42417
+34,2023-05-27,Sat,Portimonense,Arouca,867
+34,2023-05-27,Sat,Braga,Pacos de Ferreira,14481
+1,2023-08-11,Fri,Braga,Famalicao,19184
+1,2023-08-12,Sat,Gil Vicente,Portimonense,3606
+1,2023-08-12,Sat,Farense,Casa Pia AC,3953
+1,2023-08-12,Sat,Sporting CP,Vizela,37152
+1,2023-08-13,Sun,Rio Ave,Chaves,3044
+1,2023-08-13,Sun,Estrela da Amadora,Vitoria de Guimaraes,4300
+1,2023-08-13,Sun,Arouca,Estoril,1752
+1,2023-08-14,Mon,Moreirense,FC Porto,5674
+1,2023-08-14,Mon,Boavista,Benfica,21320
+2,2023-08-18,Fri,Casa Pia AC,Sporting CP,6981
+2,2023-08-19,Sat,Vitoria de Guimaraes,Gil Vicente,15127
+2,2023-08-19,Sat,Chaves,Braga,5443
+2,2023-08-19,Sat,Benfica,Estrela da Amadora,58479
+2,2023-08-19,Sat,Portimonense,Boavista,2034
+2,2023-08-20,Sun,Estoril,Rio Ave,2359
+2,2023-08-20,Sun,FC Porto,Farense,48129
+2,2023-08-20,Sun,Vizela,Arouca,2620
+2,2023-08-21,Mon,Famalicao,Moreirense,4640
+3,2023-08-25,Fri,Estrela da Amadora,Estoril,3624
+3,2023-08-26,Sat,Arouca,Portimonense,2252
+3,2023-08-26,Sat,Farense,Chaves,3858
+3,2023-08-26,Sat,Gil Vicente,Benfica,11792
+3,2023-08-27,Sun,Boavista,Casa Pia AC,4945
+3,2023-08-27,Sun,Vitoria de Guimaraes,Vizela,18016
+3,2023-08-27,Sun,Sporting CP,Famalicao,40287
+3,2023-08-28,Mon,Rio Ave,FC Porto,4811
+4,2023-09-01,Fri,Vizela,Gil Vicente,2678
+4,2023-09-02,Sat,Casa Pia AC,Rio Ave,3267
+4,2023-09-02,Sat,Famalicao,Farense,4171
+4,2023-09-02,Sat,Portimonense,Estrela da Amadora,2607
+4,2023-09-02,Sat,Benfica,Vitoria de Guimaraes,60410
+4,2023-09-03,Sun,Estoril,Boavista,3056
+4,2023-09-03,Sun,Chaves,Moreirense,2406
+4,2023-09-03,Sun,FC Porto,Arouca,46516
+4,2023-09-03,Sun,Braga,Sporting CP,22781
+3,2023-09-09,Sat,Moreirense,Braga,2875
+5,2023-09-15,Fri,Estrela da Amadora,FC Porto,5976
+5,2023-09-16,Sat,Rio Ave,Famalicao,3075
+5,2023-09-16,Sat,Farense,Braga,5006
+5,2023-09-16,Sat,Vizela,Benfica,5584
+5,2023-09-17,Sun,Arouca,Casa Pia AC,1346
+5,2023-09-17,Sun,Gil Vicente,Estoril,2495
+5,2023-09-17,Sun,Vitoria de Guimaraes,Portimonense,12593
+5,2023-09-17,Sun,Sporting CP,Moreirense,36815
+5,2023-09-18,Mon,Boavista,Chaves,7022
+6,2023-09-22,Fri,Famalicao,Arouca,3678
+6,2023-09-23,Sat,Estoril,Vizela,4258
+6,2023-09-23,Sat,Moreirense,Farense,1695
+6,2023-09-23,Sat,Casa Pia AC,Vitoria de Guimaraes,3830
+6,2023-09-23,Sat,FC Porto,Gil Vicente,37617
+6,2023-09-24,Sun,Chaves,Estrela da Amadora,2420
+6,2023-09-24,Sun,Portimonense,Benfica,4354
+6,2023-09-24,Sun,Braga,Boavista,16394
+6,2023-09-25,Mon,Sporting CP,Rio Ave,34355
+7,2023-09-28,Thu,Estrela da Amadora,Braga,3630
+7,2023-09-29,Fri,Benfica,FC Porto,62247
+7,2023-09-30,Sat,Vizela,Portimonense,2712
+7,2023-09-30,Sat,Boavista,Famalicao,7809
+7,2023-09-30,Sat,Farense,Sporting CP,6020
+7,2023-10-01,Sun,Arouca,Chaves,1765
+7,2023-10-01,Sun,Vitoria de Guimaraes,Estoril,15101
+7,2023-10-01,Sun,Rio Ave,Moreirense,2695
+7,2023-10-02,Mon,Gil Vicente,Casa Pia AC,2702
+8,2023-10-06,Fri,Moreirense,Boavista,2388
+8,2023-10-07,Sat,Chaves,Gil Vicente,2522
+8,2023-10-07,Sat,Farense,Vizela,4811
+8,2023-10-07,Sat,Braga,Rio Ave,16093
+8,2023-10-07,Sat,Estoril,Benfica,4966
+8,2023-10-08,Sun,Casa Pia AC,Estrela da Amadora,2861
+8,2023-10-08,Sun,Famalicao,Vitoria de Guimaraes,4278
+8,2023-10-08,Sun,FC Porto,Portimonense,43230
+8,2023-10-08,Sun,Sporting CP,Arouca,36688
+9,2023-10-27,Fri,Arouca,Moreirense,1037
+9,2023-10-28,Sat,Portimonense,Estoril,1579
+9,2023-10-28,Sat,Benfica,Casa Pia AC,57240
+9,2023-10-28,Sat,Vitoria de Guimaraes,Chaves,12984
+9,2023-10-28,Sat,Gil Vicente,Braga,4504
+9,2023-10-29,Sun,Rio Ave,Farense,1865
+9,2023-10-29,Sun,Estrela da Amadora,Famalicao,3137
+9,2023-10-29,Sun,Vizela,FC Porto,4435
+9,2023-10-30,Mon,Boavista,Sporting CP,12608
+10,2023-11-03,Fri,FC Porto,Estoril,30306
+10,2023-11-04,Sat,Chaves,Benfica,8271
+10,2023-11-04,Sat,Famalicao,Gil Vicente,2239
+10,2023-11-04,Sat,Braga,Portimonense,8929
+10,2023-11-05,Sun,Casa Pia AC,Vizela,1586
+10,2023-11-05,Sun,Moreirense,Vitoria de Guimaraes,4351
+10,2023-11-05,Sun,Rio Ave,Boavista,2866
+10,2023-11-05,Sun,Sporting CP,Estrela da Amadora,38408
+10,2023-11-06,Mon,Farense,Arouca,4237
+11,2023-11-10,Fri,Estoril,Casa Pia AC,2896
+11,2023-11-11,Sat,Portimonense,Chaves,1553
+11,2023-11-11,Sat,Estrela da Amadora,Moreirense,3458
+11,2023-11-11,Sat,Vizela,Famalicao,2235
+11,2023-11-11,Sat,Vitoria de Guimaraes,FC Porto,21353
+11,2023-11-12,Sun,Boavista,Farense,6520
+11,2023-11-12,Sun,Gil Vicente,Rio Ave,3338
+11,2023-11-12,Sun,Arouca,Braga,1525
+11,2023-11-12,Sun,Benfica,Sporting CP,62166
+12,2023-12-01,Fri,Chaves,Vizela,2788
+12,2023-12-02,Sat,Farense,Vitoria de Guimaraes,4955
+12,2023-12-02,Sat,Rio Ave,Estrela da Amadora,2403
+12,2023-12-02,Sat,Famalicao,FC Porto,4858
+12,2023-12-02,Sat,Casa Pia AC,Portimonense,1187
+12,2023-12-03,Sun,Braga,Estoril,12902
+12,2023-12-03,Sun,Moreirense,Benfica,5664
+12,2023-12-03,Sun,Boavista,Arouca,3788
+12,2023-12-04,Mon,Sporting CP,Gil Vicente,33712
+13,2023-12-08,Fri,Vizela,Braga,3785
+13,2023-12-08,Fri,Benfica,Farense,56766
+13,2023-12-09,Sat,Portimonense,Famalicao,1188
+13,2023-12-09,Sat,Vitoria de Guimaraes,Sporting CP,20357
+13,2023-12-09,Sat,FC Porto,Casa Pia AC,29130
+13,2023-12-10,Sun,Estrela da Amadora,Boavista,3732
+13,2023-12-10,Sun,Arouca,Rio Ave,1122
+13,2023-12-10,Sun,Estoril,Chaves,1578
+13,2023-12-11,Mon,Gil Vicente,Moreirense,2382
+14,2023-12-15,Fri,Farense,Estrela da Amadora,4549
+14,2023-12-16,Sat,Rio Ave,Vizela,2538
+14,2023-12-16,Sat,Arouca,Gil Vicente,1386
+14,2023-12-16,Sat,Boavista,Vitoria de Guimaraes,8970
+14,2023-12-17,Sun,Chaves,Casa Pia AC,1980
+14,2023-12-17,Sun,Moreirense,Portimonense,1453
+14,2023-12-17,Sun,Famalicao,Estoril,3599
+14,2023-12-17,Sun,Braga,Benfica,25532
+14,2023-12-18,Mon,Sporting CP,FC Porto,44385
+15,2023-12-23,Sat,Vitoria de Guimaraes,Rio Ave,21021
+15,2023-12-23,Sat,Vizela,Moreirense,4334
+15,2023-12-28,Thu,Estrela da Amadora,Arouca,4352
+15,2023-12-29,Fri,Benfica,Famalicao,58725
+15,2023-12-29,Fri,FC Porto,Chaves,41529
+15,2023-12-30,Sat,Estoril,Farense,2562
+15,2023-12-30,Sat,Gil Vicente,Boavista,4986
+15,2023-12-30,Sat,Casa Pia AC,Braga,4153
+15,2023-12-30,Sat,Portimonense,Sporting CP,4574
+16,2024-01-05,Fri,Sporting CP,Estoril,37483
+16,2024-01-05,Fri,Boavista,FC Porto,13945
+16,2024-01-06,Sat,Estrela da Amadora,Vizela,3086
+16,2024-01-06,Sat,Farense,Gil Vicente,4437
+16,2024-01-06,Sat,Arouca,Benfica,4437
+16,2024-01-06,Sat,Braga,Vitoria de Guimaraes,22385
+16,2024-01-07,Sun,Rio Ave,Portimonense,2593
+16,2024-01-07,Sun,Famalicao,Chaves,2927
+16,2024-01-08,Mon,Moreirense,Casa Pia AC,944
+17,2024-01-12,Fri,Portimonense,Farense,3611
+17,2024-01-13,Sat,Casa Pia AC,Famalicao,1240
+17,2024-01-13,Sat,Chaves,Sporting CP,5690
+17,2024-01-13,Sat,Estoril,Moreirense,1762
+17,2024-01-14,Sun,Gil Vicente,Estrela da Amadora,2349
+17,2024-01-14,Sun,Benfica,Rio Ave,55238
+17,2024-01-14,Sun,Vizela,Boavista,1998
+17,2024-01-14,Sun,FC Porto,Braga,41402
+17,2024-01-15,Mon,Vitoria de Guimaraes,Arouca,11206
+18,2024-01-18,Thu,Famalicao,Braga,3988
+18,2024-01-18,Thu,Vizela,Sporting CP,4386
+18,2024-01-19,Fri,Benfica,Boavista,54345
+18,2024-01-20,Sat,Estoril,Arouca,2184
+18,2024-01-20,Sat,Casa Pia AC,Farense,1726
+18,2024-01-20,Sat,FC Porto,Moreirense,34218
+18,2024-01-21,Sun,Portimonense,Gil Vicente,1946
+18,2024-01-21,Sun,Chaves,Rio Ave,3236
+18,2024-01-21,Sun,Vitoria de Guimaraes,Estrela da Amadora,19033
+19,2024-01-28,Sun,Boavista,Portimonense,6917
+19,2024-01-28,Sun,Moreirense,Famalicao,2327
+19,2024-01-28,Sun,Farense,FC Porto,6356
+19,2024-01-28,Sun,Arouca,Vizela,1151
+19,2024-01-28,Sun,Gil Vicente,Vitoria de Guimaraes,7617
+19,2024-01-29,Mon,Estrela da Amadora,Benfica,6398
+19,2024-01-29,Mon,Sporting CP,Casa Pia AC,32869
+19,2024-01-31,Wed,Rio Ave,Estoril,3058
+19,2024-01-31,Wed,Braga,Chaves,11019
+20,2024-02-03,Sat,Portimonense,Arouca,1657
+20,2024-02-03,Sat,FC Porto,Rio Ave,39330
+20,2024-02-04,Sun,Chaves,Farense,2308
+20,2024-02-04,Sun,Vizela,Vitoria de Guimaraes,5155
+20,2024-02-04,Sun,Benfica,Gil Vicente,58722
+20,2024-02-04,Sun,Estoril,Estrela da Amadora,3486
+20,2024-02-04,Sun,Braga,Moreirense,12275
+20,2024-02-05,Mon,Casa Pia AC,Boavista,1261
+21,2024-02-09,Fri,Estrela da Amadora,Portimonense,1437
+21,2024-02-10,Sat,Farense,Famalicao,4815
+21,2024-02-10,Sat,Moreirense,Chaves,1340
+21,2024-02-10,Sat,Boavista,Estoril,7112
+21,2024-02-11,Sun,Rio Ave,Casa Pia AC,2682
+21,2024-02-11,Sun,Sporting CP,Braga,39851
+21,2024-02-11,Sun,Vitoria de Guimaraes,Benfica,25015
+21,2024-02-12,Mon,Arouca,FC Porto,3157
+21,2024-02-13,Tue,Gil Vicente,Vizela,3958
+22,2024-02-16,Fri,Famalicao,Rio Ave,4173
+22,2024-02-17,Sat,Chaves,Boavista,2315
+22,2024-02-17,Sat,Portimonense,Vitoria de Guimaraes,2144
+22,2024-02-17,Sat,FC Porto,Estrela da Amadora,30613
+22,2024-02-18,Sun,Casa Pia AC,Arouca,1244
+22,2024-02-18,Sun,Benfica,Vizela,56191
+22,2024-02-18,Sun,Estoril,Gil Vicente,3596
+22,2024-02-18,Sun,Braga,Farense,11270
+22,2024-02-19,Mon,Moreirense,Sporting CP,5163
+23,2024-02-23,Fri,Arouca,Famalicao,1361
+23,2024-02-24,Sat,Farense,Moreirense,4646
+23,2024-02-24,Sat,Estrela da Amadora,Chaves,4894
+23,2024-02-24,Sat,Vitoria de Guimaraes,Casa Pia AC,13689
+23,2024-02-25,Sun,Vizela,Estoril,1910
+23,2024-02-25,Sun,Benfica,Portimonense,57201
+23,2024-02-25,Sun,Gil Vicente,FC Porto,7121
+23,2024-02-25,Sun,Rio Ave,Sporting CP,4406
+23,2024-02-26,Mon,Boavista,Braga,8905
+24,2024-03-01,Fri,Chaves,Arouca,1927
+24,2024-03-02,Sat,Moreirense,Rio Ave,1542
+24,2024-03-02,Sat,Estoril,Vitoria de Guimaraes,2086
+24,2024-03-02,Sat,Braga,Estrela da Amadora,9564
+24,2024-03-03,Sun,Casa Pia AC,Gil Vicente,1253
+24,2024-03-03,Sun,Portimonense,Vizela,1610
+24,2024-03-03,Sun,Sporting CP,Farense,39063
+24,2024-03-03,Sun,FC Porto,Benfica,49013
+24,2024-03-04,Mon,Famalicao,Boavista,3198
+25,2024-03-08,Fri,Portimonense,FC Porto,2811
+25,2024-03-08,Fri,Estrela da Amadora,Casa Pia AC,1972
+25,2024-03-09,Sat,Vizela,Farense,2006
+25,2024-03-09,Sat,Boavista,Moreirense,6441
+25,2024-03-09,Sat,Rio Ave,Braga,2753
+25,2024-03-09,Sat,Vitoria de Guimaraes,Famalicao,12909
+25,2024-03-10,Sun,Arouca,Sporting CP,4061
+25,2024-03-10,Sun,Benfica,Estoril,48964
+25,2024-03-11,Mon,Gil Vicente,Chaves,3033
+26,2024-03-15,Fri,Estoril,Portimonense,1870
+26,2024-03-16,Sat,Famalicao,Estrela da Amadora,3490
+26,2024-03-16,Sat,Braga,Gil Vicente,14097
+26,2024-03-16,Sat,Farense,Rio Ave,4713
+26,2024-03-16,Sat,FC Porto,Vizela,30117
+26,2024-03-17,Sun,Chaves,Vitoria de Guimaraes,4005
+26,2024-03-17,Sun,Moreirense,Arouca,1664
+26,2024-03-17,Sun,Casa Pia AC,Benfica,6925
+26,2024-03-17,Sun,Sporting CP,Boavista,38260
+27,2024-03-29,Fri,Gil Vicente,Famalicao,4255
+27,2024-03-29,Fri,Benfica,Chaves,55351
+27,2024-03-29,Fri,Estrela da Amadora,Sporting CP,6764
+27,2024-03-30,Sat,Arouca,Farense,1127
+27,2024-03-30,Sat,Vitoria de Guimaraes,Moreirense,15143
+27,2024-03-30,Sat,Boavista,Rio Ave,7754
+27,2024-03-30,Sat,Estoril,FC Porto,4578
+27,2024-03-31,Sun,Vizela,Casa Pia AC,2235
+27,2024-04-01,Mon,Portimonense,Braga,2204
+28,2024-04-05,Fri,Farense,Boavista,4928
+28,2024-04-06,Sat,Famalicao,Vizela,3713
+28,2024-04-06,Sat,Rio Ave,Gil Vicente,3085
+28,2024-04-06,Sat,Braga,Arouca,13031
+28,2024-04-06,Sat,Sporting CP,Benfica,48113
+28,2024-04-07,Sun,Chaves,Portimonense,2120
+28,2024-04-07,Sun,Moreirense,Estrela da Amadora,1360
+28,2024-04-07,Sun,FC Porto,Vitoria de Guimaraes,34582
+28,2024-04-08,Mon,Casa Pia AC,Estoril,1391
+29,2024-04-12,Fri,Gil Vicente,Sporting CP,11121
+29,2024-04-13,Sat,Vitoria de Guimaraes,Farense,19982
+29,2024-04-13,Sat,FC Porto,Famalicao,30510
+29,2024-04-13,Sat,Estoril,Braga,3639
+29,2024-04-14,Sun,Estrela da Amadora,Rio Ave,5372
+29,2024-04-14,Sun,Arouca,Boavista,2301
+29,2024-04-14,Sun,Portimonense,Casa Pia AC,1683
+29,2024-04-14,Sun,Benfica,Moreirense,49083
+29,2024-04-15,Mon,Vizela,Chaves,2895
+20,2024-04-16,Tue,Famalicao,Sporting CP,4944
+30,2024-04-19,Fri,Rio Ave,Arouca,3225
+30,2024-04-20,Sat,Moreirense,Gil Vicente,1398
+30,2024-04-20,Sat,Boavista,Estrela da Amadora,19263
+30,2024-04-20,Sat,Braga,Vizela,12932
+30,2024-04-21,Sun,Chaves,Estoril,2337
+30,2024-04-21,Sun,Famalicao,Portimonense,3729
+30,2024-04-21,Sun,Casa Pia AC,FC Porto,3387
+30,2024-04-21,Sun,Sporting CP,Vitoria de Guimaraes,46101
+30,2024-04-22,Mon,Farense,Benfica,6309
+31,2024-04-26,Fri,Gil Vicente,Arouca,3401
+31,2024-04-27,Sat,Casa Pia AC,Chaves,1044
+31,2024-04-27,Sat,Vizela,Rio Ave,2423
+31,2024-04-27,Sat,Benfica,Braga,55727
+31,2024-04-27,Sat,Vitoria de Guimaraes,Boavista,16839
+31,2024-04-28,Sun,Portimonense,Moreirense,1810
+31,2024-04-28,Sun,Estoril,Famalicao,3191
+31,2024-04-28,Sun,FC Porto,Sporting CP,45230
+31,2024-04-29,Mon,Estrela da Amadora,Farense,5384
+32,2024-05-03,Fri,Moreirense,Vizela,2108
+32,2024-05-04,Sat,Boavista,Gil Vicente,17465
+32,2024-05-04,Sat,Rio Ave,Vitoria de Guimaraes,3624
+32,2024-05-04,Sat,Sporting CP,Portimonense,49557
+32,2024-05-04,Sat,Chaves,FC Porto,3439
+32,2024-05-05,Sun,Farense,Estoril,5508
+32,2024-05-05,Sun,Arouca,Estrela da Amadora,1079
+32,2024-05-05,Sun,Braga,Casa Pia AC,10894
+32,2024-05-05,Sun,Famalicao,Benfica,4827
+33,2024-05-10,Fri,Chaves,Famalicao,1528
+33,2024-05-11,Sat,Portimonense,Rio Ave,2528
+33,2024-05-11,Sat,Vizela,Estrela da Amadora,1612
+33,2024-05-11,Sat,Estoril,Sporting CP,5018
+33,2024-05-11,Sat,Vitoria de Guimaraes,Braga,25224
+33,2024-05-12,Sun,Gil Vicente,Farense,5831
+33,2024-05-12,Sun,Benfica,Arouca,49364
+33,2024-05-12,Sun,Casa Pia AC,Moreirense,1837
+33,2024-05-12,Sun,FC Porto,Boavista,33031
+34,2024-05-17,Fri,Famalicao,Casa Pia AC,3115
+34,2024-05-17,Fri,Rio Ave,Benfica,4809
+34,2024-05-18,Sat,Arouca,Vitoria de Guimaraes,2208
+34,2024-05-18,Sat,Boavista,Vizela,19874
+34,2024-05-18,Sat,Estrela da Amadora,Gil Vicente,7331
+34,2024-05-18,Sat,Farense,Portimonense,5888
+34,2024-05-18,Sat,Moreirense,Estoril,1697
+34,2024-05-18,Sat,Sporting CP,Chaves,48628
+34,2024-05-18,Sat,Braga,FC Porto,23284
+1,2024-08-09,Fri,Sporting CP,Rio Ave,38513
+1,2024-08-10,Sat,AVS Futebol SAD,Nacional,1596
+1,2024-08-10,Sat,Casa Pia AC,Boavista,1142
+1,2024-08-10,Sat,FC Porto,Gil Vicente,46813
+1,2024-08-11,Sun,Estoril,Santa Clara,1968
+1,2024-08-11,Sun,Famalicao,Benfica,5025
+1,2024-08-11,Sun,Farense,Moreirense,5255
+1,2024-08-11,Sun,Braga,Estrela da Amadora,14746
+1,2024-08-12,Mon,Arouca,Vitoria de Guimaraes,3394
+2,2024-08-16,Fri,Santa Clara,FC Porto,7022
+2,2024-08-16,Fri,Gil Vicente,AVS Futebol SAD,3649
+2,2024-08-17,Sat,Rio Ave,Farense,3177
+2,2024-08-17,Sat,Nacional,Sporting CP,5058
+2,2024-08-17,Sat,Benfica,Casa Pia AC,58926
+2,2024-08-18,Sun,Moreirense,Arouca,1527
+2,2024-08-18,Sun,Vitoria de Guimaraes,Estoril,17331
+2,2024-08-18,Sun,Boavista,Braga,7119
+2,2024-08-19,Mon,Estrela da Amadora,Famalicao,4769
+3,2024-08-23,Fri,Farense,Sporting CP,17793
+3,2024-08-24,Sat,Casa Pia AC,Santa Clara,1188
+3,2024-08-24,Sat,FC Porto,Rio Ave,47113
+3,2024-08-24,Sat,Benfica,Estrela da Amadora,59490
+3,2024-08-24,Sat,Famalicao,Boavista,4769
+3,2024-08-25,Sun,Arouca,Nacional,2081
+3,2024-08-25,Sun,Estoril,Gil Vicente,2010
+3,2024-08-25,Sun,AVS Futebol SAD,Vitoria de Guimaraes,4485
+3,2024-08-25,Sun,Braga,Moreirense,14155
+4,2024-08-30,Fri,Moreirense,Benfica,5817
+4,2024-08-31,Sat,Santa Clara,AVS Futebol SAD,1935
+4,2024-08-31,Sat,Boavista,Estoril,3956
+4,2024-08-31,Sat,Estrela da Amadora,Casa Pia AC,3471
+4,2024-08-31,Sat,Sporting CP,FC Porto,46413
+4,2024-09-01,Sun,Nacional,Farense,2038
+4,2024-09-01,Sun,Rio Ave,Arouca,2558
+4,2024-09-01,Sun,Gil Vicente,Braga,7140
+4,2024-09-01,Sun,Vitoria de Guimaraes,Famalicao,20134
+5,2024-09-13,Fri,Arouca,Sporting CP,4644
+5,2024-09-14,Sat,Casa Pia AC,Moreirense,1248
+5,2024-09-14,Sat,AVS Futebol SAD,Rio Ave,2151
+5,2024-09-14,Sat,Benfica,Santa Clara,60145
+5,2024-09-14,Sat,Famalicao,Gil Vicente,4112
+5,2024-09-15,Sun,FC Porto,Farense,47013
+5,2024-09-15,Sun,Estoril,Nacional,2128
+5,2024-09-15,Sun,Braga,Vitoria de Guimaraes,21215
+5,2024-09-16,Mon,Estrela da Amadora,Boavista,3476
+6,2024-09-20,Fri,Nacional,Braga,2459
+6,2024-09-21,Sat,Rio Ave,Estoril,3014
+6,2024-09-21,Sat,Santa Clara,Estrela da Amadora,2123
+6,2024-09-21,Sat,Vitoria de Guimaraes,FC Porto,26377
+6,2024-09-21,Sat,Moreirense,Famalicao,2022
+6,2024-09-22,Sun,Gil Vicente,Casa Pia AC,3825
+6,2024-09-22,Sun,Farense,Arouca,5057
+6,2024-09-22,Sun,Sporting CP,AVS Futebol SAD,43039
+6,2024-09-23,Mon,Boavista,Benfica,16151
+7,2024-09-27,Fri,Estoril,Sporting CP,4658
+7,2024-09-28,Sat,Estrela da Amadora,Moreirense,2987
+7,2024-09-28,Sat,Casa Pia AC,Vitoria de Guimaraes,2632
+7,2024-09-28,Sat,Benfica,Gil Vicente,58965
+7,2024-09-29,Sun,Famalicao,Nacional,3974
+7,2024-09-29,Sun,FC Porto,Arouca,44209
+7,2024-09-29,Sun,Braga,Rio Ave,11888
+7,2024-09-29,Sun,Santa Clara,Boavista,1320
+7,2024-09-30,Mon,AVS Futebol SAD,Farense,1615
+8,2024-10-04,Fri,Rio Ave,Famalicao,2708
+8,2024-10-05,Sat,Gil Vicente,Estrela da Amadora,2709
+8,2024-10-05,Sat,Moreirense,Santa Clara,1798
+8,2024-10-05,Sat,Arouca,AVS Futebol SAD,1113
+8,2024-10-05,Sat,Sporting CP,Casa Pia AC,42887
+8,2024-10-06,Sun,Farense,Estoril,4921
+8,2024-10-06,Sun,Vitoria de Guimaraes,Boavista,15961
+8,2024-10-06,Sun,FC Porto,Braga,44813
+9,2024-10-25,Fri,Casa Pia AC,Nacional,1004
+9,2024-10-25,Fri,Santa Clara,Gil Vicente,1676
+9,2024-10-26,Sat,Estoril,Arouca,1686
+9,2024-10-26,Sat,Boavista,Moreirense,3697
+9,2024-10-26,Sat,Famalicao,Sporting CP,4520
+9,2024-10-27,Sun,Braga,Farense,12841
+9,2024-10-27,Sun,Benfica,Rio Ave,58961
+9,2024-10-27,Sun,Estrela da Amadora,Vitoria de Guimaraes,2319
+9,2024-10-28,Mon,AVS Futebol SAD,FC Porto,4795
+10,2024-11-01,Fri,Sporting CP,Estrela da Amadora,41282
+10,2024-11-02,Sat,Rio Ave,Casa Pia AC,2323
+10,2024-11-02,Sat,Farense,Benfica,12649
+10,2024-11-02,Sat,Gil Vicente,Boavista,4221
+10,2024-11-03,Sun,AVS Futebol SAD,Famalicao,2429
+10,2024-11-03,Sun,Arouca,Braga,1631
+10,2024-11-03,Sun,Vitoria de Guimaraes,Moreirense,18031
+10,2024-11-03,Sun,FC Porto,Estoril,39019
+10,2024-11-04,Mon,Nacional,Santa Clara,1425
+11,2024-11-08,Fri,Moreirense,Gil Vicente,1316
+11,2024-11-09,Sat,Casa Pia AC,Farense,1202
+11,2024-11-09,Sat,Estoril,AVS Futebol SAD,1912
+11,2024-11-09,Sat,Famalicao,Arouca,3551
+11,2024-11-09,Sat,Boavista,Rio Ave,4495
+11,2024-11-10,Sun,Estrela da Amadora,Nacional,3386
+11,2024-11-10,Sun,Santa Clara,Vitoria de Guimaraes,2512
+11,2024-11-10,Sun,Braga,Sporting CP,20585
+11,2024-11-10,Sun,Benfica,FC Porto,63342
+12,2024-11-29,Fri,Farense,Estrela da Amadora,5178
+12,2024-11-30,Sat,Rio Ave,Moreirense,2009
+12,2024-11-30,Sat,Nacional,Boavista,1516
+12,2024-11-30,Sat,Sporting CP,Santa Clara,41681
+12,2024-12-01,Sun,Estoril,Famalicao,2047
+12,2024-12-01,Sun,Arouca,Benfica,4644
+12,2024-12-01,Sun,AVS Futebol SAD,Braga,2579
+12,2024-12-02,Mon,Vitoria de Guimaraes,Gil Vicente,11317
+12,2024-12-02,Mon,FC Porto,Casa Pia AC,32810
+13,2024-12-05,Thu,Moreirense,Sporting CP,5154
+13,2024-12-06,Fri,Braga,Estoril,9071
+13,2024-12-07,Sat,Gil Vicente,Nacional,2643
+13,2024-12-07,Sat,Benfica,Vitoria de Guimaraes,58839
+13,2024-12-07,Sat,Santa Clara,Rio Ave,1564
+13,2024-12-07,Sat,Famalicao,FC Porto,4499
+13,2024-12-08,Sun,Boavista,Farense,3845
+13,2024-12-08,Sun,Casa Pia AC,AVS Futebol SAD,1147
+13,2024-12-09,Mon,Estrela da Amadora,Arouca,2083
+14,2024-12-14,Sat,Farense,Gil Vicente,4761
+14,2024-12-14,Sat,Nacional,Moreirense,1471
+14,2024-12-14,Sat,Sporting CP,Boavista,34094
+14,2024-12-15,Sun,Arouca,Santa Clara,1307
+14,2024-12-15,Sun,AVS Futebol SAD,Benfica,5473
+14,2024-12-15,Sun,Estoril,Casa Pia AC,1873
+14,2024-12-16,Mon,Braga,Famalicao,8322
+14,2024-12-16,Mon,FC Porto,Estrela da Amadora,32116
+14,2024-12-16,Mon,Rio Ave,Vitoria de Guimaraes,2897
+8,2024-12-19,Thu,Nacional,Benfica,5086
+15,2024-12-20,Fri,Casa Pia AC,Arouca,912
+15,2024-12-21,Sat,Famalicao,Farense,3072
+15,2024-12-21,Sat,Boavista,AVS Futebol SAD,3321
+15,2024-12-21,Sat,Moreirense,FC Porto,4553
+15,2024-12-22,Sun,Santa Clara,Braga,4041
+15,2024-12-22,Sun,Gil Vicente,Sporting CP,9794
+15,2024-12-23,Mon,Benfica,Estoril,60572
+15,2024-12-23,Mon,Vitoria de Guimaraes,Nacional,17423
+15,2024-12-23,Mon,Estrela da Amadora,Rio Ave,2202
+16,2024-12-27,Fri,Arouca,Gil Vicente,1743
+16,2024-12-28,Sat,AVS Futebol SAD,Estrela da Amadora,1262
+16,2024-12-28,Sat,Estoril,Moreirense,2246
+16,2024-12-28,Sat,FC Porto,Boavista,47509
+16,2024-12-29,Sun,Farense,Vitoria de Guimaraes,6012
+16,2024-12-29,Sun,Rio Ave,Nacional,2729
+16,2024-12-29,Sun,Braga,Casa Pia AC,20819
+16,2024-12-29,Sun,Sporting CP,Benfica,48076
+16,2024-12-30,Mon,Famalicao,Santa Clara,3818
+17,2025-01-03,Fri,Vitoria de Guimaraes,Sporting CP,26549
+17,2025-01-04,Sat,Moreirense,AVS Futebol SAD,2327
+17,2025-01-04,Sat,Benfica,Braga,61750
+17,2025-01-04,Sat,Boavista,Arouca,3559
+17,2025-01-05,Sun,Santa Clara,Farense,2291
+17,2025-01-05,Sun,Casa Pia AC,Famalicao,974
+17,2025-01-05,Sun,Estrela da Amadora,Estoril,1756
+17,2025-01-06,Mon,Gil Vicente,Rio Ave,3348
+17,2025-01-12,Sun,Nacional,FC Porto,4466
+18,2025-01-17,Fri,Benfica,Famalicao,53985
+18,2025-01-18,Sat,Santa Clara,Estoril,1724
+18,2025-01-18,Sat,Rio Ave,Sporting CP,4756
+18,2025-01-18,Sat,Vitoria de Guimaraes,Arouca,13916
+18,2025-01-19,Sun,Moreirense,Farense,1369
+18,2025-01-19,Sun,Nacional,AVS Futebol SAD,2061
+18,2025-01-19,Sun,Estrela da Amadora,Braga,2719
+18,2025-01-19,Sun,Gil Vicente,FC Porto,7412
+18,2025-01-20,Mon,Boavista,Casa Pia AC,2178
+19,2025-01-24,Fri,Arouca,Moreirense,756
+19,2025-01-25,Sat,Famalicao,Estrela da Amadora,2716
+19,2025-01-25,Sat,Farense,Rio Ave,5200
+19,2025-01-25,Sat,Casa Pia AC,Benfica,7051
+19,2025-01-25,Sat,Sporting CP,Nacional,42420
+19,2025-01-26,Sun,Estoril,Vitoria de Guimaraes,2660
+19,2025-01-26,Sun,FC Porto,Santa Clara,27793
+19,2025-01-26,Sun,Braga,Boavista,4265
+19,2025-01-27,Mon,AVS Futebol SAD,Gil Vicente,726
+20,2025-01-31,Fri,Boavista,Famalicao,2904
+20,2025-02-01,Sat,Nacional,Arouca,1989
+20,2025-02-01,Sat,Santa Clara,Casa Pia AC,2019
+20,2025-02-01,Sat,Gil Vicente,Estoril,3949
+20,2025-02-01,Sat,Vitoria de Guimaraes,AVS Futebol SAD,13647
+20,2025-02-02,Sun,Sporting CP,Farense,43023
+20,2025-02-02,Sun,Estrela da Amadora,Benfica,6243
+20,2025-02-03,Mon,Moreirense,Braga,2175
+20,2025-02-03,Mon,Rio Ave,FC Porto,4100
+21,2025-02-07,Fri,FC Porto,Sporting CP,49193
+21,2025-02-08,Sat,AVS Futebol SAD,Santa Clara,1135
+21,2025-02-08,Sat,Benfica,Moreirense,58189
+21,2025-02-08,Sat,Famalicao,Vitoria de Guimaraes,3297
+21,2025-02-09,Sun,Estoril,Boavista,3064
+21,2025-02-09,Sun,Farense,Nacional,5830
+21,2025-02-09,Sun,Braga,Gil Vicente,12304
+21,2025-02-09,Sun,Casa Pia AC,Estrela da Amadora,1042
+21,2025-02-10,Mon,Arouca,Rio Ave,1245
+22,2025-02-14,Fri,Boavista,Estrela da Amadora,4494
+22,2025-02-15,Sat,Moreirense,Casa Pia AC,1629
+22,2025-02-15,Sat,Nacional,Estoril,1784
+22,2025-02-15,Sat,Santa Clara,Benfica,9933
+22,2025-02-15,Sat,Sporting CP,Arouca,39258
+22,2025-02-16,Sun,Rio Ave,AVS Futebol SAD,2206
+22,2025-02-16,Sun,Farense,FC Porto,15302
+22,2025-02-16,Sun,Vitoria de Guimaraes,Braga,28133
+22,2025-02-17,Mon,Gil Vicente,Famalicao,4490
+23,2025-02-21,Fri,Braga,Nacional,7872
+23,2025-02-22,Sat,Casa Pia AC,Gil Vicente,1135
+23,2025-02-22,Sat,Benfica,Boavista,58022
+23,2025-02-22,Sat,Estoril,Rio Ave,2721
+23,2025-02-23,Sun,Arouca,Farense,1705
+23,2025-02-23,Sun,Estrela da Amadora,Santa Clara,3481
+23,2025-02-23,Sun,AVS Futebol SAD,Sporting CP,4262
+23,2025-02-23,Sun,Famalicao,Moreirense,3641
+23,2025-02-24,Mon,FC Porto,Vitoria de Guimaraes,44142
+24,2025-03-01,Sat,Nacional,Famalicao,1466
+24,2025-03-01,Sat,Arouca,FC Porto,3114
+24,2025-03-01,Sat,Vitoria de Guimaraes,Casa Pia AC,14798
+24,2025-03-02,Sun,Boavista,Santa Clara,5864
+24,2025-03-02,Sun,Moreirense,Estrela da Amadora,1498
+24,2025-03-02,Sun,Farense,AVS Futebol SAD,5967
+24,2025-03-02,Sun,Rio Ave,Braga,3234
+24,2025-03-03,Mon,Sporting CP,Estoril,36505
+25,2025-03-07,Fri,Estrela da Amadora,Gil Vicente,1945
+25,2025-03-08,Sat,AVS Futebol SAD,Arouca,759
+25,2025-03-08,Sat,Benfica,Nacional,52543
+25,2025-03-08,Sat,Estoril,Farense,1487
+25,2025-03-08,Sat,Braga,FC Porto,15922
+25,2025-03-09,Sun,Casa Pia AC,Sporting CP,6823
+25,2025-03-09,Sun,Boavista,Vitoria de Guimaraes,16820
+25,2025-03-10,Mon,Famalicao,Rio Ave,1780
+26,2025-03-15,Sat,Farense,Braga,6064
+26,2025-03-15,Sat,Gil Vicente,Santa Clara,4248
+26,2025-03-15,Sat,FC Porto,AVS Futebol SAD,37286
+26,2025-03-15,Sat,Sporting CP,Famalicao,41791
+26,2025-03-16,Sun,Arouca,Estoril,1643
+26,2025-03-16,Sun,Nacional,Casa Pia AC,1556
+26,2025-03-16,Sun,Rio Ave,Benfica,4753
+26,2025-03-16,Sun,Moreirense,Boavista,1521
+26,2025-03-16,Sun,Vitoria de Guimaraes,Estrela da Amadora,13974
+24,2025-03-28,Fri,Gil Vicente,Benfica,11010
+27,2025-03-29,Sat,Casa Pia AC,Rio Ave,1206
+27,2025-03-29,Sat,Estrela da Amadora,Sporting CP,7031
+27,2025-03-29,Sat,Braga,Arouca,12122
+27,2025-03-30,Sun,Famalicao,AVS Futebol SAD,4163
+27,2025-03-30,Sun,Santa Clara,Nacional,2038
+27,2025-03-30,Sun,Estoril,FC Porto,4762
+27,2025-03-30,Sun,Moreirense,Vitoria de Guimaraes,3795
+27,2025-04-01,Tue,Boavista,Gil Vicente,4731
+27,2025-04-02,Wed,Benfica,Farense,51790
+28,2025-04-04,Fri,AVS Futebol SAD,Estoril,743
+28,2025-04-05,Sat,Arouca,Famalicao,1699
+28,2025-04-05,Sat,Vitoria de Guimaraes,Santa Clara,15143
+28,2025-04-06,Sun,Gil Vicente,Moreirense,5981
+28,2025-04-06,Sun,Nacional,Estrela da Amadora,1872
+28,2025-04-06,Sun,FC Porto,Benfica,49193
+28,2025-04-07,Mon,Farense,Casa Pia AC,5527
+28,2025-04-07,Mon,Rio Ave,Boavista,1060
+28,2025-04-07,Mon,Sporting CP,Braga,45626
+29,2025-04-11,Fri,Gil Vicente,Vitoria de Guimaraes,6588
+29,2025-04-12,Sat,Boavista,Nacional,6280
+29,2025-04-12,Sat,Famalicao,Estoril,3003
+29,2025-04-12,Sat,Santa Clara,Sporting CP,8914
+29,2025-04-12,Sat,Casa Pia AC,FC Porto,3649
+29,2025-04-13,Sun,Estrela da Amadora,Farense,4103
+29,2025-04-13,Sun,Benfica,Arouca,61581
+29,2025-04-13,Sun,Braga,AVS Futebol SAD,14529
+29,2025-04-13,Sun,Moreirense,Rio Ave,1388
+30,2025-04-18,Fri,Farense,Boavista,6171
+30,2025-04-18,Fri,Rio Ave,Santa Clara,921
+30,2025-04-18,Fri,FC Porto,Famalicao,39286
+30,2025-04-18,Fri,Sporting CP,Moreirense,44558
+30,2025-04-19,Sat,AVS Futebol SAD,Casa Pia AC,2057
+30,2025-04-19,Sat,Nacional,Gil Vicente,2998
+30,2025-04-19,Sat,Arouca,Estrela da Amadora,1227
+30,2025-04-19,Sat,Estoril,Braga,3656
+30,2025-04-19,Sat,Vitoria de Guimaraes,Benfica,23341
+31,2025-04-25,Fri,Famalicao,Braga,4665
+31,2025-04-26,Sat,Santa Clara,Arouca,1534
+31,2025-04-26,Sat,Gil Vicente,Farense,5611
+31,2025-04-26,Sat,Estrela da Amadora,FC Porto,4273
+31,2025-04-27,Sun,Moreirense,Nacional,1214
+31,2025-04-27,Sun,Benfica,AVS Futebol SAD,58102
+31,2025-04-27,Sun,Vitoria de Guimaraes,Rio Ave,17304
+31,2025-04-27,Sun,Boavista,Sporting CP,18322
+31,2025-04-29,Tue,Casa Pia AC,Estoril,1032
+32,2025-05-02,Fri,FC Porto,Moreirense,27374
+32,2025-05-03,Sat,Farense,Famalicao,4171
+32,2025-05-03,Sat,Nacional,Vitoria de Guimaraes,1911
+32,2025-05-03,Sat,Braga,Santa Clara,14901
+32,2025-05-03,Sat,Estoril,Benfica,5026
+32,2025-05-04,Sun,Arouca,Casa Pia AC,1032
+32,2025-05-04,Sun,Sporting CP,Gil Vicente,44666
+32,2025-05-05,Mon,Rio Ave,Estrela da Amadora,689
+32,2025-05-05,Mon,AVS Futebol SAD,Boavista,2605
+33,2025-05-10,Sat,Nacional,Rio Ave,1568
+33,2025-05-10,Sat,Santa Clara,Famalicao,1618
+33,2025-05-10,Sat,Benfica,Sporting CP,63478
+33,2025-05-10,Sat,Casa Pia AC,Braga,1342
+33,2025-05-10,Sat,Gil Vicente,Arouca,6819
+33,2025-05-11,Sun,Estrela da Amadora,AVS Futebol SAD,6728
+33,2025-05-11,Sun,Moreirense,Estoril,1472
+33,2025-05-11,Sun,Vitoria de Guimaraes,Farense,20226
+33,2025-05-11,Sun,Boavista,FC Porto,14860
+34,2025-05-16,Fri,Famalicao,Casa Pia AC,4130
+34,2025-05-16,Fri,Rio Ave,Gil Vicente,909
+34,2025-05-17,Sat,Arouca,Boavista,2911
+34,2025-05-17,Sat,AVS Futebol SAD,Moreirense,2247
+34,2025-05-17,Sat,Braga,Benfica,20198
+34,2025-05-17,Sat,Estoril,Estrela da Amadora,2386
+34,2025-05-17,Sat,Farense,Santa Clara,5954
+34,2025-05-17,Sat,FC Porto,Nacional,34674
+34,2025-05-17,Sat,Sporting CP,Vitoria de Guimaraes,49155
+1,2025-08-08,Fri,Casa Pia AC,Sporting CP,6981
+1,2025-08-09,Sat,Nacional,Gil Vicente,1663
+1,2025-08-09,Sat,Arouca,AVS Futebol SAD,2003
+1,2025-08-10,Sun,Famalicao,Santa Clara,4300
+1,2025-08-10,Sun,Braga,Tondela,17174
+1,2025-08-10,Sun,Moreirense,Alverca,2550
+1,2025-08-11,Mon,Estoril,Estrela da Amadora,2781
+1,2025-08-11,Mon,FC Porto,Vitoria de Guimaraes,48534
+2,2025-08-15,Fri,AVS Futebol SAD,Casa Pia AC,1225
+2,2025-08-16,Sat,Tondela,Famalicao,532
+2,2025-08-16,Sat,Vitoria de Guimaraes,Estoril,18926
+2,2025-08-16,Sat,Estrela da Amadora,Benfica,6249
+2,2025-08-17,Sun,Rio Ave,Nacional,2452
+2,2025-08-17,Sun,Alverca,Braga,2776
+2,2025-08-17,Sun,Santa Clara,Moreirense,1695
+2,2025-08-17,Sun,Sporting CP,Arouca,41986
+2,2025-08-18,Mon,Gil Vicente,FC Porto,11066
+3,2025-08-23,Sat,Moreirense,Vitoria de Guimaraes,4210
+3,2025-08-23,Sat,Nacional,Sporting CP,4394
+3,2025-08-23,Sat,Arouca,Rio Ave,1733
+3,2025-08-23,Sat,Benfica,Tondela,61229
+3,2025-08-24,Sun,Famalicao,Gil Vicente,4571
+3,2025-08-24,Sun,FC Porto,Casa Pia AC,49045
+3,2025-08-24,Sun,Braga,AVS Futebol SAD,15078
+3,2025-08-25,Mon,Estrela da Amadora,Alverca,3411
+4,2025-08-29,Fri,Gil Vicente,Moreirense,5693
+4,2025-08-30,Sat,Casa Pia AC,Nacional,1351
+4,2025-08-30,Sat,AVS Futebol SAD,Famalicao,1633
+4,2025-08-30,Sat,Vitoria de Guimaraes,Arouca,14128
+4,2025-08-30,Sat,Sporting CP,FC Porto,50946
+4,2025-08-31,Sun,Tondela,Estoril,2226
+4,2025-08-31,Sun,Alverca,Benfica,6532
+4,2025-08-31,Sun,Rio Ave,Braga,3250
+4,2025-08-31,Sun,Santa Clara,Estrela da Amadora,1938
+3,2025-09-06,Sat,Estoril,Santa Clara,1852
+5,2025-09-12,Fri,Alverca,Tondela,2037
+5,2025-09-12,Fri,Benfica,Santa Clara,59507
+5,2025-09-13,Sat,Estoril,AVS Futebol SAD,1752
+5,2025-09-13,Sat,Moreirense,Rio Ave,1683
+5,2025-09-13,Sat,FC Porto,Nacional,47285
+5,2025-09-13,Sat,Famalicao,Sporting CP,4887
+5,2025-09-14,Sun,Estrela da Amadora,Vitoria de Guimaraes,3044
+5,2025-09-14,Sun,Arouca,Casa Pia AC,1358
+5,2025-09-14,Sun,Braga,Gil Vicente,14118
+6,2025-09-19,Fri,Rio Ave,FC Porto,4624
+6,2025-09-20,Sat,Nacional,Arouca,1529
+6,2025-09-20,Sat,Santa Clara,Alverca,1684
+6,2025-09-20,Sat,AVS Futebol SAD,Benfica,5416
+6,2025-09-20,Sat,Vitoria de Guimaraes,Braga,25114
+6,2025-09-21,Sun,Tondela,Estrela da Amadora,1897
+6,2025-09-21,Sun,Gil Vicente,Estoril,7259
+6,2025-09-21,Sun,Casa Pia AC,Famalicao,1011
+6,2025-09-22,Mon,Sporting CP,Moreirense,41710
+1,2025-09-23,Tue,Benfica,Rio Ave,57059
+7,2025-09-26,Fri,Benfica,Gil Vicente,57358
+7,2025-09-27,Sat,Moreirense,Casa Pia AC,1821
+7,2025-09-27,Sat,Santa Clara,Tondela,1808
+7,2025-09-27,Sat,Estrela da Amadora,AVS Futebol SAD,1712
+7,2025-09-27,Sat,Estoril,Sporting CP,4882
+7,2025-09-28,Sun,Alverca,Vitoria de Guimaraes,2877
+7,2025-09-28,Sun,Braga,Nacional,13502
+7,2025-09-28,Sun,Famalicao,Rio Ave,3865
+7,2025-09-29,Mon,Arouca,FC Porto,4192
+8,2025-10-03,Fri,Casa Pia AC,Estoril,1145
+8,2025-10-04,Sat,Gil Vicente,Estrela da Amadora,4960
+8,2025-10-04,Sat,Nacional,Moreirense,1678
+8,2025-10-04,Sat,AVS Futebol SAD,Alverca,1100
+8,2025-10-04,Sat,Vitoria de Guimaraes,Santa Clara,14224
+8,2025-10-05,Sun,Arouca,Famalicao,1491
+8,2025-10-05,Sun,Rio Ave,Tondela,2066
+8,2025-10-05,Sun,Sporting CP,Braga,46331
+8,2025-10-05,Sun,FC Porto,Benfica,49520
+9,2025-10-24,Fri,Alverca,Gil Vicente,2008
+9,2025-10-25,Sat,Santa Clara,AVS Futebol SAD,1071
+9,2025-10-25,Sat,Benfica,Arouca,60322
+9,2025-10-25,Sat,Estrela da Amadora,Rio Ave,1827
+9,2025-10-26,Sun,Estoril,Nacional,2687
+9,2025-10-26,Sun,Famalicao,Vitoria de Guimaraes,4384
+9,2025-10-26,Sun,Tondela,Sporting CP,4519
+9,2025-10-26,Sun,Braga,Casa Pia AC,11384
+9,2025-10-27,Mon,Moreirense,FC Porto,5658
+10,2025-10-31,Fri,Sporting CP,Alverca,31833
+10,2025-11-01,Sat,Nacional,Famalicao,1882
+10,2025-11-01,Sat,Casa Pia AC,Estrela da Amadora,1214
+10,2025-11-01,Sat,Rio Ave,Estoril,2039
+10,2025-11-01,Sat,Vitoria de Guimaraes,Benfica,26127
+10,2025-11-02,Sun,AVS Futebol SAD,Tondela,1050
+10,2025-11-02,Sun,Arouca,Moreirense,1249
+10,2025-11-02,Sun,FC Porto,Braga,48473
+10,2025-11-03,Mon,Gil Vicente,Santa Clara,5475
+11,2025-11-07,Fri,Estoril,Arouca,1856
+11,2025-11-08,Sat,Alverca,Rio Ave,1645
+11,2025-11-08,Sat,Tondela,Vitoria de Guimaraes,2718
+11,2025-11-08,Sat,Santa Clara,Sporting CP,5970
+11,2025-11-09,Sun,AVS Futebol SAD,Gil Vicente,1551
+11,2025-11-09,Sun,Estrela da Amadora,Nacional,2658
+11,2025-11-09,Sun,Famalicao,FC Porto,4906
+11,2025-11-09,Sun,Benfica,Casa Pia AC,56428
+11,2025-11-09,Sun,Braga,Moreirense,10290
+12,2025-11-28,Fri,Vitoria de Guimaraes,AVS Futebol SAD,11976
+12,2025-11-29,Sat,Casa Pia AC,Alverca,1127
+12,2025-11-29,Sat,Moreirense,Famalicao,1999
+12,2025-11-29,Sat,Nacional,Benfica,4826
+12,2025-11-29,Sat,Gil Vicente,Tondela,4538
+12,2025-11-30,Sun,Rio Ave,Santa Clara,2098
+12,2025-11-30,Sun,Sporting CP,Estrela da Amadora,43722
+12,2025-11-30,Sun,FC Porto,Estoril,45092
+12,2025-12-01,Mon,Arouca,Braga,1447
+13,2025-12-05,Fri,Benfica,Sporting CP,65247
+13,2025-12-06,Sat,Santa Clara,Casa Pia AC,861
+13,2025-12-06,Sat,AVS Futebol SAD,Rio Ave,1027
+13,2025-12-06,Sat,Famalicao,Braga,2561
+13,2025-12-07,Sun,Estoril,Moreirense,1964
+13,2025-12-07,Sun,Alverca,Nacional,1396
+13,2025-12-07,Sun,Estrela da Amadora,Arouca,3019
+13,2025-12-07,Sun,Tondela,FC Porto,4133
+13,2025-12-08,Mon,Vitoria de Guimaraes,Gil Vicente,13126
+14,2025-12-13,Sat,Casa Pia AC,Gil Vicente,1033
+14,2025-12-13,Sat,Rio Ave,Vitoria de Guimaraes,2521
+14,2025-12-13,Sat,Sporting CP,AVS Futebol SAD,38713
+14,2025-12-14,Sun,Famalicao,Estoril,3366
+14,2025-12-14,Sun,Moreirense,Benfica,5518
+14,2025-12-14,Sun,Arouca,Alverca,856
+14,2025-12-15,Mon,Nacional,Tondela,1082
+14,2025-12-15,Mon,Braga,Santa Clara,5369
+14,2025-12-15,Mon,FC Porto,Estrela da Amadora,31247
+15,2025-12-19,Fri,Estoril,Braga,2334
+15,2025-12-20,Sat,Gil Vicente,Rio Ave,4187
+15,2025-12-20,Sat,Estrela da Amadora,Moreirense,1614
+15,2025-12-21,Sun,AVS Futebol SAD,Nacional,843
+15,2025-12-21,Sun,Tondela,Casa Pia AC,1673
+15,2025-12-21,Sun,Santa Clara,Arouca,2029
+15,2025-12-22,Mon,Alverca,FC Porto,5634
+15,2025-12-22,Mon,Benfica,Famalicao,57894
+15,2025-12-23,Tue,Vitoria de Guimaraes,Sporting CP,25097
+16,2025-12-27,Sat,Famalicao,Estrela da Amadora,3989
+16,2025-12-27,Sat,Estoril,Alverca,1948
+16,2025-12-28,Sun,Arouca,Gil Vicente,1903
+16,2025-12-28,Sun,Casa Pia AC,Vitoria de Guimaraes,1574
+16,2025-12-28,Sun,Braga,Benfica,24314
+16,2025-12-28,Sun,Sporting CP,Rio Ave,47032
+16,2025-12-29,Mon,FC Porto,AVS Futebol SAD,48097
+17,2026-01-02,Fri,Gil Vicente,Sporting CP,8956
+17,2026-01-02,Fri,Vitoria de Guimaraes,Nacional,13955
+17,2026-01-03,Sat,Tondela,Arouca,1812
+17,2026-01-03,Sat,Benfica,Estoril,59865
+17,2026-01-03,Sat,Estrela da Amadora,Braga,2133
+17,2026-01-03,Sat,AVS Futebol SAD,Moreirense,1754
+17,2026-01-04,Sun,Rio Ave,Casa Pia AC,2067
+17,2026-01-04,Sun,Santa Clara,FC Porto,5338
+17,2026-01-04,Sun,Alverca,Famalicao,1454
+16,2026-01-11,Sun,Nacional,Santa Clara,2068
+16,2026-01-11,Sun,Moreirense,Tondela,1952
+18,2026-01-16,Fri,Sporting CP,Casa Pia AC,34975
+18,2026-01-17,Sat,Gil Vicente,Nacional,5209
+18,2026-01-17,Sat,Alverca,Moreirense,1498
+18,2026-01-17,Sat,AVS Futebol SAD,Arouca,987
+18,2026-01-17,Sat,Rio Ave,Benfica,4435
+18,2026-01-18,Sun,Santa Clara,Famalicao,1525
+18,2026-01-18,Sun,Tondela,Braga,2476
+18,2026-01-18,Sun,Vitoria de Guimaraes,FC Porto,28526
+18,2026-01-19,Mon,Estrela da Amadora,Estoril,2826
+19,2026-01-23,Fri,Casa Pia AC,AVS Futebol SAD,914
+19,2026-01-24,Sat,Moreirense,Santa Clara,1290
+19,2026-01-24,Sat,Arouca,Sporting CP,3142
+19,2026-01-24,Sat,Estoril,Vitoria de Guimaraes,2176
+19,2026-01-25,Sun,Nacional,Rio Ave,1877
+19,2026-01-25,Sun,Benfica,Estrela da Amadora,54548
+19,2026-01-25,Sun,Famalicao,Tondela,2529
+19,2026-01-25,Sun,Braga,Alverca,8410
+19,2026-01-26,Mon,FC Porto,Gil Vicente,34273
+20,2026-01-30,Fri,Vitoria de Guimaraes,Moreirense,10826
+20,2026-01-31,Sat,Santa Clara,Estoril,1162
+20,2026-01-31,Sat,Rio Ave,Arouca,1842
+20,2026-01-31,Sat,Alverca,Estrela da Amadora,1845
+20,2026-02-01,Sun,Gil Vicente,Famalicao,5745
+20,2026-02-01,Sun,Sporting CP,Nacional,39984
+20,2026-02-01,Sun,Tondela,Benfica,4568
+20,2026-02-02,Mon,AVS Futebol SAD,Braga,1140
+20,2026-02-02,Mon,Casa Pia AC,FC Porto,3296
+21,2026-02-07,Sat,Estrela da Amadora,Santa Clara,1498
+21,2026-02-07,Sat,Moreirense,Gil Vicente,1729
+21,2026-02-07,Sat,Estoril,Tondela,2072
+21,2026-02-07,Sat,Arouca,Vitoria de Guimaraes,1355
+21,2026-02-08,Sun,Nacional,Casa Pia AC,1881
+21,2026-02-08,Sun,Braga,Rio Ave,10528
+21,2026-02-08,Sun,Benfica,Alverca,49311
+21,2026-02-09,Mon,Famalicao,AVS Futebol SAD,1141
+21,2026-02-09,Mon,FC Porto,Sporting CP,49378
+22,2026-02-13,Fri,Santa Clara,Benfica,7184
+22,2026-02-13,Fri,Tondela,Alverca,1468
+22,2026-02-14,Sat,Casa Pia AC,Arouca,1037
+22,2026-02-14,Sat,Vitoria de Guimaraes,Estrela da Amadora,13645
